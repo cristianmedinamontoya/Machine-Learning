@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user,Id
+Kosmopolit,No One is Illegal,Russkaja,2019-03-29,235490,38,0.000364,0.615,0.785,0.000126,0.242,-4.746,0.0314,123.982,0.566,4,10,0,spotify:track:6q2AmVux0BhUL7v3VqPxKF,2019,2021,alpha,C28
+Minnie the Moocher,Minnie the Moocher,Pisk,2017-06-16,221058,47,0.0383,0.715,0.905,0.00233,0.302,-6.024,0.0835,125.96,0.562,4,7,0,spotify:track:0JANCc1DhGuwOBnfaZNzaK,2017,2021,alpha,C38
+The Man with the Red Face,Tumult,MEUTE,2017-10-13,498827,41,0.817,0.565,0.704,0.907,0.0906,-9.172,0.0452,122.96,0.196,4,0,0,spotify:track:0nxiBat4Bpj3CPATVhHzTt,2017,2021,alpha,C63
+Say What - Pisk Electro Swing Remix,Say What (2019),Cut Capers,2019-10-04,193809,49,0.0318,0.735,0.934,0.000333,0.212,-5.414,0.0484,126.023,0.792,4,0,0,spotify:track:5CoMPmAsnk95FviCoqPFAk,2019,2021,alpha,C143
+Bad Water,Bad Water,AronChupa,2016-11-18,211199,39,0.0105,0.714,0.791,1.67e-06,0.441,-7.143,0.177,123.036,0.652,4,6,1,spotify:track:0C7JhR7u07OiV7jvQPjLGJ,2016,2021,alpha,C171
+The Arrival,The Grand EP,Smokey Joe & The Kid,2012-06-04,217906,17,0.17,0.746,0.819,0.0,0.281,-4.436,0.298,95.094,0.713,4,4,0,spotify:track:6o5JwTAlNhU4BAyAQfvZ4a,2012,2021,alpha,C240
+Lone Digger,<I°_°I>,Caravan Palace,2015-10-16,229804,54,0.592,0.767,0.938,0.0193,0.118,-4.433,0.0505,123.992,0.868,4,5,0,spotify:track:750jVPZnBVLItCUxaRR5iC,2015,2021,alpha,C248
+The Game,The Game,Smokey Joe & The Kid,2014-05-12,245040,35,0.0191,0.719,0.857,0.00717,0.611,-4.737,0.25,94.991,0.827,4,5,0,spotify:track:4ktpky3do4hpWOZhhS5w9Q,2014,2021,alpha,C297
+Mais Non - 1920 Version,Mais Non (1920 Version),Klischée,2017-10-06,191801,9,0.427,0.865,0.881,0.205,0.316,-6.812,0.127,128.033,0.849,4,1,1,spotify:track:5OeflTgTzyBrdLxJQtcn0c,2017,2021,alpha,C299
+Everybody Wants To Be A Cat,The Electric Swing Circus,The Electric Swing Circus,2013-07-22,328806,0,0.063,0.485,0.631,0.000361,0.221,-9.476,0.058,129.964,0.17,4,11,0,spotify:track:3WViX8eEuzfg1oHpIIrhcp,2013,2021,alpha,C334
+Lundi Méchant,Lundi Méchant,Gaël Faye,2020-11-06,148386,46,0.743,0.678,0.511,0.000116,0.284,-9.463,0.0537,108.31,0.415,4,11,0,spotify:track:1UrXxVqyLlg6IXUitwyyuw,2020,2021,alpha,C356
+Spell on You,Isteri,Ours Samplus,2014-01-10,240000,46,0.189,0.673,0.434,0.455,0.351,-9.579,0.0353,95.042,0.771,4,7,0,spotify:track:5w2zI2TnxiP4DMcsA0P30M,2014,2021,alpha,C394
+No Good - Original Mix,No Good,Max Duke,2012-05-22,376240,40,0.163,0.868,0.665,0.062,0.0946,-11.348,0.0467,119.973,0.65,4,10,1,spotify:track:2l8orkHTrP376cRPITw2CI,2012,2021,alpha,C404
+Jungle,Notion,Tash Sultana,2017-03-01,315602,7,0.285,0.589,0.699,8.11e-05,0.0881,-5.883,0.0291,145.997,0.496,4,1,0,spotify:track:6t1ahr2f1t9iSjjNFwFb4C,2017,2021,alpha,C408
+Sweet Dreams (Are Made of This) - Remastered,Sweet Dreams (Are Made Of This),Eurythmics,1983-01-04,216933,86,0.225,0.692,0.711,0.0,0.12,-7.498,0.0317,125.135,0.875,4,0,0,spotify:track:1TfqLAPs4K3s2rJMoCokcS,1983,2021,alpha,C440
+Get Down,Boys & Girl,Deluxe,2019-06-07,251986,43,0.0533,0.64,0.855,2.2e-06,0.113,-5.291,0.102,151.525,0.898,4,7,1,spotify:track:3LcNSmQBqqyf9NZ6S9IjaI,2019,2021,alpha,C517
+Danza 2016,Danza 2016,Lucky Chops,2016-03-01,301000,42,0.00225,0.521,0.866,0.663,0.105,-3.608,0.0905,127.972,0.761,4,9,0,spotify:track:1RqYjA6Pz0gP9QTbJkMYeX,2016,2021,alpha,C557
+Funkytown / I Feel Good,NYC,Lucky Chops,2015-07-18,356007,44,0.000826,0.505,0.743,0.712,0.0206,-6.376,0.0387,129.997,0.663,4,8,1,spotify:track:4X67ikG4nM5iw26ZkjF34N,2015,2021,alpha,C565
+Sweet Dreams Are Made Of This,Unlock Your Mind,The Soul Rebels,2011-01-01,307693,32,0.352,0.662,0.88,0.0157,0.106,-5.451,0.0528,126.883,0.862,4,0,0,spotify:track:5Qz8SdojhHa5dKDF3FMD4K,2011,2021,alpha,C617
+Hypnotize - 2014 Remaster,Life After Death (2014 Remastered Edition),The Notorious B.I.G.,1997-03-04,229826,82,0.145,0.901,0.697,0.0,0.287,-3.439,0.28,93.941,0.67,4,9,1,spotify:track:7KwZNVEaqikRSBSpyhXK2j,1997,2021,alpha,C620
+Alright,Souldier,Jain,2018-08-24,222493,56,0.0181,0.685,0.611,6.64e-06,0.035,-8.057,0.068,184.055,0.598,4,8,0,spotify:track:44ahv3Zj4FOJoy8gJLZF9B,2018,2021,alpha,C649
+My Game,The Deluxe Family Show,Deluxe,2013-09-23,215410,52,0.25,0.79,0.726,0.0,0.0787,-4.919,0.0604,114.953,0.889,4,1,1,spotify:track:22e6sT2Pu8kXpJeItO0xGg,2013,2021,alpha,C691
+Tum Rakak,Stachelight,Deluxe,2016-01-22,276201,59,0.29,0.832,0.53,0.0,0.119,-4.92,0.0537,122.053,0.712,4,10,0,spotify:track:2C2SY9l26IT3guKqQoMMSr,2016,2021,alpha,C722
+Eté 90,Rupture 2 merde,Therapie TAXI,2021-01-08,192613,68,0.0215,0.649,0.618,1.16e-06,0.0911,-7.691,0.0779,92.02,0.381,4,9,1,spotify:track:1p9dxTMtG4gZpLp7yzvT54,2021,2021,alpha,C754
+How to Be a Heartbreaker,Electra Heart (Deluxe),MARINA,2012-04-30,221493,72,0.0142,0.69,0.897,0.0,0.108,-4.696,0.0506,140.05,0.849,4,11,0,spotify:track:2sEk5R8ErGIFxbZ7rX6S2S,2012,2021,alpha,C831
+Sunday With A Flu,Tree Of Life,Yodelice,2009-01-01,137093,60,0.175,0.632,0.672,7.28e-05,0.125,-6.963,0.0406,174.162,0.927,4,2,0,spotify:track:05pU63DL8dSAApA8amj0ql,2009,2021,alpha,C849
+Never Let You Go,Atlantic Ballroom,Waldeck,2018-10-12,193626,0,0.408,0.838,0.718,0.677,0.113,-9.73,0.0305,111.98,0.929,4,0,0,spotify:track:7AyHtPNolrWSyRYY0jLLFV,2018,2021,alpha,C852
+Horny - Electro Swing Version,Horny,Pisk,2020-05-08,210708,45,0.0652,0.782,0.665,1.52e-05,0.126,-7.592,0.0605,126.985,0.726,4,6,0,spotify:track:5KdJVf0tqurkIDdBEbIJVG,2020,2021,alpha,C873
+Romanian Wind,Sherlock Holmes: A Game of Shadows,Hans Zimmer,2011-12-09,116146,0,0.0198,0.486,0.667,0.129,0.132,-8.846,0.139,89.654,0.42,4,6,0,spotify:track:3Abjj6u34I3l5JXngCFXy2,2011,2021,alpha,C891
+Discogirls - Discofunk Version,Discogirls,Timewarp Inc,2018-03-23,325725,11,0.0229,0.72,0.857,0.841,0.0369,-5.841,0.0426,120.005,0.938,4,11,0,spotify:track:6Fb49lK2RhLb7OqMqOcg8q,2018,2021,alpha,C911
+Bakara,Caravelle (Deluxe),Polo & Pan,2018-07-13,421760,48,0.106,0.825,0.524,0.00475,0.0765,-8.706,0.0522,115.003,0.537,4,8,0,spotify:track:5Sl1RVQbD9PigheYMG7yAP,2018,2021,alpha,C956
+Killing Me Softly,Live. Places.,Youngblood Brass Band,2005-02-05,331533,34,0.0087,0.469,0.805,0.0466,0.957,-6.288,0.0434,94.389,0.254,4,5,0,spotify:track:6z6OaElhTmvBs8XhtEjxNi,2005,2021,alpha,C965
+Tango Del Fuego,"Voodoo Sonic (The Trilogy, Pt. 3)",Parov Stelar,2020-09-04,183870,50,0.164,0.864,0.619,7.39e-05,0.175,-6.817,0.234,123.991,0.777,4,0,0,spotify:track:1zPDFhYO6vTlWv0Ii7ROr4,2020,2021,alpha,C978
+Never Lose,Polishing Peanuts EP,Deluxe,2011-11-28,222093,37,0.193,0.513,0.64,0.0,0.281,-6.049,0.225,209.596,0.748,4,7,1,spotify:track:2BKROHUOMaTHfRWwuMkoql,2011,2021,alpha,C1014
+Ignorant,Persistence,WHIPPED CREAM,2017-09-19,183429,37,0.443,0.482,0.36,0.629,0.119,-8.323,0.0675,180.131,0.0286,4,9,1,spotify:track:51Ewo6PHmCgt17vHxSUOIi,2017,2021,alpha,C1155
+The Mojo Radio Gang,Coco EP,Parov Stelar,2009-08-27,161373,26,0.114,0.727,0.787,0.814,0.117,-7.043,0.0386,128.102,0.348,4,8,1,spotify:track:10IpSi7105dMkhJCVholdC,2009,2021,alpha,C1171
+Rej,Tumult,MEUTE,2017-10-13,331707,42,0.511,0.81,0.746,0.899,0.103,-7.555,0.0419,122.992,0.471,4,1,0,spotify:track:76NmJpsXiPAmMdcCsPXHyu,2017,2021,alpha,C1193
+Mambo Rap,Mambo Rap,Parov Stelar,2018-07-27,203946,44,0.079,0.94,0.837,2.63e-05,0.135,-4.143,0.146,119.985,0.924,4,9,0,spotify:track:14RrzxMs07EhE8bUso5Pso,2018,2021,alpha,C1200
+Come,Zanaka,Jain,2016-10-21,162266,65,0.232,0.818,0.783,0.00886,0.0803,-6.534,0.0444,99.992,0.819,4,1,1,spotify:track:1YrC8s6yZWw23QxW6rfM9f,2016,2021,alpha,C1223
+Light up the Night,Light up the Night,Jamie Berry,2019-10-11,233879,47,0.0142,0.75,0.884,0.199,0.596,-7.428,0.193,124.068,0.642,4,2,1,spotify:track:0XNJwK6IhwfqvsNEZ2Q6q8,2019,2021,alpha,C1268
+Star Saloon,Kitty Litter,Riff Kitten,2020-10-16,161647,28,0.275,0.856,0.902,0.00157,0.0553,-6.667,0.149,120.016,0.499,4,10,0,spotify:track:0kQi3NKgUFCCgSFv7Xy5Z3,2020,2021,alpha,C1483
+Back in Town,Chickens in Your Town,L'Entourloop,2015-05-04,252175,34,0.0135,0.914,0.765,0.00706,0.281,-6.263,0.115,100.025,0.547,4,5,1,spotify:track:1SMd2R2MUOYkf97lnDt063,2015,2021,alpha,C1619
+BOOM,ORION,X Ambassadors,2019-06-14,164586,62,0.00805,0.732,0.594,0.0301,0.0802,-5.911,0.0693,107.996,0.676,4,11,0,spotify:track:3V9cM3nCH2G66afoDi0snu,2019,2021,alpha,C1630
+My Name Is Stain,The Geeks and the Jerkin' Socks,Shaka Ponk,2011-06-06,207132,60,0.00388,0.767,0.754,0.00013,0.0927,-4.325,0.0375,108.99,0.96,4,9,0,spotify:track:5CGoooF86pFWxjbkIfl5q4,2011,2021,alpha,C1649
+Ghost,Can Be Late (Super Deluxe Version),Skip the Use,2012,187013,60,0.325,0.682,0.88,0.0,0.327,-4.279,0.0617,98.005,0.864,4,6,0,spotify:track:3eFNBjKcEt3OJYnlJLQS6Q,2012,2021,alpha,C1672
+Be Mine,Be Mine,Ofenbach,2016-11-25,161322,72,0.194,0.779,0.666,0.000556,0.0576,-7.361,0.0482,123.024,0.507,4,5,1,spotify:track:2KklXplRtxMsBYo474Es0w,2016,2021,alpha,C1706
+True Sorry,Illusions,Ibrahim Maalouf,2013-11-05,291303,55,0.585,0.288,0.454,0.882,0.177,-7.639,0.0369,123.143,0.0792,4,4,0,spotify:track:5EzGOkUwkRUXYAyvjlEHah,2013,2021,alpha,C1707
+I'm Picky,The Geeks and the Jerkin' Socks,Shaka Ponk,2011-06-06,235945,62,0.0125,0.692,0.804,0.000199,0.326,-3.242,0.0338,115.028,0.841,4,6,1,spotify:track:4LIN465EXxcZwgGsQsG0TC,2011,2021,alpha,C1708
+Hey You (I Heard You Wanna Party) [Wolfgang Lohr Remix],Hey You! (I Heard You Wanna Party),Bart & Baker,2020-12-18,293170,21,0.171,0.79,0.935,0.0357,0.132,-4.688,0.0382,123.026,0.761,4,10,1,spotify:track:5Zgf9OcXUcf3UebA0IGvZV,2020,2021,alpha,C1733
+Pizza Day,Lucky Chops,Lucky Chops,2019-09-27,273374,35,0.151,0.653,0.945,0.584,0.174,-4.317,0.0704,112.012,0.825,4,1,1,spotify:track:5edWSjCgLNBq49Nrti7oZa,2019,2021,alpha,C1784
+Wait a Minute,Stachelight,Deluxe,2016-01-22,192679,40,0.0447,0.767,0.603,0.0,0.056,-4.55,0.203,150.168,0.966,4,9,0,spotify:track:1YlhmgGDDah1cfadrcafWI,2016,2021,alpha,C1791
+Crazy in Love - Electro Swing Version,Crazy in Love,Swing Republic,2012-03-11,234734,47,0.542,0.612,0.719,7.76e-06,0.0424,-6.451,0.287,201.978,0.893,4,7,1,spotify:track:64mmB4Jx8eI4tCSDhypE41,2012,2021,alpha,C1920
+Panama,The Wanderings Of The Avener,The Avener,2015-01-19,275453,34,0.076,0.705,0.843,0.616,0.0978,-5.395,0.0232,105.956,0.443,4,8,0,spotify:track:5emkarqOu9uMTCukqs9vN0,2015,2021,alpha,C1949
+Black Cover - Original Mix,The Riot!,Various Artists,2011-04-04,379007,0,0.00132,0.8,0.743,0.949,0.0643,-7.927,0.0503,129.999,0.0829,4,4,0,spotify:track:7xSeVcv5xH2Lt4SWcamPFs,2011,2021,alpha,C2010
+Hit the Road Jack,Hit the Road Jack (Electro Swing),Maskarade,2018-11-23,158225,51,0.249,0.888,0.904,0.0131,0.105,-4.709,0.157,124.006,0.87,4,0,1,spotify:track:3vUyckIq0bDuGRYZdF1hby,2018,2021,alpha,C2073
+I Get the Job Done,Ego Trip,Chill Bump,2014-11-04,264312,0,0.24,0.749,0.514,6.29e-06,0.0614,-9.809,0.146,88.832,0.602,4,11,0,spotify:track:79s4fQXaadLvF2l5AkGwUd,2014,2021,alpha,C2220
+You & Me,You & Me,MEUTE,2018-05-30,306422,60,0.652,0.661,0.548,0.265,0.0913,-4.053,0.0407,75.068,0.0954,4,10,0,spotify:track:1MdbDBwEEecnlLiyWChJFh,2018,2021,alpha,C2231
+Empires,It Flew By,The Electric Swing Circus,2017-01-16,190508,0,0.264,0.816,0.761,1.86e-06,0.0995,-3.941,0.0368,120.008,0.827,4,2,0,spotify:track:7BilkHwC8zy0Mv67wsGiUM,2017,2021,alpha,C2239
+Champagne: Electro Swing Spin,Champagne: Electro Swing Spin,Swing'it,2020-12-04,207144,42,0.00557,0.74,0.858,0.0231,0.374,-4.376,0.0678,119.922,0.867,4,10,1,spotify:track:221zxFCom6aGFrnWKeBUjC,2020,2021,alpha,C2265
+Southern Man,Street Bangerz Volume 8,Akshin Alizadeh,2014-02-11,237397,57,0.11,0.78,0.585,0.314,0.083,-8.766,0.0389,90.024,0.707,4,2,0,spotify:track:29MvtOnoAULKQfEKAPCbja,2014,2021,alpha,C2282
+Booty Swing,"The Princess, Pt. Two",Parov Stelar,2012-04-20,197506,63,0.26,0.85,0.669,0.274,0.103,-5.46,0.047,112.966,0.914,4,0,1,spotify:track:3sMleqdCDalZ6xsAQe8xuY,2012,2021,alpha,C2299
+Salt,Heaven & Hell,Ava Max,2020-09-18,180283,71,0.131,0.693,0.835,0.0,0.073,-3.242,0.0624,128.052,0.744,4,6,1,spotify:track:5iyZwawawLjHYpX4MxUKVF,2020,2021,alpha,C2323
+Help Me,Help Me,OR3O,2020-02-08,212950,43,0.0216,0.598,0.766,0.00173,0.366,-4.995,0.138,109.716,0.452,4,7,1,spotify:track:3WSQ8LXGMUjm4DGrfN7oYz,2020,2021,alpha,C2324
+Wonderland,<I°_°I>,Caravan Palace,2015-10-16,190554,45,0.314,0.772,0.817,0.00338,0.0761,-4.688,0.265,104.04,0.523,4,6,0,spotify:track:7pgAiDWreHX7CEqwlPBBpK,2015,2021,alpha,C2338
+Mr/Mme,Sillygomania,Loïc Nottet,2020-05-29,381533,62,0.854,0.63,0.367,0.0,0.101,-7.833,0.0338,102.561,0.319,3,6,1,spotify:track:22juTts8TAnJYwGnlxB87e,2020,2021,alpha,C2352
+Prince Vince,With Julia,Kid Francescoli,2014-04-21,151180,59,0.0994,0.666,0.702,0.773,0.0756,-7.242,0.0314,112.128,0.845,4,11,0,spotify:track:6xHOialdbeqfsgto0tLlZp,2014,2021,alpha,C2403
+Brooklyn,Live. Places.,Youngblood Brass Band,2005-02-05,425466,40,0.0778,0.427,0.879,0.184,0.869,-6.474,0.24,93.347,0.712,4,5,0,spotify:track:7aNwURnV4t19bPQM4mvpLY,2005,2021,alpha,C2411
+Jailhouse Blues,Smokid Inc.,Smokey Joe & The Kid,2015-07-14,216013,41,0.565,0.431,0.814,0.000344,0.255,-4.554,0.141,71.601,0.438,4,5,0,spotify:track:3fv0yHUYuSJHFsseshny1N,2015,2021,alpha,C2434
+Trombone,Trombone,AronChupa,2021-02-05,166440,51,0.115,0.864,0.795,0.00519,0.267,-3.461,0.118,126.018,0.665,4,8,1,spotify:track:3vYP0NDCcoPiUHpmtq9YIq,2021,2021,alpha,C2446
+Catgroove,The Art Of Sampling (Deluxe Version),Parov Stelar,2013-01-01,236480,47,0.0239,0.822,0.876,0.797,0.0442,-7.661,0.0662,127.99,0.582,4,6,1,spotify:track:7CpcZceLngQ4UWS3XAJfsE,2013,2021,alpha,C2497
+Mo' Momo!,Lucky Chops,Lucky Chops,2019-09-27,315789,37,0.00235,0.475,0.679,0.0924,0.368,-5.559,0.0334,139.922,0.244,4,0,1,spotify:track:59M05MYZ4uUvl3JHGMOtZk,2019,2021,alpha,C2607
+Fade Out Lines - The Avener Rework,The Wanderings Of The Avener,The Avener,2015-01-19,276600,59,0.0163,0.876,0.731,0.0926,0.101,-5.833,0.0325,119.011,0.699,4,1,0,spotify:track:1gOANd4qcnkftl869IOvBu,2015,2021,alpha,C2642
+Prokrastination,M.O.O.P.Topia,Moop Mama,2016-04-08,321402,41,0.0744,0.904,0.399,0.607,0.0594,-10.061,0.0824,119.994,0.346,4,3,1,spotify:track:7l0DPehrQ3M9DOgzy7dRGH,2016,2021,alpha,C2707
+Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2019-10-17,209438,78,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,98.027,0.513,4,6,0,spotify:track:2XU0oxnq2qxCpomAAuJY8K,2019,2021,alpha,C2779
+Umbrella,Covers 1,Youngblood Brass Band,2018-08-27,267040,35,0.052,0.46,0.666,0.835,0.11,-6.166,0.0435,93.768,0.535,4,0,1,spotify:track:5E0uV501Yt3FgF7HB7ZasC,2018,2021,alpha,C2884
+Piro,Shotgunz In Hell,Onyx,2017-05-29,165250,0,0.019,0.742,0.885,0.000127,0.313,-4.537,0.227,95.005,0.634,4,1,1,spotify:track:1E6LJzuDzjYJDsPy2OmbEl,2017,2021,alpha,C2891
+Brass Devil,Voodoo Sonic,Parov Stelar,2020-11-27,232431,32,0.25,0.914,0.884,0.233,0.0536,-5.417,0.285,124.975,0.45,4,0,0,spotify:track:63ERMeqSdG8s5GQ66oy5V0,2020,2021,alpha,C2930
+Mama Talking,The Burning Spider,Parov Stelar,2017-04-21,178590,49,0.52,0.804,0.823,0.000542,0.0686,-4.909,0.0599,115.072,0.901,4,7,0,spotify:track:4MwaI5dqRQ20pKPI4vX2yo,2017,2021,alpha,C2950
+Smokid All Stars,Running to the Moon,Smokey Joe & The Kid,2016-03-25,497186,31,0.258,0.678,0.822,0.0,0.175,-5.025,0.324,92.42,0.572,4,2,1,spotify:track:0z6qliKfAPTV8mczrQhvHz,2016,2021,alpha,C2987
+Unstoppable,This Is Acting (Deluxe Version),Sia,2016-10-21,217746,83,0.112,0.468,0.779,0.000373,0.101,-4.839,0.0779,173.799,0.26,4,9,1,spotify:track:1yvMUkIOTeUNtNWlWRgANS,2016,2021,alpha,C2991
+Whatchugot (Pisk Remix),Whatchugot (Pisk Remix),Caro Emerald,2018-02-08,199709,41,0.162,0.877,0.776,0.00398,0.609,-4.801,0.0356,124.011,0.958,4,5,0,spotify:track:27FnDAhPtmDJkY1GAbYv6B,2018,2021,alpha,C3078
+Rocky Raccoon,Nu Funk,Scary Pockets,2017-11-13,158000,47,0.55,0.822,0.391,4.57e-06,0.177,-10.865,0.263,115.261,0.811,4,7,1,spotify:track:0sdQ5hPULJilp0gpAXGq8E,2017,2021,alpha,C3126
+Making Music,The Deluxe Family Show,Deluxe,2013-09-23,243815,30,0.0109,0.681,0.869,6.82e-05,0.112,-4.025,0.0295,112.029,0.71,4,10,1,spotify:track:7lulh8F5BHRj3k2oHMTH93,2013,2021,alpha,C3138
+Please Come Home (That's a Pretty Good Love),Running to the Moon,Smokey Joe & The Kid,2016-03-25,234240,22,0.0048,0.67,0.84,0.000526,0.371,-4.574,0.162,99.011,0.802,4,1,1,spotify:track:3SrOhNvjRi1oy1Ek56ZQ2Z,2016,2021,alpha,C3195
+The Eponym,The Loop - EP,Chill Bump,2012-12-04,144869,0,0.284,0.756,0.646,0.0,0.569,-6.898,0.276,160.261,0.803,4,1,1,spotify:track:5xRoZqrP6dueYhZy5EW9jK,2012,2021,alpha,C3202
+Still Young,Steal the Light,The Cat Empire,2013-05-17,258573,52,0.00727,0.613,0.762,0.0,0.188,-4.679,0.0359,149.225,0.743,4,11,1,spotify:track:4q7klA9ggWknZDhHhz9XYp,2013,2021,alpha,C3224
+Egoraphobia,Boys & Girl,Deluxe,2019-06-07,202106,40,0.165,0.732,0.694,0.000127,0.094,-6.728,0.0758,102.006,0.93,4,4,0,spotify:track:5GMDdUHg3J1dcaxVpsYTaL,2019,2021,alpha,C3349
+You Don't Love Me - Pisk Remix,You Don't Love Me (Pisk Remix),Caro Emerald,2020,197653,32,0.123,0.805,0.718,1.52e-06,0.106,-6.591,0.174,122.995,0.754,4,1,1,spotify:track:2ejY5e4oGrkanT2Xga4ooO,2020,2021,alpha,C3364
+Miracle,Chronologic,Caravan Palace,2019-08-30,216213,35,0.61,0.712,0.888,0.000614,0.116,-4.996,0.0621,100.0,0.51,4,7,1,spotify:track:0fG35SHFlPB6HksqoG7zIU,2019,2021,alpha,C3370
+Faidherbe Square,Curses from Past Times EP,Proleter,2011-11-22,207336,47,0.0239,0.785,0.542,0.931,0.105,-9.846,0.0817,175.946,0.975,4,8,0,spotify:track:2hHNFmRgj2KUCeCcJH0QLP,2011,2021,alpha,C3448
+Matilda,"Coco, Pt. 2",Parov Stelar,2009-08-28,203680,40,0.00405,0.689,0.771,0.153,0.13,-9.054,0.0295,129.99,0.965,4,4,0,spotify:track:3JVqjhsCleb0xn6OjCzxLD,2009,2021,alpha,C3474
+I've got that tune,Groove Sessions,Chinese Man,2007-01-09,269986,54,0.385,0.775,0.785,0.824,0.645,-5.563,0.0434,90.119,0.81,4,4,0,spotify:track:6ZOeDXutLpSGqA1sSL6LrL,2007,2021,alpha,C3475
+False Confidence,Busyhead,Noah Kahan,2019-06-14,223400,76,0.163,0.414,0.663,0.0,0.138,-7.77,0.0456,108.98,0.33,4,6,1,spotify:track:7nDFTHHwfe32a8qdp9XqPy,2019,2021,alpha,C3493
+I Miss the Misery,The Strange Case of...,Halestorm,2012-04-03,183506,65,0.009,0.469,0.969,1.11e-05,0.346,-2.219,0.0589,164.042,0.476,4,0,1,spotify:track:60rHc4AkLlP4XVSATvBb6K,2012,2021,alpha,C3550
+Party Like Its 1920,Party Like Its 1920,The Swinghoppers,2020-01-03,185000,0,0.137,0.75,0.95,3.93e-05,0.426,-5.059,0.167,119.962,0.707,4,9,0,spotify:track:5YGhQpZhMBTJ4ROUns2MVB,2020,2021,alpha,C3566
+Tôt le matin,Rythmes et botanique,Gaël Faye,2017-04-14,224082,57,0.458,0.474,0.559,3.99e-06,0.0794,-7.131,0.267,150.135,0.417,4,10,0,spotify:track:44P75p1gtECmB1T1eJ7tFy,2017,2021,alpha,C3652
+Carrousel - Short Version,Carrousel (Short Version),NTO,2017-04-07,257851,55,0.0418,0.662,0.429,0.882,0.105,-12.522,0.0437,121.034,0.15,4,4,1,spotify:track:5WL6VbqrAs7qYsMkCvShoN,2017,2021,alpha,C3711
+Washington Square,Groove Sessions,Chinese Man,2007-01-09,250600,52,0.38,0.676,0.751,0.0,0.102,-6.985,0.0845,89.041,0.758,4,4,0,spotify:track:0phAx12SI8oWN1AmhyceSQ,2007,2021,alpha,C3715
+All Night,The Art Of Sampling (Deluxe Version),Parov Stelar,2013-01-01,166400,58,0.107,0.797,0.618,0.845,0.243,-7.672,0.0429,125.02,0.826,4,7,0,spotify:track:6kK2YbF8boQl32Lqkai3Ca,2013,2021,alpha,C3745
+Jolie Coquine,Caravan Palace,Caravan Palace,2008-10-20,226800,47,0.00734,0.745,0.935,2.1e-06,0.124,-5.792,0.373,125.035,0.588,4,4,0,spotify:track:0OuWBW2Q299zvZCdLUPlLx,2008,2021,alpha,C3866

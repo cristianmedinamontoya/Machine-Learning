@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+One In A Million,Embodiment,Katerine Duska,2015-12-04,195924,31,0.359,0.65,0.506,0.0,0.112,-8.873,0.131,148.169,0.431,4,5,0,spotify:track:0KLxMMuep4tXB4b778Smzq,2015,2019,delta
+Girl from the North Country,Nashville Skyline,Bob Dylan,1969-04-09,220400,67,0.843,0.607,0.142,0.000197,0.121,-23.455,0.0382,118.867,0.305,4,7,1,spotify:track:4K1imZQQ0yKtJ40vGmUajS,1969,2019,delta
+Mama,Mama,Elvett,2018-03-26,219053,0,0.402,0.857,0.717,0.000153,0.132,-7.162,0.0985,109.981,0.52,4,1,0,spotify:track:1SlkCgOIXITFUv1qjlOQTM,2018,2019,delta
+All The Pretty Little Horses (Vocals - Nick Cave),Calling For Vanished Faces,Current 93,1999,188000,32,0.502,0.299,0.203,0.00191,0.101,-19.983,0.0463,203.957,0.0683,4,6,0,spotify:track:514dWOVKq8iHoW4FxVlICo,1999,2019,delta
+We Are One,Earthquake (Edition Deluxe),Kolinga,2019-04-05,295386,0,0.926,0.67,0.616,0.372,0.145,-10.452,0.0316,100.029,0.534,4,9,1,spotify:track:7dzEpbPDDoWN3jqF4HYKRZ,2019,2019,delta
+Concierto De Aranjuez,Concierto (CTI Records 40th Anniversary Edition),Jim Hall,1975,1160400,38,0.928,0.516,0.165,0.878,0.109,-22.397,0.0354,130.431,0.228,4,2,0,spotify:track:0QVvZNHwBOPAGXgUfkfL5P,1975,2019,delta
+"Mallorca, Op. 202",Le voyage d'Albéniz,Isaac Albéniz,2014-11-10,439293,29,0.981,0.37,0.178,0.9,0.0922,-18.311,0.0755,77.824,0.165,5,2,0,spotify:track:0uYG1DwzJtNgqEG1FC0QgN,2014,2019,delta
+Saint,RITUALS,Deaf Havana,2018-08-03,255046,0,0.687,0.409,0.301,2.45e-06,0.169,-9.123,0.036,116.654,0.0452,4,7,1,spotify:track:579FbiLbBqPDdoRkzdxUL2,2018,2019,delta
+No Ceiling,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,94053,63,0.46,0.724,0.652,0.000142,0.101,-6.869,0.0247,106.911,0.75,4,3,1,spotify:track:6J0bdIZElZMymahgVWRE9B,2007,2019,delta
+Come Away,Sons Of The East,Sons Of The East,2013-08-02,260693,59,0.214,0.673,0.592,0.0,0.11,-8.388,0.0305,121.949,0.231,4,0,1,spotify:track:1tpSOLApZSgDaFqYHIeQl9,2013,2019,delta
+Edward Young Took His Gun,"And the Great Unknown, Pt. 2",Bror Gunnar Jansson,2017-05-05,367533,0,0.832,0.526,0.208,7.53e-05,0.116,-12.378,0.0286,83.133,0.157,4,2,0,spotify:track:1CBHownIkiWXyowJ4I3xK1,2017,2019,delta
+Galiano: Opale Concerto: II. Moderato malinconico,Opale Concerto: II. Moderato malinconico,Richard Galliano,2018-01-05,336460,20,0.858,0.17,0.062,0.0207,0.378,-21.966,0.0418,106.186,0.0462,3,2,0,spotify:track:2maTTkcUQRXEACPB0uZ3t5,2018,2019,delta
+Murder Your Memory,Hyperview,Title Fight,2015-02-03,156720,60,0.842,0.544,0.415,0.858,0.0915,-11.612,0.0343,160.036,0.0662,4,4,1,spotify:track:5imSIRUGtX4aeRRA81UakE,2015,2019,delta
+Davet,Nem Kaldi,Derya Yıldırım & Grup Şimşek,2017-03-31,271449,19,0.139,0.639,0.709,7.07e-05,0.316,-7.086,0.0288,100.166,0.901,4,2,0,spotify:track:2ZEmJqrJJjdjcV3fRk18QI,2017,2019,delta
+Never Even Thought - Remastered 2017,Say It Ain't So (Remastered 2017),Murray Head,1975,305026,38,0.627,0.612,0.512,0.00018,0.067,-11.358,0.0357,141.597,0.567,4,10,0,spotify:track:5aT8chiSiLs2aYrcx6ogkE,1975,2019,delta
+Toulumne,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,60306,56,0.898,0.337,0.287,0.978,0.12,-15.051,0.0332,107.031,0.393,4,0,1,spotify:track:3YalaPTUkyCYanwIf0l4UN,2007,2019,delta
+Balade brésilienne,Balade brésilienne,Gaël Faye,2018-10-19,276840,0,0.337,0.834,0.7,0.000313,0.126,-5.808,0.107,149.995,0.699,4,11,0,spotify:track:433AKbYSnGhPS5c3PlsYrf,2018,2019,delta
+Le grand amour,L'un de nous,Albin de la Simone,2017-02-24,216293,52,0.937,0.347,0.273,0.0374,0.129,-11.988,0.0341,98.69,0.366,4,4,0,spotify:track:5rfNNdaCovygh3cxY1txTR,2017,2019,delta
+Dinosaures,Des fleurs,Gaël Faye,2018-11-02,260693,34,0.509,0.503,0.814,2.58e-06,0.255,-6.043,0.14,159.991,0.206,4,4,0,spotify:track:7pdah59ZQxg0YsNI9h2e07,2018,2019,delta
+Nightscape,Nightscape,There For Tomorrow,2014-10-21,109238,19,0.887,0.208,0.526,0.934,0.0919,-10.609,0.0361,109.975,0.133,4,5,1,spotify:track:6EuaaGDKg8fk4MY4Ahr4sB,2014,2019,delta
+Society,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,236306,70,0.902,0.561,0.327,0.000469,0.111,-10.835,0.0327,161.858,0.298,4,11,0,spotify:track:3bHhUEOTIbezeZ856R0BX5,2007,2019,delta
+,,Various Artists,0000,0,0,0.00572,0.598,0.39,0.916,0.127,-9.782,0.0287,100.008,0.202,4,7,1,spotify:track:6LBWoasSTImUnGUoweyXL5,0,2019,delta
+Laura,The Haunted Man,Bat For Lashes,2012-10-15,266493,45,0.922,0.459,0.187,0.0,0.0939,-9.326,0.0361,96.983,0.0625,4,7,1,spotify:track:0PHTufT46ytsqcH8OsQHvp,2012,2019,delta
+Ces Petits Riens,Black Ivory Soul,Angelique Kidjo,2002-03-19,134693,36,0.883,0.543,0.0645,1.1e-05,0.116,-20.666,0.0645,82.838,0.233,4,6,0,spotify:track:6oprRIQ5Vis7NXtJUPIQ3w,2002,2019,delta
+Road Movie,Songs for the Old Man,Yom,2015,350013,39,0.723,0.6,0.242,0.906,0.115,-11.411,0.029,130.757,0.0497,4,7,0,spotify:track:1Hx0If40w3tkkr6wRioqh9,2015,2019,delta
+Little Lion Man,Sigh No More,Mumford & Sons,2009-01-01,245173,71,0.0275,0.517,0.492,3.19e-05,0.0873,-8.05,0.0272,138.585,0.455,4,5,1,spotify:track:2KrN3MCNztKcSleZgHEj83,2009,2019,delta
+"Yumeji’s Theme (From ""In the Mood for Love"")",Silence On Joue - Take 2,Angèle Dubeau,2016-10-28,147613,42,0.912,0.28,0.105,0.773,0.105,-21.248,0.0439,133.136,0.0792,3,5,0,spotify:track:3DgNGTpG1sBZenGIK2kP8B,2016,2019,delta
+Chante de là où tu es,Lior Shoov,Lior Shoov,2017-05-19,144186,0,0.966,0.614,0.226,0.00751,0.0851,-14.804,0.095,108.749,0.54,4,2,0,spotify:track:5NZTfo9uLqsEYt0GHjhhon,2017,2019,delta
+Kongo,Earthquake (Edition Deluxe),Kolinga,2019-04-05,212706,0,0.767,0.731,0.596,0.0318,0.13,-10.768,0.0423,106.931,0.728,4,4,0,spotify:track:3ilFiq5eaP4DR4D27HDi9B,2019,2019,delta
+Je fais le mort,Juniore,Juniore,2016-05-20,222653,43,0.0153,0.67,0.673,0.000391,0.104,-5.62,0.026,113.977,0.557,3,9,1,spotify:track:6QqUx8J1CV5c79lT4ox5Te,2016,2019,delta
+Absence,NIKI NIKI,NIKI NIKI,2016-11-25,267086,0,0.732,0.712,0.449,0.607,0.111,-10.977,0.0302,92.02,0.342,4,10,1,spotify:track:2S5B2r3m5QFDic9PU7d9ad,2016,2019,delta
+Les insatisfaits,Les insatisfaits,Hollydays,2015,138556,24,0.668,0.47,0.267,0.000337,0.119,-12.901,0.103,96.942,0.151,4,9,0,spotify:track:60R1MYqvt4HnUfOAz3LUaW,2015,2019,delta
+No More - Live,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,270466,45,0.862,0.337,0.605,0.0031,0.944,-7.84,0.0277,59.327,0.424,4,7,1,spotify:track:2bjfXe8SOsCl17b29eGLvg,2007,2019,delta
+Paris métèque,Rythmes et botanique,Gaël Faye,2017-04-14,210028,0,0.154,0.627,0.577,3.38e-05,0.108,-9.503,0.0591,86.02,0.397,4,5,0,spotify:track:3pFyymLv9a4FnqN4WqbEB6,2017,2019,delta
+Slowoperation,Pili Pili Sur Un Croissant Au Beurre,Gaël Faye,2013,260506,0,0.778,0.502,0.475,0.0,0.0939,-10.14,0.357,84.111,0.407,4,1,1,spotify:track:5UvknG40ak1ZwrFVskYViu,2013,2019,delta
+,,Various Artists,0000,0,0,0.992,0.601,0.0557,0.956,0.111,-22.111,0.041,69.951,0.0948,3,5,1,spotify:track:15ZnW0rCGJvb0fV2N3nN1r,0,2019,delta
+Y'a de la joie,L'alchimiste,Jean-François Zygel,2017-10-21,173906,15,0.994,0.522,0.0449,0.956,0.0957,-24.573,0.0648,62.807,0.153,4,5,1,spotify:track:3DWSeHx6LnQzJEnNzxBgTP,2017,2019,delta
+Chienne de vie,Chienne de vie,Zoufris Maracas,2015-03-02,285289,45,0.539,0.699,0.523,0.000251,0.125,-9.829,0.0387,100.068,0.791,4,2,0,spotify:track:27jvgohavsXxZUy88a2V0S,2015,2019,delta
+No More,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,217400,47,0.468,0.379,0.53,0.000216,0.0818,-7.229,0.0355,62.06,0.577,4,7,1,spotify:track:6N8T4RHu7ZerB1dQoZaX6q,2007,2019,delta
+,,Various Artists,0000,0,0,0.0204,0.673,0.313,0.865,0.252,-13.0,0.0395,119.999,0.301,4,5,1,spotify:track:1SV39IANCc4dP0MdvJyQgm,0,2019,delta
+Donke / Dance,Griot Blues,Mighty Mo Rodgers,2017-10-13,292720,0,0.449,0.786,0.441,0.415,0.376,-11.212,0.0557,114.401,0.392,4,10,1,spotify:track:7J8eI3jiFk0o07kATfEL6o,2017,2019,delta
+The Tourist,OK Computer,Radiohead,1997-05-28,326533,0,0.224,0.241,0.295,0.0328,0.11,-8.571,0.0319,114.759,0.0398,5,4,1,spotify:track:75YUnz58ajMo2VIIuUFvOV,1997,2019,delta
+Wild Child,Earthquake (Edition Deluxe),Kolinga,2019-04-05,232240,0,0.944,0.657,0.284,0.234,0.0967,-15.318,0.0343,143.973,0.243,4,2,0,spotify:track:2N9tkvpK273mJDfEHrEPTI,2019,2019,delta
+Save the Rhino,ON SONG,Peter Sarstedt,2006-01-01,139546,1,0.979,0.516,0.301,0.00255,0.139,-16.041,0.0553,93.957,0.505,4,9,0,spotify:track:5qddtAVrvPGIG7df6nZoYB,2006,2019,delta
+Let's Have A Party,Wanda Jackson (Expanded Edition),Wanda Jackson,2002-01-01,131200,0,0.535,0.522,0.901,8.47e-06,0.176,-8.549,0.0479,166.886,0.916,4,4,1,spotify:track:3QUGcs2wxh0hs1cpQYejSf,2002,2019,delta
+,,Various Artists,0000,0,0,0.0713,0.477,0.444,0.966,0.385,-9.724,0.032,182.039,0.0802,4,9,0,spotify:track:7F3mLX9dJzIrdVttVkI9WD,0,2019,delta
+Here's To The State - Live,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,351253,46,0.701,0.428,0.435,0.0,0.695,-9.082,0.0306,66.083,0.298,4,7,1,spotify:track:7bRIcnISj2dhgTP8g5AoZg,2007,2019,delta
+Rain And Tears,Best Of,Aphrodite's Child,1990-01-01,191493,0,0.159,0.306,0.426,0.0,0.0867,-10.943,0.0297,73.22,0.326,4,2,0,spotify:track:3gE5067onHssnwibln70ef,1990,2019,delta
+Improvisació 1 - Live,Live in Barcelona: Palau De La Música Catalana,Orfeó Català,2009-02-24,526293,32,0.936,0.49,0.0197,0.0176,0.908,-33.567,0.0966,194.837,0.289,3,11,0,spotify:track:7HXIa9qTUrfQCm3mjYDR0N,2009,2019,delta
+Gusts of Wind Blowing in Different Directions,Hooray! for Happiness,The Last Dinosaur,2010-07-08,141186,46,0.964,0.313,0.0108,0.951,0.112,-27.106,0.0413,133.035,0.173,3,6,1,spotify:track:0cxSYGWTxWFTVJx7i6rke9,2010,2019,delta
+Guaranteed,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,164500,62,0.904,0.436,0.4,0.00105,0.125,-11.485,0.0272,100.734,0.351,4,7,1,spotify:track:4LGF2tDg3878bs0mQPByZ4,2007,2019,delta
+The Quidditch Match,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,John Williams,2001-10-30,508533,52,0.807,0.269,0.299,0.854,0.105,-17.984,0.0413,138.999,0.102,3,1,1,spotify:track:4aL5x9pzbU5PTLca3oJjo3,2001,2019,delta
+Lailakomo,Largue la peau,Sages comme des sauvages,2015-09-18,271248,37,0.915,0.651,0.457,0.183,0.1,-13.009,0.028,110.752,0.575,4,2,0,spotify:track:0qYaEDGqEvXud9O3rf6hHV,2015,2019,delta
+L'amour à plusieurs,L'amour à plusieurs,Schérazade,2015-12-04,222918,15,0.222,0.833,0.658,0.0,0.13,-5.504,0.043,111.96,0.709,4,11,0,spotify:track:7gW9GFWCybOxNO3mBYnrll,2015,2019,delta
+Setting Forth,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,97866,57,0.0116,0.549,0.78,0.0,0.195,-5.08,0.0291,119.369,0.804,4,2,1,spotify:track:0NkeEkDFOby5xOZ7BIKVuD,2007,2019,delta
+Far Behind,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,135320,52,0.174,0.467,0.855,9.32e-06,0.11,-5.375,0.0515,135.813,0.565,4,4,1,spotify:track:7AZAGSn2B1APKe2XBbzB2G,2007,2019,delta
+Ma Femme,Pili Pili Sur Un Croissant Au Beurre,Gaël Faye,2013,159306,0,0.207,0.561,0.779,0.0,0.0479,-5.745,0.372,79.972,0.966,4,1,0,spotify:track:1mfAHpvQc9QmKXLZRgSuhj,2013,2019,delta
+God Is Alive Magic Is Afoot,Illuminations,Buffy Sainte-Marie,1969,291533,43,0.851,0.35,0.247,0.0,0.0992,-17.036,0.206,76.806,0.373,3,0,1,spotify:track:4K3glAui6GSMQfYWxC0qy9,1969,2019,delta
+If - 2011 Remaster,Atom Heart Mother (2011 Remastered Version),Pink Floyd,1970-10-02,270733,46,0.888,0.496,0.063,0.447,0.109,-25.79,0.0299,103.301,0.208,4,6,0,spotify:track:6DZu1SbSDq0TNXU2wyVb4F,1970,2019,delta
+End Of The Road,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,199880,49,0.501,0.585,0.441,0.534,0.0967,-9.271,0.0311,114.091,0.0591,4,7,0,spotify:track:6e2lt5O6aOUGQ8BWSo0gNr,2007,2019,delta
+Les rues de Paris,Au service de la France,Nicolas Godin,2018-06-22,149200,55,0.988,0.447,0.204,0.799,0.125,-11.748,0.0266,83.969,0.331,1,1,0,spotify:track:5Cfz0DCrcFpISyvDHBWy9f,2018,2019,delta
+La Complainte du Roi Renaud,Edith Piaf,Édith Piaf,2017-12-15,246626,19,0.963,0.332,0.329,0.0,0.0916,-8.249,0.0422,171.098,0.254,3,5,0,spotify:track:2C5lIYZ0XaGBRJaH5Wd5ve,2017,2019,delta
+Glace vanille,Amazona,Vanille,2019-06-07,166066,38,0.629,0.736,0.456,0.0023,0.116,-8.88,0.0406,88.011,0.34,4,2,1,spotify:track:1Bg9ht9Jh4FDZ4ZqiDfzqy,2019,2019,delta
+Petit homme,Earthquake,Kolinga,2017-03-24,185506,0,0.948,0.567,0.223,0.00228,0.11,-14.818,0.0656,89.174,0.503,4,4,0,spotify:track:4zVqujcZaxOCOT2FDKZXA3,2017,2019,delta
+Son mystère,20 Years 17 Hippies - Anatomy,17 Hippies,2016-01-15,245909,27,0.582,0.424,0.359,0.00521,0.062,-10.727,0.0319,104.747,0.195,4,6,0,spotify:track:13bPOhMGbo08Y8XUW5Peu7,2016,2019,delta
+Balalaïka,Etoiles du sol,Dooz Kawa,2010-06-02,197680,0,0.319,0.588,0.808,0.00104,0.183,-6.611,0.361,159.723,0.535,4,5,0,spotify:track:0TUik4nqr1TDk6RprWupDm,2010,2019,delta
+"Panier su la tête, ni chanté",Vavanguèr,Alain Péters,1998,227173,30,0.197,0.75,0.305,4.86e-05,0.156,-15.773,0.0994,102.876,0.554,4,11,1,spotify:track:22wgfaFRI3QGjvJMB7PfMO,1998,2019,delta
+Earthquake,Earthquake (Edition Deluxe),Kolinga,2019-04-05,235666,0,0.891,0.754,0.513,0.175,0.0887,-9.668,0.0343,116.011,0.686,4,6,0,spotify:track:571JAbyLj7FG9t2a2C2hN8,2019,2019,delta
+Spiritual,Beyond The Missoury Sky,Charlie Haden,1996-01-01,502240,0,0.956,0.667,0.0398,0.918,0.0816,-20.78,0.0369,107.993,0.0479,3,0,1,spotify:track:4F84TqYmrOdOOoBvmiQEuE,1996,2019,delta
+Guaranteed - Humming Version,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,162309,49,0.923,0.292,0.339,0.879,0.111,-13.153,0.032,100.69,0.343,4,7,1,spotify:track:5OWl1kO0gRlPxmp1wFyIWZ,2007,2019,delta
+Prologue,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,John Williams,2001-10-30,130293,66,0.957,0.177,0.0188,0.446,0.635,-29.484,0.0367,146.472,0.0819,3,2,0,spotify:track:6CeCOC2zx1qS8mQNYHe6IM,2001,2019,delta
+Formidable,Formidable,La Bronze,2016-04-14,206632,32,0.436,0.576,0.402,6.65e-05,0.101,-8.595,0.0441,139.792,0.0684,4,7,0,spotify:track:6b6EZlsyiCpCBWj2ZCOnmX,2016,2019,delta
+What He Wrote,I Speak Because I Can,Laura Marling,2010-01-01,247123,59,0.948,0.458,0.0987,0.00954,0.109,-16.021,0.0376,139.987,0.349,3,9,0,spotify:track:2CTOa3CEBts3p1NyTVLTXU,2010,2019,delta
+Grand le ciel,La maison des ailes,Art Mengo,2018-10-19,226917,19,0.617,0.54,0.471,0.00105,0.0716,-12.185,0.0414,90.025,0.245,4,4,0,spotify:track:7s6zK6ZrUvPo8Bg7PNU8zg,2018,2019,delta
+Au café du canal,La tribu de Pierre Perret au café du canal,Various Artists,2017-10-20,214205,46,0.649,0.387,0.361,4.21e-06,0.0875,-9.624,0.0354,164.319,0.631,3,11,0,spotify:track:54mFoJPjiQkgCb3Ium4yoJ,2017,2019,delta
+"Sans haine, sans armes et sans violence",Rallumeurs d'etoiles,HK & Les saltimbanks,2015-04-20,284720,0,0.384,0.862,0.461,0.0,0.31,-9.015,0.0995,122.003,0.667,4,7,0,spotify:track:62CXcWM7WAp96z7s77VeM4,2015,2019,delta
+India Song - BOF India Song,Chanson française,Jeanne Moreau,2015-06-15,205760,36,0.755,0.297,0.196,0.387,0.117,-14.848,0.0291,69.672,0.191,4,7,0,spotify:track:46SOx5T1UwQ1Ke8dA3RAhF,2015,2019,delta
+Hated Because of Great Qualities,Melody of Certain Damaged Lemons,Blonde Redhead,2000-06-06,282733,0,0.493,0.805,0.285,5.18e-05,0.12,-9.782,0.0421,120.746,0.288,4,6,1,spotify:track:6wOno8WLnLexBztwP4GL7Y,2000,2019,delta
+Sunny Afternoon,Bastringue,Opa Tsupa,2005-06-01,253053,0,0.858,0.614,0.38,0.763,0.188,-9.647,0.03,127.665,0.43,4,0,1,spotify:track:54Ula9dU6p5grLi1kvYN2k,2005,2019,delta
+Jenkins: Palladio,Camille & Julie Berthollet - Palladio,Karl Jenkins,2016-10-07,218613,0,0.864,0.476,0.291,0.854,0.0924,-19.256,0.0412,94.965,0.249,4,2,0,spotify:track:6IgPn9nNQDFhJC4sRlUetB,2016,2019,delta
+Stay Alive,Stay Alive (From The Secret Life Of Walter Mitty),José González,2013-01-01,266906,70,0.726,0.714,0.306,0.168,0.0924,-12.111,0.0388,129.984,0.314,4,6,1,spotify:track:0ZNYGrmcehorhh9JOeg5Iv,2013,2019,delta
+The Wolf,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,92306,50,0.988,0.153,0.102,0.744,0.121,-15.528,0.0371,70.155,0.111,4,10,0,spotify:track:7rJPzx6qMtm4bR5yA6NETt,2007,2019,delta
+Hard Sun,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,322080,66,0.0512,0.438,0.827,0.000402,0.319,-6.531,0.0328,143.377,0.645,4,8,1,spotify:track:0fzCtVM9D5UEwiLqcY8Ouq,2007,2019,delta
+Le sud,Remember Roses,Lola Marsh,2017-06-09,204826,31,0.0555,0.277,0.414,0.0967,0.117,-11.766,0.029,191.434,0.304,4,6,1,spotify:track:1oWrPfdOTfYMxbFZk3ruBr,2017,2019,delta
+Ce qu'ils deviennent,"Louis, Matthieu, Joseph & Anna Chedid (Deluxe)","Louis, Matthieu, Joseph & Anna Chedid",2015-10-23,219786,30,0.859,0.508,0.288,2.14e-06,0.0805,-8.385,0.0309,132.328,0.238,4,5,1,spotify:track:48IvjFkdrFIxG5jv52xK7O,2015,2019,delta
+So Far,הבנות נחמה,HaBanot Nechama,2007-01-01,229426,48,0.673,0.628,0.308,0.0,0.0995,-11.431,0.108,79.911,0.209,4,9,1,spotify:track:18gX0r27pdgG9yTv2oqY6X,2007,2019,delta
+Tango pour Claude - Live,"An Evening With (Live at the Theaterstübchen, Kassel)",Ron Carter,2017-02-24,264680,32,0.649,0.497,0.224,0.825,0.715,-14.928,0.0915,127.486,0.139,3,11,0,spotify:track:3LK7bHN8n0QvBWxVUxNtUK,2017,2019,delta
+Photographs,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,60413,53,0.571,0.539,0.353,0.626,0.0877,-10.191,0.0464,54.571,0.321,4,3,1,spotify:track:27wq82gy6a868oA5HNLRGv,2007,2019,delta
+Cap Ferret - Flots de l'âme (feat. -M-),Cities II,Thibault Cauvin,2018-09-07,183106,33,0.968,0.729,0.178,0.216,0.102,-15.972,0.0467,119.676,0.329,4,4,0,spotify:track:6c4rtj8MN8x5TfIqiNkhwR,2018,2019,delta
+Boonghusa,Boonghusa - EP,Limousine,2014-01-21,351591,26,0.26,0.678,0.788,0.272,0.131,-7.174,0.0378,93.968,0.829,4,0,1,spotify:track:4m9aL5NIesBxhySeYRWXvW,2014,2019,delta
+Rise,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,156453,63,0.906,0.401,0.58,0.217,0.134,-6.86,0.0541,173.277,0.526,3,7,1,spotify:track:1bhpBRCLsVg3p7BWARbaDS,2007,2019,delta
+Réverbère,Nord,Laura Cahen,2017-02-24,225260,0,0.178,0.563,0.675,0.0207,0.263,-7.262,0.0287,89.991,0.427,4,5,1,spotify:track:6IEY9UwvWX0h8EZdng0Miu,2017,2019,delta
+Long Nights,Into The Wild (Music For The Motion Picture),Eddie Vedder,2007-09-18,151773,63,0.675,0.478,0.305,0.00139,0.169,-13.062,0.0306,108.66,0.0974,4,5,1,spotify:track:4lxGVzcUaSF5HW5jtWnShV,2007,2019,delta
+The Call,The Call,Regina Spektor,2009,187426,62,0.934,0.58,0.101,0.000302,0.0768,-15.661,0.0289,91.003,0.302,3,10,1,spotify:track:341863z079BT4EFPiSw9DP,2009,2019,delta
+"Quoi, Quoi, Quoi",We Could Be Lovers,Sarah McKenzie,2015-09-18,208773,43,0.955,0.611,0.35,0.29,0.0752,-10.416,0.106,170.012,0.691,4,1,0,spotify:track:33LLGxCJUrJAX0XvcvN1AH,2015,2019,delta
+Sympathy,Sympathy,Rare Bird,1970-01-01,167573,47,0.822,0.595,0.0916,0.0,0.637,-15.629,0.0411,134.588,0.404,4,9,0,spotify:track:1Yz4f8rXtp24nC5ODB2hbf,1970,2019,delta
+Chamber Music,Chamber Music,Ballaké Sissoko,2009-10-12,331413,34,0.895,0.434,0.201,0.905,0.0888,-13.516,0.0379,126.004,0.334,4,5,1,spotify:track:1FVvn6z0kN2onj1bzQINXN,2009,2019,delta
+Petit Pays,Pili Pili Sur Un Croissant Au Beurre,Gaël Faye,2013,257240,0,0.834,0.556,0.676,0.0,0.161,-9.477,0.133,99.976,0.768,4,7,1,spotify:track:5D6LR9HIfMRzAeG0Xy2pzC,2013,2019,delta
+Fluffy's Harp,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,John Williams,2001-10-30,158760,50,0.97,0.303,0.00382,0.835,0.137,-41.844,0.0447,121.89,0.0705,4,7,1,spotify:track:0obKFDzE3dlnDLqkNPLUkx,2001,2019,delta
+Saturday Sun,Five Leaves Left,Nick Drake,1969-07-03,245013,54,0.966,0.546,0.121,0.011,0.101,-20.259,0.0343,127.122,0.144,3,0,1,spotify:track:1drLQNS9D5z9lBP4DbtO2R,1969,2019,delta

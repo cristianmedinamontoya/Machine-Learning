@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+Hearing,Atlas: Senses,Sleeping At Last,2016-05-06,247799,40,0.818,0.2,0.298,0.937,0.12,-11.599,0.0327,142.029,0.0997,4,7,1,spotify:track:1pUcIyiiqJFmDCxqFMR7xx,2016,2019,gamma
+Old Town Road (feat. Billy Ray Cyrus) - Remix,Old Town Road,Lil Nas X,2019-04-05,157066,2,0.0533,0.878,0.619,0.0,0.113,-5.56,0.102,136.041,0.639,4,6,1,spotify:track:6u7jPi22kF8CTQ3rb9DHE7,2019,2019,gamma
+Karma,Karma,Bender,2019-03-01,196160,18,0.0757,0.728,0.849,0.000701,0.147,-5.001,0.0369,112.002,0.26,4,0,1,spotify:track:4iDpcQ9vNWnpWDC3mcwKbK,2019,2019,gamma
+Wait,"Hurry up, We're Dreaming",M83,2011-10-17,343253,74,0.198,0.426,0.228,0.13,0.0832,-10.552,0.0322,147.994,0.0822,4,2,1,spotify:track:01Q3OyB05mLgH01fpdAMPP,2011,2019,gamma
+Sugar - Acoustic,Francesco Yates,Francesco Yates,2015-10-09,209449,52,0.896,0.776,0.118,0.0,0.108,-14.651,0.0569,119.946,0.418,4,5,0,spotify:track:34hxvwFw9OmXVg3DO27V80,2015,2019,gamma
+Anna Wintour,Anna Wintour,Azealia Banks,2018-04-06,273908,0,0.00281,0.684,0.901,0.00123,0.0232,-5.2,0.0843,121.988,0.485,4,7,1,spotify:track:0U0266U8qEvuhZnHIYZKwd,2018,2019,gamma
+A Drop in the Ocean,The Bedroom Demos,Ron Pope,2008-07-14,220239,71,0.785,0.447,0.393,0.0,0.28,-8.65,0.038,73.139,0.564,3,5,1,spotify:track:5JDcQAztvZTIkrWoZihgvC,2008,2019,gamma
+"Welcome Home, Son",Ghost,Radical Face,2007-03-02,287634,72,0.723,0.587,0.497,0.782,0.142,-10.757,0.0307,144.972,0.401,3,6,1,spotify:track:6HTVZeVQ9J6Uiq6tHESxU9,2007,2019,gamma
+ocean eyes,dont smile at me,Billie Eilish,2017-12-22,200379,84,0.816,0.511,0.363,0.0317,0.084,-7.65,0.041,144.892,0.169,4,4,0,spotify:track:7hDVYcQq6MxkdJGweuCtl9,2017,2019,gamma
+Lalala,Lalala,Y2K,2019-06-28,160626,75,0.178,0.843,0.39,0.0,0.137,-7.899,0.0846,129.972,0.495,4,2,1,spotify:track:51Fjme0JiitpyXKuyQiCDo,2019,2019,gamma
+Losing It,Losing It,FISHER,2018-07-13,248035,75,0.00181,0.76,0.964,0.703,0.0975,-5.844,0.0577,125.003,0.643,4,2,1,spotify:track:6ho0GyrWZN3mhi9zVRW7xi,2018,2019,gamma
+Brother,Into the Flame,Matt Corby,2012-11-16,253521,58,0.215,0.59,0.754,2.05e-05,0.109,-4.705,0.0402,99.937,0.371,4,2,1,spotify:track:5DG2SWW7kPgYqOY0Ex5Ssj,2012,2019,gamma
+Bitch (feat. Vald),Bitch (feat. Vald),Lefa,2019-07-10,235826,53,0.602,0.783,0.663,0.0,0.519,-7.884,0.312,75.046,0.58,4,8,0,spotify:track:65hdAdd1skq94ecWH4vfJI,2019,2019,gamma
+bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,194087,85,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,135.128,0.562,4,7,1,spotify:track:2Fxmhks0bxGSBdJ92vM42m,2019,2019,gamma
+Power Rangers,Sex In The City,Lorenzo,2019-08-23,168373,48,0.284,0.77,0.794,0.000151,0.301,-5.022,0.0931,151.986,0.911,4,1,1,spotify:track:2WZ09SXfgwAdBXB0KYK6ec,2019,2019,gamma
+Djon maya maï (feat. Victor Démé),Convergence,Synapson,2015-10-16,194706,66,0.2,0.79,0.647,0.109,0.0766,-6.732,0.0375,105.012,0.749,4,8,0,spotify:track:3hxRKXzZS0XRYGZ123JDNH,2015,2019,gamma
+Blah Blah Blah,Blah Blah Blah,Armin van Buuren,2018-05-18,183518,3,0.00897,0.612,0.963,0.00378,0.294,-3.912,0.0531,138.009,0.179,4,5,0,spotify:track:4JbmcPawCB84GH4DTrjqSK,2018,2019,gamma
+River,Ibeyi,Ibeyi,2015-02-16,252095,4,0.0962,0.654,0.292,0.0031,0.106,-12.977,0.474,153.547,0.103,4,2,1,spotify:track:3VFj5odD26z1u2eV6Vwxa6,2015,2019,gamma
+Turning Page,Turning Page,Sleeping At Last,2012-06-18,255893,73,0.923,0.307,0.371,0.0253,0.11,-8.498,0.0288,115.241,0.189,3,3,1,spotify:track:2kfGoV9a5dbSKCNmUWH2ZF,2012,2019,gamma
+England Skies - Acoustic Session,We Are Now,Shake Shake Go,2015,201454,36,0.504,0.644,0.3,0.0,0.0782,-12.188,0.0305,82.539,0.474,4,7,0,spotify:track:61VkDcAraqUrPUDTp6QVuc,2015,2019,gamma
+Jealous,Jealous,Labrinth,2014-11-21,287693,1,0.874,0.439,0.153,0.0,0.107,-8.95,0.0479,116.76,0.104,3,1,1,spotify:track:4L2K7JKseFCBoHMZEAszW0,2014,2019,gamma
+2009,Swimming,Mac Miller,2018-08-03,347986,70,0.77,0.533,0.496,0.000164,0.0969,-9.363,0.517,155.158,0.173,4,6,0,spotify:track:6dFn6my1sHK2bcf23GlHwM,2018,2019,gamma
+Médicament,Médicament,Niska,2019-04-05,198857,59,0.693,0.665,0.653,0.0,0.0769,-6.686,0.0893,157.38,0.381,3,6,0,spotify:track:55mCsKCo4bPuYtZvHppp8z,2019,2019,gamma
+HEAVEN,DANCEHALL,The Blaze,2018-09-07,219280,60,0.0257,0.613,0.461,0.75,0.0776,-10.493,0.0313,125.066,0.0837,4,1,0,spotify:track:09wrW4mdaoBrOFY6KSR94h,2018,2019,gamma
+MBK Rocket,Sex In The City,Lorenzo,2019-08-23,132386,48,0.459,0.848,0.577,0.0,0.0552,-7.117,0.432,75.009,0.876,4,8,1,spotify:track:3aleQrFycCdgq6DpxEPBKn,2019,2019,gamma
+Aloha,Panorama,Møme,2016-11-25,218480,65,0.204,0.661,0.635,0.00114,0.186,-7.423,0.0645,99.972,0.365,4,10,0,spotify:track:7IfOWyh4jTfkcGVrXKVNq0,2016,2019,gamma
+Premier Love,Tony Parker,Tony Parker,2006-01-01,212346,39,0.185,0.584,0.675,0.0,0.148,-4.884,0.14,90.055,0.369,4,11,0,spotify:track:4GGOc2urRBawIxSMrIqGGn,2006,2019,gamma
+Make Believe,The Burned [Digital Release],The Burned,2010-01-26,213506,38,0.793,0.448,0.153,0.00443,0.111,-16.338,0.0316,86.828,0.244,4,8,1,spotify:track:52kHg5NLI41ysdcgPErj3x,2010,2019,gamma
+Elévation,Elévation,Vladimir Cauchemar,2019-06-14,155727,51,0.078,0.689,0.929,0.0,0.32,-4.76,0.277,123.011,0.57,4,7,1,spotify:track:2U2N1Jky3VTWJkb5lRam16,2019,2019,gamma
+Tricheur,Les étoiles vagabondes : expansion,Nekfeu,2019-06-21,248466,64,0.407,0.758,0.638,0.0,0.178,-7.984,0.253,137.981,0.188,4,1,0,spotify:track:7C7GtWZmyicqjBDbAWPsCp,2019,2019,gamma
+Tututu,Tututu,ICO,2019-07-05,205609,23,0.469,0.753,0.707,0.0,0.177,-5.866,0.0574,82.064,0.661,4,11,0,spotify:track:0ljcUrLN3vmWgtcThRb8aw,2019,2019,gamma
+Coeur de bombe,S.O.S.,Diam's,2009-11-13,263013,51,0.544,0.452,0.64,0.0,0.127,-8.348,0.183,75.951,0.643,4,5,1,spotify:track:2agGy4cDrbzp64OhO9tXfa,2009,2019,gamma
+Younger,Pretend,Seinabo Sey,2015-10-23,213968,47,0.0216,0.563,0.655,0.0,0.108,-6.707,0.0404,113.607,0.116,4,5,1,spotify:track:1Ujt4hi9SHiMAxyCjJd1Kk,2015,2019,gamma
+Impec,Sex In The City,Lorenzo,2019-08-23,176826,39,0.236,0.83,0.723,0.0,0.338,-5.446,0.159,122.875,0.685,4,7,1,spotify:track:3OD2mvxW9oxfcSZFm7Eb4B,2019,2019,gamma
+We Were Young - Robotaki Remix,We Were Young (Remixes),Petit Biscuit,2019-08-23,196160,32,0.136,0.787,0.658,0.000181,0.085,-5.582,0.333,103.007,0.857,4,2,0,spotify:track:7G8esqtJKX74x7Cv6SqF5n,2019,2019,gamma
+In The End,In The End,Tommee Profitt,2019-03-22,234715,61,0.308,0.526,0.671,4.07e-05,0.0869,-7.445,0.0968,88.033,0.102,4,7,0,spotify:track:2qQg4qcqJmAalzRwhgf5mt,2019,2019,gamma
+Run Baby Run,Run Baby Run,Paul Ritch,2013-08-12,501059,3,0.000634,0.698,0.742,0.851,0.102,-8.047,0.0433,125.993,0.0863,4,7,1,spotify:track:1rd3bZL1cR7gETcEw27apY,2013,2019,gamma
+Africain,L'Apogée,Sexion d'Assaut,2012-11-19,246973,43,0.302,0.657,0.788,0.0,0.0803,-2.832,0.237,131.566,0.611,5,3,0,spotify:track:4W9S2fx0L0q1xrj90kdbhE,2012,2019,gamma
+Sober,Sober,Nick Peters,2019-01-11,168669,18,0.145,0.798,0.607,0.00347,0.108,-9.117,0.0555,116.01,0.306,4,5,0,spotify:track:6trgIUhEMwQXNGgH8CIEzw,2019,2019,gamma
+when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,196077,85,0.978,0.367,0.111,3.97e-05,0.0897,-14.084,0.0972,82.642,0.198,4,4,1,spotify:track:43zdsphuZLzwA9k4DJhU0I,2019,2019,gamma
+Tombé pour elle (feat. Amel Bent),Aller Retour,La Fouine,2007-03-12,278640,52,0.369,0.676,0.754,0.0,0.134,-5.476,0.178,93.893,0.49,4,8,0,spotify:track:5DCxMQMmW3UFZUj1QtUvVc,2007,2019,gamma
+To Build A Home,Ma Fleur,The Cinematic Orchestra,2007-05-07,371320,77,0.885,0.264,0.122,0.349,0.094,-15.399,0.0349,148.658,0.0735,4,9,1,spotify:track:54KFQB6N4pn926IUUYZGzK,2007,2019,gamma
+Barking,Barking,Ramz,2017-12-01,202826,68,0.185,0.45,0.465,0.0,0.0782,-7.867,0.268,70.231,0.788,3,7,0,spotify:track:2U5cq89GCnsR1yixKkC8d5,2017,2019,gamma
+Au DD,Au DD,PNL,2019-03-22,247161,50,0.293,0.777,0.698,2.32e-05,0.0908,-7.706,0.0704,119.963,0.119,4,6,0,spotify:track:6VSaNvPPagk4U5Skxp6XfV,2019,2019,gamma
+Le message,Sur les chemins du retour,Youssoupha,2009-10-12,313613,22,0.166,0.689,0.748,0.0,0.0768,-5.332,0.332,87.583,0.593,4,4,0,spotify:track:0ryCUTEfm6MF6jC3jZwT2H,2009,2019,gamma
+Baianá,Baianá,Bakermat,2019-07-26,180842,0,0.000741,0.564,0.723,0.672,0.543,-6.983,0.0702,121.97,0.466,4,2,0,spotify:track:7MUazB4rGIqFFIkjT95rCO,2019,2019,gamma
+Heal,Long Way Down (Deluxe),Tom Odell,2013-06-24,193080,76,0.952,0.445,0.179,0.00056,0.107,-12.938,0.0396,72.246,0.119,4,1,1,spotify:track:4KlL5Bwlm4yHYxr0B2rHci,2013,2019,gamma
+Maman ne le sait pas (feat. Niska),Destin,Ninho,2019-03-22,203301,68,0.399,0.755,0.875,0.0,0.115,-5.944,0.193,145.008,0.393,4,7,0,spotify:track:5c2HadbVTsMKjja4gohEFI,2019,2019,gamma
+A chaque jour suffit sa peine,Ne2S,Nessbeal,2010-06-14,215893,48,0.0645,0.379,0.71,7.43e-06,0.324,-6.633,0.152,76.932,0.583,1,0,1,spotify:track:3Rf1L0UWxTHp4Vr5jGLGQS,2010,2019,gamma
+Comme une évidence,Enfant de la ville,Grand Corps Malade,2008-03-31,229293,42,0.721,0.444,0.437,2.53e-05,0.109,-12.497,0.202,82.922,0.331,4,5,0,spotify:track:48mBntFuxYXmVJpF55MC6f,2008,2019,gamma
+Free Like a Bird (feat. Larry Lynch),Free Like a Bird (feat. Larry Lynch),Chuck Wonderland,2019-04-04,181908,27,0.0484,0.75,0.869,0.0119,0.12,-5.933,0.0761,114.988,0.214,4,11,1,spotify:track:2GZZyw5c7jtZUfp5dc53eN,2019,2019,gamma
+In My Mind,In My Mind,Dynoro,2018-06-08,184560,82,0.176,0.694,0.77,1.1e-05,0.118,-5.335,0.149,125.905,0.163,4,6,1,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,2018,2019,gamma
+The Words,The Words (Bonus Version),Flox,2009,281973,46,0.0645,0.939,0.66,1.88e-06,0.107,-7.625,0.206,129.989,0.719,4,6,0,spotify:track:0NcnyoQ7MboDoRlIiPGqwU,2009,2019,gamma
+You're Not Alone - 10am Mix,You're Not Alone (10am Mix),Spada,2019-09-03,174274,19,0.00184,0.639,0.753,0.0,0.161,-5.38,0.0398,125.043,0.0709,4,10,1,spotify:track:7AHW6VnJc5B9B1EKw5x9b0,2019,2019,gamma
+Riptide,Dream Your Life Away (Special Edition),Vance Joy,2014-09-09,204280,83,0.431,0.484,0.731,0.0,0.151,-6.694,0.0379,101.654,0.51,4,1,1,spotify:track:3JvrhDOgAt6p7K8mDyZwRd,2014,2019,gamma
+Love$ick (feat. A$AP Rocky),Mura Masa,Mura Masa,2017-07-14,192160,75,0.147,0.625,0.763,0.0106,0.214,-4.997,0.129,88.753,0.721,4,8,0,spotify:track:3sTN90bIP2cJ1783ctHykO,2017,2019,gamma
+Personne,L'adresse,47ter,2019-10-25,219880,37,0.391,0.846,0.693,0.0,0.109,-6.316,0.117,124.01,0.764,4,7,1,spotify:track:1YXyvR33VBLtOCujmlO7M3,2019,2019,gamma
+J'suis pas dans le Game,L'Apogée,Sexion d'Assaut,2012-11-19,261853,36,0.111,0.854,0.631,0.0,0.0972,-5.184,0.115,76.014,0.358,4,6,1,spotify:track:5rftQabJ357Yn3WAEts6T0,2012,2019,gamma
+Damdamdeo,Sex In The City,Lorenzo,2019-08-23,185040,52,0.322,0.932,0.784,0.0,0.0824,-7.045,0.139,138.165,0.75,4,6,1,spotify:track:1r7Uste80NvDFq2ejM2K5D,2019,2019,gamma
+Un peu de haine,Mental,PLK,2019-09-13,167506,69,0.44,0.77,0.658,0.0,0.22,-7.272,0.0593,133.994,0.417,4,1,0,spotify:track:5yYfCoMrhcuxMP9CAmA2rU,2019,2019,gamma
+Talk To Me - Live,EP Live Pilot,Yodelice,2011-01-01,264266,48,0.969,0.336,0.214,0.0019,0.354,-14.074,0.0332,82.389,0.075,4,4,0,spotify:track:3IwXH9bgTW4chvvoHit66h,2011,2019,gamma
+Neptune,Sauvage,Fakear,2014-01-01,229792,34,0.141,0.807,0.543,0.86,0.108,-7.483,0.203,157.037,0.362,4,2,0,spotify:track:5eXQ1TwlcoKp5znwG1XfWg,2014,2019,gamma
+La vie qu'on mène,Destin,Ninho,2019-03-22,193443,73,0.687,0.8,0.756,2.06e-06,0.111,-4.4,0.0367,113.204,0.456,3,7,0,spotify:track:0Jh6iWjna1wk5le0Ahn7No,2019,2019,gamma
+Jailer,ASA (Asha) [Deluxe Edition],Aṣa,2008-10-20,247800,51,0.443,0.889,0.415,0.0,0.112,-5.051,0.0446,101.992,0.895,4,0,1,spotify:track:0ggGTGpdhiWCQHY7UoNDI2,2008,2019,gamma
+Bye Bye Macadam,Tohu Bohu,Rone,2012-10-15,265250,45,0.107,0.593,0.509,0.893,0.277,-12.042,0.0626,190.028,0.0769,4,4,0,spotify:track:609ztq0z70ty0fFR3KUuJl,2012,2019,gamma
+Sensation,Sensation,PLÜM,2019-02-01,164869,52,0.823,0.688,0.479,0.0,0.11,-9.419,0.0777,114.89,0.432,4,2,1,spotify:track:3nKxX6zfFneRwrQtC8mshP,2019,2019,gamma
+Porto - Mix,Club St Tropez 2014,Various Artists,2014-06-30,330400,22,0.0015,0.68,0.707,0.837,0.105,-6.51,0.0472,127.999,0.196,4,8,1,spotify:track:2a23NJzyZneFwKmu9IDS84,2014,2019,gamma
+Gam Gam,Gam Gam,Marnik,2018-10-26,213985,42,0.034,0.475,0.914,0.000202,0.277,-4.255,0.0555,138.007,0.156,4,0,0,spotify:track:2wsXmtsA08Pe3xZlGNkLgd,2018,2019,gamma
+Let You Know,Let You Know,Flume,2019-06-12,199579,58,0.0544,0.759,0.694,0.0,0.131,-4.075,0.0418,117.056,0.374,4,5,0,spotify:track:7p0tz5SeCrSxTLSvwR8W3D,2019,2019,gamma
+Dancing,Dancing,Aslove,2019-02-15,204125,29,0.185,0.701,0.523,0.0011,0.22,-10.44,0.0684,120.081,0.473,4,7,1,spotify:track:4TeBMvVZCnp9X0kpY8R3Hw,2019,2019,gamma
+Renegades,VHS,X Ambassadors,2015-06-30,195200,80,0.0144,0.526,0.862,0.0597,0.229,-6.003,0.0905,90.052,0.528,4,2,1,spotify:track:0fYVliAYKHuPmECRs1pbRf,2015,2019,gamma
+Asakusa,Asakusa,Fakear,2015-05-18,256390,17,0.0195,0.678,0.785,0.652,0.134,-9.083,0.0481,105.04,0.12,3,2,0,spotify:track:4c5J9eey7Eilhk4Lmv1pXj,2015,2019,gamma
+Fireflies,Ocean Eyes,Owl City,2009-01-01,228346,81,0.0275,0.512,0.662,0.0,0.118,-6.797,0.0439,180.114,0.472,4,3,1,spotify:track:3DamFFqW32WihKkTVlwTYQ,2009,2019,gamma
+Shades (feat. Donnie Sloan & Ricky Ducati),Aurra / Shades,Tchami,2018-10-04,218000,0,0.0994,0.623,0.746,1.95e-05,0.109,-6.509,0.0783,119.984,0.179,4,5,1,spotify:track:5EqvRNLWBnhHevkDIyCPU6,2018,2019,gamma
+Arc-en-ciel,Arc-en-ciel,Booba,2019-05-16,169846,54,0.799,0.583,0.418,0.0,0.109,-10.898,0.0451,129.915,0.357,4,5,0,spotify:track:07qHCBBSRswIsfs0waYdjC,2019,2019,gamma
+Khapta,En esprit,Heuss L'enfoiré,2019-01-25,162906,61,0.00937,0.811,0.692,0.0,0.0598,-2.836,0.105,125.009,0.817,4,4,0,spotify:track:6stxV2bl7xSiPUornxwyNR,2019,2019,gamma
+Goutte d'eau,Destin,Ninho,2019-03-22,157184,67,0.647,0.683,0.693,0.0,0.121,-6.441,0.127,137.826,0.322,4,5,0,spotify:track:0rQbvQpjQ6QeeCAnVRzokf,2019,2019,gamma
+Echo,Midnight Starlight,Jason Walker,2011-02-21,212640,55,0.664,0.403,0.45,7.57e-06,0.0946,-6.314,0.0297,147.694,0.116,3,8,1,spotify:track:7v5s7YFXrwzytRan0HtZGb,2011,2019,gamma
+Sunday,Møment II,Møme,2018-12-14,264979,57,0.248,0.817,0.576,0.000274,0.0919,-7.475,0.111,117.991,0.432,4,4,0,spotify:track:74miq4ubMDpEZWtdEh8u9R,2018,2019,gamma
+I'm Yours,I'm Yours,Jason Mraz,2008-02-12,243494,61,0.565,0.693,0.43,0.0,0.0928,-9.395,0.0442,151.001,0.731,4,11,1,spotify:track:03yc0G2OoH1Eeyu7Piy8fK,2008,2019,gamma
+Ma belle,Ma belle,Moha La Squale,2019-08-05,158275,67,0.764,0.739,0.656,3.8e-06,0.0896,-5.516,0.0578,82.011,0.47,4,0,1,spotify:track:3Aq1SJ1hWlfazx8IIC6u1D,2019,2019,gamma
+Nique la BAC,Sex In The City,Lorenzo,2019-08-23,147293,56,0.0374,0.952,0.891,0.0,0.0862,-5.719,0.337,116.054,0.701,4,5,0,spotify:track:4VzalpjiHHK5cKSgrZuNjg,2019,2019,gamma
+Snakes,Snakes,Sikdope,2016-04-18,174375,49,0.0262,0.86,0.956,0.722,0.183,-1.611,0.0727,128.013,0.0794,4,11,1,spotify:track:7wC9cG5EgruIiQe6Xt6SFm,2016,2019,gamma
+Photomaton,Pola,Jabberwocky,2014-01-01,280120,55,0.658,0.762,0.574,0.193,0.0876,-11.474,0.0477,100.995,0.645,4,0,1,spotify:track:7FAyIPD8YLpUQc5r0MSv60,2014,2019,gamma
+Côte Ouest,L'adresse,47ter,2019-10-25,232653,59,0.534,0.772,0.596,0.0,0.172,-7.962,0.102,152.057,0.603,4,8,1,spotify:track:4ZuuPLV4qYiznagLAFPHcW,2019,2019,gamma
+Wild - The Avener Rework,Wild,The Avener,2019-07-26,201995,27,0.223,0.646,0.731,0.00058,0.106,-6.647,0.0513,97.936,0.739,4,0,0,spotify:track:2ssDiLvEwzThX6MNstpdaf,2019,2019,gamma
+La lune rousse,La lune rousse (feat. Deva Premal),Fakear,2014-06-06,225256,54,0.0489,0.721,0.813,0.00238,0.153,-7.763,0.0321,113.002,0.161,4,9,1,spotify:track:5Jlfld6JdyQSeDvNdv0XRE,2014,2019,gamma
+Problèmes,Mental,PLK,2019-09-13,189346,67,0.377,0.674,0.558,0.0,0.16,-8.928,0.0499,86.731,0.592,4,11,0,spotify:track:6lZbLMHu98qpkOY0t3efUK,2019,2019,gamma
+No Goodbye,No Goodbye,Paul Kalkbrenner,2019-07-26,168546,66,0.0955,0.945,0.584,0.341,0.147,-7.649,0.044,124.996,0.626,4,6,0,spotify:track:5gwLIRjGFf3hXuHoKEsWLg,2019,2019,gamma
+Changes,The Best of 2Pac,2Pac,2007-12-03,268960,65,0.0404,0.865,0.657,0.0,0.14,-6.722,0.076,111.115,0.316,4,7,1,spotify:track:00i2HU7TEzzftShjRrDSEF,2007,2019,gamma
+Le temps est bon,Aller-retour,Bon Entendeur,2019-06-07,203160,0,0.24,0.56,0.68,3.54e-05,0.375,-5.681,0.0797,98.05,0.591,4,3,1,spotify:track:0xh5kFdNkx6h7K1z7XpDqX,2019,2019,gamma
+Stumble,Juicy Fruit,Kraak & Smaak,2016-06-10,270720,63,0.0917,0.665,0.549,0.557,0.0583,-11.388,0.0458,91.036,0.217,4,7,0,spotify:track:3uvALUobqjZvTGAh6737Mb,2016,2019,gamma
+Toujours plus,Sex In The City,Lorenzo,2019-08-23,171146,47,0.54,0.863,0.551,0.0,0.373,-7.16,0.459,150.089,0.765,4,2,1,spotify:track:2j3OKdwiMwLQUXHYJ5v1y8,2019,2019,gamma
+7 Years,Lukas Graham (Blue Album),Lukas Graham,2016-03-25,237266,64,0.291,0.765,0.472,0.0,0.389,-5.837,0.052,119.946,0.352,4,10,1,spotify:track:0VQjTLPG8l3egUHmIxe265,2016,2019,gamma
+Recognise (feat. Flynn),Recognise (feat. Flynn),Lost Frequencies,2019-03-08,186062,0,0.155,0.717,0.741,0.0,0.133,-6.645,0.053,105.997,0.188,4,10,0,spotify:track:0XE5gYX1tMmHFPvedjvfBy,2019,2019,gamma
+Back 2 U,Back 2 U,Like Mike,2018-09-07,146143,24,0.0106,0.514,0.593,0.0,0.103,-6.2,0.0495,105.034,0.164,4,4,0,spotify:track:7kXdkbsXZTRuzovG3Tjp0e,2018,2019,gamma
+Trop tard,La vraie vie (Deluxe),Bigflo & Oli,2017-11-03,307213,40,0.66,0.767,0.528,0.0,0.139,-8.637,0.471,91.992,0.5,4,9,0,spotify:track:3LqJTTiy873mSX4DUNjJqQ,2017,2019,gamma
+Aufstehn! (feat. CeeLo Green),Next!,Seeed,2005-10-14,230960,60,0.112,0.849,0.83,0.0,0.384,-3.907,0.186,127.279,0.873,4,6,1,spotify:track:2KpvM181ZwtIWwIElZx4vI,2005,2019,gamma
+Nausicaa,Nausicaa,Fakear,2019-02-08,230492,46,0.0469,0.582,0.612,0.812,0.332,-5.908,0.0514,155.965,0.494,3,10,0,spotify:track:13ARZVj5BZAJCPfa0rOvYv,2019,2019,gamma
+Mama Says,Ibeyi,Ibeyi,2015-02-16,249399,0,0.597,0.861,0.215,0.00105,0.137,-14.439,0.115,119.932,0.144,4,0,0,spotify:track:7DTyq8GK9kTCV3N65gkMPG,2015,2019,gamma

@@ -1,0 +1,8 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user,Id
+I Think of You,Classics,Scott Hamilton,20/05/2022,423538,17,0.873,0.526,0.227,0.793,0.14,-12.078,0.0369,116.198,0.315,4,10,1,spotify:track:5O7gq2BSiX0UhDgPMLbayr,2022,2018,zeta,C198
+Armando's Rhumba,Armando's Rhumba,Steve Gadd,13/05/2022,323946,3,0.888,0.583,0.226,0.885,0.105,-20.487,0.0716,84.609,0.295,4,8,1,spotify:track:07QwcbP1ACnwjWI1AWaZel,2022,2018,zeta,C585
+Shhh / Peaceful,In A Silent Way,Miles Davis,30/07/1969,1094733,41,0.711,0.324,0.394,0.00206,0.19,-11.385,0.0298,129.859,0.221,4,7,1,spotify:track:267lVml7gJ9xefwgO6E2Ag,1969,2018,zeta,C1717
+Deep Sea,Stroking the Tail of the Bird,Daevid Allen,12/12/2011,625359,1,0.959,0.234,0.19,0.929,0.191,-19.099,0.0334,92.554,0.0361,4,7,1,spotify:track:26mEO8YywWtUy7B1b5Tkls,2011,2018,zeta,C1730
+"Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile",Beethoven: The Complete Piano Sonatas,Ludwig van Beethoven,04/01/2019,954360,1,0.985,0.297,0.0553,0.919,0.0861,-22.881,0.0375,65.297,0.0397,4,0,1,spotify:track:3Iv7gR4OiJknw9f9lgztTh,2019,2018,zeta,C1771
+Probier's mal mit Gem√ºtlichkeit,Probier's mal mit Gem√ºtlichkeit,Quadro Nuevo,08/04/2022,274011,7,0.972,0.608,0.133,0.761,0.208,-13.392,0.0541,162.255,0.704,4,10,1,spotify:track:1xHfaPXD5oLGfsnFrbwIEu,2022,2018,zeta,C2000
+Konda,Directions,Miles Davis,1981,845746,9,0.976,0.455,0.32,0.393,0.309,-20.881,0.0499,96.123,0.397,4,2,1,spotify:track:0GnGtAWUla5ibhN5xZuqQJ,1981,2018,zeta,C3434

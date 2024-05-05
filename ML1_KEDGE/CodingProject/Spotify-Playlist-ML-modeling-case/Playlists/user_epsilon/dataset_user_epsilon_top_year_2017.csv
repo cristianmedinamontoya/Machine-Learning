@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user,Id
+Baobab,Baobab,Waysons,2017-04-07,184703,0,0.0185,0.651,0.728,0.462,0.116,-4.719,0.0596,150.141,0.333,4,5,0,spotify:track:2mUj1keQv8OV3WLd8llAnM,2017,2017,epsilon,C21
+Too Fast,Too Fast,Wizard,2017-03-19,160052,0,0.0604,0.741,0.533,0.751,0.0983,-13.013,0.037,123.008,0.236,4,6,1,spotify:track:4AHDlIGdyFTe2A37G1Hf2j,2017,2017,epsilon,C85
+Ghosts 'n' Stuff,For Lack Of A Better Name,deadmau5,2009-01-01,328253,58,3.97e-05,0.617,0.617,0.0598,0.253,-6.941,0.122,127.996,0.517,4,8,1,spotify:track:4ua0IepBEISCWwF8dTJvcU,2009,2017,epsilon,C113
+Watercolour - Full Version; Single,Immersion,Pendulum,2010-05-21,304106,60,0.000174,0.421,0.896,0.039,0.323,-5.696,0.103,174.065,0.169,4,5,0,spotify:track:5ami95W9OOWQPwrBb5tud5,2010,2017,epsilon,C121
+Blue (Da Ba Dee),Blue (Da Ba Dee),We Rabbitz,2017-04-07,185304,36,0.0276,0.679,0.549,1.93e-05,0.171,-8.67,0.0354,120.034,0.477,4,11,0,spotify:track:374oL2AlfEPD4LZdjI3tjm,2017,2017,epsilon,C309
+DJ Turn It Up,Amsterdam Twerk Music,Yellow Claw,2013-10-15,211776,65,0.000956,0.829,0.695,0.178,0.112,-5.561,0.0473,102.018,0.369,4,1,1,spotify:track:1ivuWgxFQb2xzxVNSlB1hF,2013,2017,epsilon,C335
+Strobe - Radio Edit,Strobe,deadmau5,2010-01-01,214186,54,8.45e-05,0.649,0.706,0.831,0.163,-7.209,0.031,128.032,0.0736,4,8,0,spotify:track:6c9EGVj5CaOeoKd9ecMW1U,2010,2017,epsilon,C352
+Had Some Drinks,Had Some Drinks,Two Feet,2017-05-19,140973,0,0.14,0.825,0.304,0.000498,0.147,-11.597,0.101,84.927,0.3,4,5,1,spotify:track:2ap1x3VLFXzeVRDl14PYsM,2017,2017,epsilon,C392
+Polaris,"We Are Friends, Vol. 6",Various Artists,2017-03-24,585000,0,0.0362,0.67,0.792,0.881,0.101,-8.211,0.0465,128.018,0.0348,3,7,1,spotify:track:6Qng1hawspj0ddyexe0IHV,2017,2017,epsilon,C420
+E.L.E.P.H.A.N.T,E.L.E.P.H.A.N.T,Booba,2016-07-25,182801,0,0.176,0.84,0.69,1.77e-05,0.102,-4.525,0.0623,121.028,0.258,4,6,0,spotify:track:0zw22D56UqMoouDHEp3d8p,2016,2017,epsilon,C463
+Stronger,Graduation (UK Version),Kanye West,2007-09-11,311866,2,0.00564,0.617,0.717,0.0,0.408,-7.858,0.153,103.992,0.49,4,10,0,spotify:track:4y6c5vMzKKM3KsMbHtjKx5,2007,2017,epsilon,C473
+When I Say I Love U (Saux Remix),When I Say I Love U (Saux Remix),Shy Girls,2013-12-01,257884,0,0.362,0.726,0.399,0.0517,0.109,-12.88,0.0667,103.99,0.0608,4,0,1,spotify:track:0JpMvWrCGVQozGUPRHSpzL,2013,2017,epsilon,C482
+It's over (feat. Maki Flow),It's over (feat. Maki Flow),JØD,2017-05-05,234083,38,0.0276,0.42,0.612,0.0,0.0945,-6.333,0.0353,97.967,0.206,4,8,1,spotify:track:0NNb1JjdbVOgE6pDqIkvkU,2017,2017,epsilon,C514
+Champions,Champions,Various Artists,2016-06-10,334253,0,0.0653,0.696,0.774,0.0,0.87,-2.424,0.084,134.985,0.33,4,6,0,spotify:track:3eZGNBvKkExXp8q5FAyM8y,2016,2017,epsilon,C529
+'Till I Collapse,The Eminem Show,Eminem,2002-05-26,297893,0,0.0748,0.551,0.851,0.0,0.0784,-3.277,0.197,171.411,0.1,4,1,1,spotify:track:6yr8GiTHWvFfi4o6Q5ebdT,2002,2017,epsilon,C586
+Espera,Espera,Emrod,2017-04-14,242285,40,0.139,0.734,0.639,0.844,0.527,-8.653,0.0831,105.041,0.0937,3,4,0,spotify:track:41u2DXpWr06sRGtvrgtyhH,2017,2017,epsilon,C710
+Issues - Alan Walker Remix,Issues (Alan Walker Remix),Julia Michaels,2017-05-05,181000,0,0.163,0.529,0.765,1.97e-06,0.105,-4.368,0.0718,112.468,0.646,4,8,1,spotify:track:6nlXWOyoCPLXXWaklOyQcb,2017,2017,epsilon,C720
+Tonight Tonight,Whatever,Hot Chelle Rae,2011-11-25,200466,72,0.0764,0.686,0.783,0.0,0.163,-4.977,0.119,99.978,0.814,4,4,1,spotify:track:2i0AUcEnsDm3dsqLrFWUCq,2011,2017,epsilon,C784
+Stems,Stems,Half an Orange,2017-06-30,180900,0,0.679,0.548,0.454,0.000629,0.108,-11.185,0.178,74.891,0.162,4,10,0,spotify:track:6c47vE5LXS2ccZKScluvep,2017,2017,epsilon,C812
+Forgive,Vox EP,Wizard,2017-03-25,177057,28,0.000484,0.714,0.647,0.898,0.293,-12.252,0.0666,122.048,0.0393,4,1,1,spotify:track:6CVCIVhzjsR6SHtTSlTRcg,2017,2017,epsilon,C1034
+Rendezvous (feat. Leon Thomas) [Tyron Hapi Remix],Rendezvous - REMIXES,Kronic,2017-05-01,187734,0,0.0644,0.666,0.627,0.0,0.13,-6.051,0.032,98.99,0.272,4,7,0,spotify:track:5TgCPHDjp961atkB0atlRo,2017,2017,epsilon,C1093
+In Da Club,Get Rich Or Die Tryin',50 Cent,2003-02-06,193466,85,0.255,0.899,0.713,0.0,0.0708,-2.752,0.366,90.051,0.777,4,6,0,spotify:track:7iL6o9tox1zgHpKUfh9vuC,2003,2017,epsilon,C1099
+Rap Game,Le Code De L'horreur,Rohff,2008-12-12,266760,40,0.163,0.851,0.808,0.0,0.126,-3.684,0.327,83.994,0.489,4,8,1,spotify:track:0Q2V3BgdeM9UdrUjb1PavJ,2008,2017,epsilon,C1109
+What's Love,Real / Love EP,The Tech Thieves,2017-06-28,223058,29,0.255,0.588,0.434,0.000125,0.108,-8.291,0.0452,170.264,0.137,4,1,0,spotify:track:18e9NKI6HEMrDzZN06CaS8,2017,2017,epsilon,C1158
+Don't Hurt,Don't Hurt,Mike Williams,2017-05-08,215624,0,0.0351,0.647,0.781,3.65e-05,0.181,-6.06,0.0432,128.013,0.274,4,1,0,spotify:track:1Gf0LKwsdN4pHPIGHEQXv1,2017,2017,epsilon,C1162
+The Sound of Silence,Immortalized (Deluxe Edition),Disturbed,2015-08-15,248466,73,0.468,0.322,0.28,1.1e-06,0.102,-9.367,0.0281,85.794,0.175,4,6,0,spotify:track:0eZBeB2xFIS65jQHerispi,2015,2017,epsilon,C1179
+J'accélère,"P.D.R.G. (Pouvoir, Danger, Respect & Game)",Rohff,2013-09-23,275933,34,0.0242,0.467,0.9,0.0,0.365,-4.553,0.344,92.183,0.422,4,9,1,spotify:track:6VU2I6gV1bLcl84wL3HGQM,2013,2017,epsilon,C1187
+Leave Me,Leave Me,Tandee,2017-04-03,194695,0,0.156,0.493,0.95,0.65,0.0509,-3.989,0.373,157.012,0.449,4,2,0,spotify:track:6yGZRH6emg318LjgrwNqBz,2017,2017,epsilon,C1210
+Hallucinations,Hallucinations,R3HAB,2017-04-28,176065,0,0.0107,0.807,0.59,0.00033,0.0697,-7.918,0.0483,122.015,0.506,4,5,0,spotify:track:7rwqkua9U2yWomm2hIPdOm,2017,2017,epsilon,C1291
+Trouble,Trouble,R3HAB,2017-01-27,173203,0,0.183,0.673,0.595,6.71e-05,0.149,-6.075,0.0863,94.237,0.558,4,0,1,spotify:track:3A2waEDfZQfl6RNOn8Y1xW,2017,2017,epsilon,C1361
+The Kids Aren't Alright,Americana,The Offspring,1998-11-16,180160,0,0.00594,0.527,0.941,2.89e-05,0.0641,-4.213,0.0377,99.636,0.793,4,1,1,spotify:track:01a0J96fRD91VnjQQUCqMK,1998,2017,epsilon,C1362
+Diamanten,Gute Nacht,Kontra K,2017-04-28,207354,46,0.158,0.468,0.834,0.0,0.282,-5.898,0.391,86.8,0.553,4,9,0,spotify:track:0RE7AgMKdpcvRkK7EhNoBs,2017,2017,epsilon,C1365
+Five Hours,Five Hours,Deorro,2014-04-02,326887,0,0.0197,0.88,0.821,0.661,0.234,-2.545,0.118,127.907,0.575,4,5,0,spotify:track:5UvhBC5nySpIgrJA7OvjwQ,2014,2017,epsilon,C1368
+Light,Light,San Holo,2017-02-10,239853,63,0.0857,0.57,0.763,2.49e-06,0.0932,-4.137,0.0573,150.088,0.43,4,1,1,spotify:track:6jq6rcOikCZAmjliAgAmfT,2017,2017,epsilon,C1408
+Another World,Another World,Approaching Nirvana,2017-05-06,210857,16,0.00701,0.547,0.739,0.0893,0.369,-8.025,0.0416,139.939,0.253,4,8,1,spotify:track:2HvBuQsvqfdwDkpoCxFMqd,2017,2017,epsilon,C1441
+Amnésie,Atlas,Nhyx,2017-05-05,387097,0,0.538,0.478,0.75,0.682,0.274,-6.933,0.0438,124.015,0.0675,4,11,0,spotify:track:1mJq3tpVwEQF1Bxmo4A8tk,2017,2017,epsilon,C1510
+Façon Sex,Les Hits de l'été - 50 chansons inoubliables,Miguel Castello Ultra Machine,2014-02-03,210320,22,0.27,0.696,0.827,0.0,0.388,-1.829,0.0339,120.029,0.857,4,8,1,spotify:track:0hPUwQPnRt0G887kZnzrda,2014,2017,epsilon,C1556
+U Mad,U Mad,VIC MENSA,2015-04-20,299799,0,0.0122,0.722,0.586,0.0,0.325,-6.495,0.0472,134.047,0.48,4,1,1,spotify:track:6rOLiOF1wIqFa9f0G4jOhX,2015,2017,epsilon,C1589
+No Superstar (Full Vocal Radio Mix),No Superstar,Remady,2009-11-23,223600,0,0.0112,0.436,0.852,0.000373,0.171,-6.892,0.0461,128.011,0.529,4,11,0,spotify:track:36IyU0a4dN3N98rglur3cg,2009,2017,epsilon,C1628
+Fantastic (Remastered),Overture,K-391,2017-03-17,276879,0,0.00153,0.695,0.777,0.0406,0.103,-7.709,0.0673,127.919,0.219,4,8,1,spotify:track:3pk93uiJLV5VQuF46ds0Cd,2017,2017,epsilon,C1640
+Tuesday (feat. Danelle Sandoval),Tuesday (feat. Danelle Sandoval),Burak Yeter,2016-09-02,241874,73,0.0156,0.841,0.639,0.0654,0.0545,-6.052,0.0688,99.002,0.675,4,9,0,spotify:track:7EVk9tRb6beJLTHrg6AkY9,2016,2017,epsilon,C1647
+Ahora Dice,Ahora Dice,Chris Jedi,2017-03-17,271080,0,0.246,0.708,0.693,0.0,0.129,-5.516,0.138,143.965,0.427,4,6,1,spotify:track:22eADXu8DfOAUEDw4vU8qy,2017,2017,epsilon,C1702
+Strippers,Strippers,Wizard,2017-04-23,222040,0,0.00377,0.691,0.528,0.826,0.102,-8.441,0.0331,126.009,0.605,4,8,0,spotify:track:6e5jbzbNLBqf0E6TzxGhUG,2017,2017,epsilon,C1748
+Anonymous (feat. Mister Blonde),Anonymous (feat. Mister Blonde),Jackal,2016-07-29,253492,23,0.112,0.566,0.681,0.0,0.0987,-5.669,0.0478,77.023,0.227,4,6,0,spotify:track:1oJKOOFb51noYZPBGuTH1x,2016,2017,epsilon,C1760
+Rayon Vert,Sunset on Clouds,Pandrezz,2017-04-07,235230,22,0.799,0.606,0.347,0.276,0.129,-12.181,0.285,189.939,0.24,4,0,0,spotify:track:4ZNW07NOXfXZ6IJGq1alu1,2017,2017,epsilon,C1822
+Meet Me (EFL117),Electric For Life Episode 117,Gareth Emery,2017-02-21,188144,13,0.327,0.461,0.601,8.88e-06,0.827,-7.159,0.368,144.907,0.334,4,7,0,spotify:track:5FOYiqVOyPvXFRDP9c1NJX,2017,2017,epsilon,C1852
+Sleepwalker (feat. London Thor),Sleepwalker (feat. London Thor),AWAY,2017-05-30,250105,0,0.241,0.552,0.543,0.0145,0.512,-9.34,0.0646,94.856,0.316,4,5,0,spotify:track:5nOuzP4xzvm6sDguD1iyyV,2017,2017,epsilon,C1869
+Fortress (Just A Gent Remix) [feat. Joni Fatora],Ashes (Remixes),ILLENIUM,2016-12-16,227086,0,0.0852,0.6,0.759,0.00012,0.237,-4.965,0.262,129.892,0.419,4,5,1,spotify:track:4idO4Mj5a03P7Wj969mzXt,2016,2017,epsilon,C1875
+Further,Further,ATTLAS,2017-04-28,307914,0,0.803,0.643,0.671,0.801,0.086,-10.821,0.0374,125.023,0.0693,4,10,1,spotify:track:3eROgdA5NjH03NF9RvInML,2017,2017,epsilon,C1957
+Thunderstruck,The Razors Edge,AC/DC,1990-09-24,292880,86,0.000147,0.502,0.89,0.0117,0.217,-5.175,0.0364,133.52,0.259,4,4,1,spotify:track:57bgtoPSgt236HzfBOd8kj,1990,2017,epsilon,C1997
+Only One - Radio Edit,Only One (Radio Edit),Sigala,2016-12-02,203906,47,0.0039,0.626,0.938,0.000452,0.599,-3.005,0.0944,124.932,0.518,4,7,1,spotify:track:5ev0Z2lFzmhjlQCWpRAWiG,2016,2017,epsilon,C2033
+Escápate Conmigo,Escápate Conmigo,Wisin,2017-03-31,232786,0,0.0245,0.747,0.864,4.46e-05,0.0853,-3.181,0.0599,92.028,0.754,4,8,0,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,2017,2017,epsilon,C2043
+Unshakeable,Unshakeable,Nix K,2017-02-17,260415,12,0.0486,0.772,0.802,0.0185,0.0666,-3.379,0.0408,125.009,0.444,4,8,0,spotify:track:5I4YlO8vySoE16v2IwyYKp,2017,2017,epsilon,C2153
+What You Say - Ken Loi Remix,What You Say (Ken Loi Remix),Exodus,2016-08-09,220645,25,0.00685,0.584,0.828,0.000471,0.186,-5.804,0.0486,123.998,0.359,4,6,0,spotify:track:4HRjrv5I1gnzSD6RnU3y3Q,2016,2017,epsilon,C2240
+Paso Lento - Instrumental,La Mala,Maxy pley One,2016-11-12,126920,17,0.00188,0.811,0.55,0.673,0.143,-6.719,0.0634,92.121,0.785,4,4,0,spotify:track:2TadLfItGlpIzv3r44QJWi,2016,2017,epsilon,C2329
+Erfolg ist kein Glück,Aus dem Schatten ins Licht,Kontra K,2015-02-06,210813,67,0.382,0.605,0.716,0.0,0.104,-6.277,0.332,79.911,0.804,4,1,1,spotify:track:4xuVfUXkHe1YZZZWNICGcV,2015,2017,epsilon,C2365
+I Got Love,I Got Love,MiyaGi & Endspiel,2017-06-01,276687,0,0.146,0.665,0.872,0.0,0.15,-4.361,0.199,106.035,0.233,4,5,1,spotify:track:5rwsJbBNa8SfPW4oFA1GjP,2017,2017,epsilon,C2394
+Tokyo Drift,Tokyo Drift,KVSH,2017-03-13,222857,6,0.053,0.844,0.767,1.53e-05,0.166,-4.851,0.0461,125.989,0.342,4,10,1,spotify:track:20WcuVfTh0QFkIsJUncdON,2017,2017,epsilon,C2448
+Mehr als ein Job,Gute Nacht,Kontra K,2017-04-28,190529,53,0.115,0.542,0.819,0.0,0.113,-7.683,0.329,191.898,0.464,4,1,0,spotify:track:6hyQOWD7kUVEJTjIHtJXdM,2017,2017,epsilon,C2464
+This Feeling - Original Mix,In The Rain,Deuces,2015-07-27,219000,16,0.356,0.695,0.6,1.02e-05,0.129,-8.161,0.753,80.061,0.35,4,8,1,spotify:track:3xpC0vT4aWXHy7qmk9ywE9,2015,2017,epsilon,C2484
+Born to Be Alive - The Original,Born to Be Alive (The Original),Patrick Hernandez,1978,188133,74,0.0834,0.704,0.868,0.0,0.206,-5.808,0.0315,131.468,0.808,4,2,1,spotify:track:3XIEWK1V9n25PS9Vb6axj5,1978,2017,epsilon,C2504
+Midnight Hearts - Extended Mix,Midnight Hearts,Sam Feldt,2015-05-25,277057,0,0.00182,0.75,0.746,0.0651,0.0702,-5.093,0.0684,124.999,0.719,4,5,0,spotify:track:2B9sN3dUz76siIrdmU1uyw,2015,2017,epsilon,C2511
+Panam Hall Starz,Gravé dans la roche,SNIPER,2003-05-19,468413,49,0.224,0.75,0.917,0.0,0.276,-4.27,0.384,96.936,0.638,4,2,0,spotify:track:4zSki09FPXrzqFZJaCjnGs,2003,2017,epsilon,C2566
+Symphony (feat. Zara Larsson),Symphony (feat. Zara Larsson),Clean Bandit,2017-03-16,212459,76,0.259,0.707,0.629,1.6e-05,0.138,-4.581,0.0563,122.863,0.457,4,0,0,spotify:track:1x5sYLZiu9r5E43kMlt9f8,2017,2017,epsilon,C2585
+Pretty Girl - Cheat Codes X CADE Remix,Pretty Girl (Cheat Codes X CADE Remix),Maggie Lindemann,2017-03-03,193613,59,0.15,0.703,0.868,0.132,0.104,-4.661,0.0291,121.03,0.733,4,7,0,spotify:track:39IsH7B5byx8NRlEKlZVg9,2017,2017,epsilon,C2605
+Dream State,Dream State - Single,Kozah,2016-10-13,270387,37,0.000227,0.383,0.762,0.371,0.88,-7.124,0.0361,75.019,0.0889,4,11,0,spotify:track:5CuuByLow8aJitcsU4Btuv,2016,2017,epsilon,C2632
+Doing It for the Money,III,Foster The People,2017-04-27,227586,0,0.00375,0.577,0.817,0.00204,0.196,-4.754,0.046,77.504,0.557,4,7,0,spotify:track:1C50sKrPuWp8mkSC0GA6DW,2017,2017,epsilon,C2636
+Le son qui tue (avec Natty),la fierte des notres,Rohff,2004-06-18,224200,57,0.238,0.659,0.834,0.0,0.0847,-4.428,0.17,91.517,0.757,4,1,0,spotify:track:3ee6eXqZqJo3DJEiBr1SHs,2004,2017,epsilon,C2643
+Euphoria,OZZIE BEATS: Volume 1,OZZIE,2014-07-13,281181,21,5.63e-05,0.608,0.716,0.881,0.135,-4.881,0.0297,139.97,0.0666,4,9,0,spotify:track:2EPfkBQuV7wXNkLPjD0mYW,2014,2017,epsilon,C2661
+Scared to Be Lonely,Scared to Be Lonely,Martin Garrix,2017-01-27,220883,80,0.0895,0.584,0.54,0.0,0.261,-7.786,0.0576,137.972,0.195,4,1,0,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,2017,2017,epsilon,C2701
+4ware,W:/2016ALBUM/,deadmau5,2016-12-02,519102,0,0.287,0.738,0.711,0.866,0.11,-9.037,0.0442,127.992,0.64,5,8,0,spotify:track:1ROBixGgXrYlcCcrBfxAoy,2016,2017,epsilon,C2710
+Aurora,Aurora,Funkin Matt,2017-05-15,210848,0,0.0121,0.712,0.937,0.881,0.124,-5.474,0.0396,123.024,0.397,4,10,0,spotify:track:3D3oyDomwG8LSKI1p5GkZQ,2017,2017,epsilon,C2759
+Livin' 4 Ya,Livin' 4 Ya,MOTi,2016-12-02,184761,0,0.0319,0.514,0.862,0.171,0.119,-6.329,0.156,126.112,0.501,4,0,0,spotify:track:0ZGkJlkTO2tqn6nRC3PSFj,2016,2017,epsilon,C2795
+Pill,Pill,Heuse,2016-11-29,134404,0,0.696,0.749,0.363,0.000311,0.0965,-7.33,0.134,74.959,0.473,4,0,0,spotify:track:6yFiHg5RM5zGVrXGIokWlL,2016,2017,epsilon,C2807
+You're Welcome,You're Welcome,Julian Calor,2016-10-28,191007,0,0.00614,0.481,0.801,0.777,0.188,-4.81,0.037,81.943,0.303,4,3,0,spotify:track:5CQOBBxf4PlfmUrtWr8ZAB,2016,2017,epsilon,C2844
+Breezing By,Breezing By - Single,Drivvin,2016-08-24,291147,18,0.0707,0.624,0.804,0.383,0.0931,-3.365,0.192,121.999,0.183,4,9,0,spotify:track:0qCPWAaV7cja7E6OdID8Qf,2016,2017,epsilon,C2847
+Sexual,Sexual,NEIKED,2016-08-26,188888,5,0.0623,0.803,0.569,0.0,0.083,-7.392,0.0739,107.986,0.809,4,2,1,spotify:track:3AsAuGTaDQzavZZThyYlop,2016,2017,epsilon,C2925
+Panda,New English,Desiigner,2016-06-26,246761,0,0.028,0.576,0.766,1.68e-06,0.366,-4.943,0.449,144.833,0.236,4,10,0,spotify:track:5OOkp4U9P9oL23maHFHL1h,2016,2017,epsilon,C2952
+Halla halla,Halla Halla,Soprano,2007-02-09,263040,0,0.318,0.693,0.865,0.0,0.381,-3.921,0.172,146.011,0.729,4,10,0,spotify:track:4daRNWPIa1z4x5yNor6Ay9,2007,2017,epsilon,C2980
+La Puissance,Au-Delà De Mes Limites,Rohff,2005-12-16,255266,52,0.0248,0.74,0.884,0.0,0.0788,-2.224,0.192,94.874,0.404,4,4,0,spotify:track:1cWxCvep4soXYHkXDmJpSg,2005,2017,epsilon,C3034
+Je représente,Réel,Kery James,2009-04-27,265173,35,0.111,0.52,0.837,0.0,0.274,-6.649,0.618,131.677,0.727,3,9,0,spotify:track:5LkilPDXJir82aogtDj4Pm,2009,2017,epsilon,C3049
+Missed,Missed,Mikebøi,2017-02-20,212144,0,0.0292,0.473,0.907,0.501,0.084,-2.773,0.132,145.064,0.0723,4,9,1,spotify:track:3EEnjaHNriy8qyG23j8S0h,2017,2017,epsilon,C3050
+Dream Bigger - Extended Version,Dream Bigger,Axwell /\ Ingrosso,2016-04-29,253466,0,0.00542,0.762,0.723,0.000516,0.0808,-3.33,0.162,124.991,0.712,4,7,1,spotify:track:4y9X2zA4Pw9EoO6nFN8MCb,2016,2017,epsilon,C3108
+Feel Good,Feel Good,Syn Cole,2016-02-27,181935,1,0.167,0.629,0.882,0.711,0.0693,-3.458,0.0312,123.973,0.324,4,0,0,spotify:track:2yox08l4o0FnOL8Ih4yEfM,2016,2017,epsilon,C3119
+Motivation,Motivation,Blackstripe,2017-04-10,139927,11,0.967,0.284,0.166,0.853,0.127,-12.09,0.0368,113.103,0.0932,3,6,0,spotify:track:1a4L0w0z2A9L5gKQRhhcyz,2017,2017,epsilon,C3220
+Ima Boss (feat. Rick Ross),"MMG Presents: Self Made, Vol. 1",Various Artists,2011-05-23,250240,67,0.0415,0.37,0.87,0.0,0.604,-2.09,0.271,79.092,0.331,4,5,1,spotify:track:7sjwaBQ6M3aVigYfBjm1sL,2011,2017,epsilon,C3337
+American Dream - Not Your Dope Remix,American Dream,Gabbie June,2016-08-25,217959,0,0.00909,0.663,0.904,0.000628,0.101,-3.147,0.0659,92.483,0.159,4,1,1,spotify:track:7Eh3VcM2s1ry7q1qyyr96M,2016,2017,epsilon,C3408
+Collide,Collide,Pelussje,2017-03-31,206550,0,0.00423,0.647,0.907,0.000468,0.114,-5.816,0.0551,99.987,0.575,4,0,1,spotify:track:5VyzwiQUftHyfifR7aX2Kd,2017,2017,epsilon,C3445
+La Grande classe,Le Code De L'horreur,Rohff,2008-12-12,275893,42,0.0759,0.706,0.961,0.0,0.334,-2.723,0.173,86.509,0.512,4,10,0,spotify:track:7apoo5ErcVtXaLdOkGdh1q,2008,2017,epsilon,C3454
+Rave,Rave,Eskei83,2017-01-20,201146,43,0.0547,0.712,0.917,0.0561,0.172,-4.42,0.127,139.981,0.355,4,5,1,spotify:track:3WrOGPmjif1RRBhNRqNzC3,2017,2017,epsilon,C3479
+The Way I Are,Shock Value Deluxe Version (International Version),Timbaland,2007-01-01,179280,0,0.179,0.73,0.807,0.718,0.28,-6.475,0.114,114.715,0.727,4,3,0,spotify:track:5J7iGuzi7Nj8SGvt0TAVzK,2007,2017,epsilon,C3537
+Music Sounds Better with You - Radio Edit,Music Sounds Better with You (Radio Edit),Basada,2017-06-02,164765,0,0.0643,0.755,0.705,0.012,0.145,-5.182,0.0983,123.983,0.536,4,1,1,spotify:track:5aRqgH2Tv8PY3Tb6zazo1h,2017,2017,epsilon,C3542
+Numb / Encore,Collision Course (Deluxe Version),JAY-Z,2004-11-30,205280,69,0.0601,0.685,0.803,0.0,0.546,-4.251,0.156,107.005,0.799,4,2,1,spotify:track:7dyluIqv7QYVTXXZiMWPHW,2004,2017,epsilon,C3567
+Painkiller,Painkiller,Jesper Jenset,2017-04-21,210000,28,0.00605,0.585,0.559,0.0,0.118,-7.028,0.0406,127.981,0.295,4,1,1,spotify:track:4QmVwOTAzBcK6NvRzohOnS,2017,2017,epsilon,C3616
+All Of The Lights,My Beautiful Dark Twisted Fantasy,Kanye West,2010-01-01,299613,0,0.0909,0.546,0.796,2.73e-05,0.19,-3.263,0.0639,142.123,0.254,4,1,1,spotify:track:1XvHiCTd0MDb16S8bQNl74,2010,2017,epsilon,C3716
+Can You Feel It,Can You Feel It,T-Mass,2017-02-06,210500,0,0.0491,0.544,0.912,0.182,0.133,-3.928,0.0378,150.01,0.768,4,6,0,spotify:track:5ZbjbgG08lqqpw43dPt1Fp,2017,2017,epsilon,C3724
+Plem Plem (feat. Raf Camora & Bonez MC),Gute Nacht,Kontra K,2017-04-28,270800,42,0.18,0.743,0.702,0.0,0.11,-6.849,0.224,128.054,0.351,4,9,0,spotify:track:0UD507pTePjxhtnpTOWmKX,2017,2017,epsilon,C3740
+Nummer 1,Mele7,Zuna,2017-04-14,211351,0,0.231,0.823,0.514,3.82e-06,0.186,-7.969,0.421,111.24,0.515,4,4,0,spotify:track:3sgGmPQD2J6aQduN36RDBO,2017,2017,epsilon,C3817
+Ridin' Dirty,Ridin' Dirty,Danny Dove,2016-10-24,353553,29,0.0013,0.797,0.782,0.00155,0.0491,-5.69,0.103,121.019,0.377,4,1,0,spotify:track:1XdWLLUhP3r8X9W4OB6TCy,2016,2017,epsilon,C3879
+French Kiss,French kiss,C U R V E D,2017-02-09,179591,6,0.15,0.527,0.789,0.603,0.192,-6.146,0.0409,147.02,0.0753,4,6,0,spotify:track:1M56AwqOyzd0kaZxdwgFMP,2017,2017,epsilon,C3888

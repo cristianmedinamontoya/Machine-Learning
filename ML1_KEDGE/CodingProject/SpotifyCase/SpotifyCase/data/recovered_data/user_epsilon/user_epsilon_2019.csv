@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+In The Air Tonight - 2015 Remastered,Face Value (Deluxe Editon),Phil Collins,1981-01-01,336453,80,0.551,0.446,0.239,4.1e-06,0.0697,-13.945,0.0316,189.507,0.298,4,0,1,spotify:track:18AXbzPzBS8Y3AkgSxzJPb,1981,2019,epsilon
+If I Go Down,Automatica,Nigel Stanford,2017-09-15,195733,28,0.278,0.769,0.657,0.211,0.0968,-6.756,0.0382,100.027,0.713,4,1,0,spotify:track:6olvARioGfWIhOVai5BT9Q,2017,2019,epsilon
+contact,contact,Knowmadic,2017-09-29,168162,0,0.784,0.57,0.388,0.86,0.101,-13.017,0.0669,165.94,0.154,4,1,1,spotify:track:2WtG3jAjFZQHk2FtQ6ECCw,2017,2019,epsilon
+The Sixth Axis,Automatica,Nigel Stanford,2017-09-15,317733,23,0.072,0.698,0.727,0.75,0.307,-6.919,0.0276,137.992,0.71,4,9,1,spotify:track:4XYoMkckvo5GE13vmhuQjk,2017,2019,epsilon
+Get Better,Get Better,Morro,2017-09-14,255000,23,0.0144,0.83,0.631,0.546,0.368,-10.507,0.0551,120.065,0.224,4,0,0,spotify:track:09rRl0FnNc1NeQqQQcVj1c,2017,2019,epsilon
+Pour Some Sugar On Me - Remastered 2017,Hysteria (Super Deluxe),Def Leppard,1987-08-03,267306,77,0.00211,0.267,0.953,0.0,0.283,-4.899,0.096,84.989,0.568,4,1,0,spotify:track:0PdM2a6oIjqepoEfcJo0RO,1987,2019,epsilon
+The Return,The Campfire Tales,Philter,2016-11-04,192346,16,0.00402,0.778,0.577,0.749,0.108,-10.593,0.0499,139.98,0.196,4,1,0,spotify:track:3auUhwN9iyjlmlzRZsZgfF,2016,2019,epsilon
+Berger Blanc,Circles,Leska,2017-09-15,318525,24,0.0165,0.235,0.552,0.0582,0.386,-9.093,0.0639,99.406,0.0543,4,9,0,spotify:track:3OAvDWQZsdeRdo5MuXwYD1,2017,2019,epsilon
+Prove It,ARMR - Instrumentals,ARMR,2018-03-06,221963,9,0.17,0.772,0.739,0.884,0.0944,-8.684,0.0702,160.002,0.48,4,10,0,spotify:track:0jhNzRL63KnNmcrHuaI117,2018,2019,epsilon
+Hydrangea,Hydrangea,Knowmadic,2018-07-03,168888,28,0.511,0.602,0.148,0.934,0.121,-13.305,0.0369,81.042,0.21,4,11,1,spotify:track:3z3QKouio76OV0VVtwAXdy,2018,2019,epsilon
+Talk to Your Lover,Automatica,Nigel Stanford,2017-09-15,309760,25,0.0193,0.63,0.669,0.0367,0.0601,-6.099,0.0459,179.831,0.552,4,8,1,spotify:track:4dXrBs7V7W3Hbj9Tbgoilh,2017,2019,epsilon
+Aeons - We Are All Astronauts Remix,Aeons,Olaf Stuut,2017-02-27,537896,25,0.388,0.586,0.62,0.855,0.102,-11.0,0.0388,119.975,0.0322,4,10,0,spotify:track:0parKbfhq70aUrE3aizKVL,2017,2019,epsilon
+Butterflies,Butterflies,Rameses B,2017-05-09,289529,27,0.187,0.551,0.549,0.895,0.105,-10.377,0.0355,173.937,0.151,4,11,0,spotify:track:22hpaXCT7Z4IkfDous03Px,2017,2019,epsilon
+Wind It Up,Automatica,Nigel Stanford,2017-09-15,255426,25,0.00502,0.661,0.786,0.803,0.0657,-7.109,0.0407,93.748,0.441,4,11,1,spotify:track:1nXtQjEaljMS8JHFiJN9fd,2017,2019,epsilon
+Cir•cles,Jupiter,Couros,2016-11-11,245454,34,0.842,0.74,0.528,0.849,0.338,-8.909,0.232,110.041,0.22,4,0,1,spotify:track:6jxyuE21MK18ua5nFQcJKH,2016,2019,epsilon
+Missing You,Missing You,Boston Bun,2017-06-16,207265,0,0.00301,0.675,0.811,0.0413,0.126,-6.966,0.0629,126.023,0.271,4,0,0,spotify:track:6KSo1lI5GUtlvksaDWM7ZO,2017,2019,epsilon
+Cymatics (Automatic Mix),Automatica,Nigel Stanford,2017-09-15,293040,26,0.233,0.744,0.615,0.401,0.114,-9.798,0.0668,93.753,0.164,4,7,1,spotify:track:4N1vOiU4BnZY8AFqa5SyAz,2017,2019,epsilon
+A Beautiful Life,Petal,Broke For Free,2014-06-03,282266,22,0.0669,0.757,0.73,0.826,0.108,-9.31,0.0564,173.976,0.421,4,7,1,spotify:track:1xRg5kRYm923OSqvmCZnvJ,2014,2019,epsilon
+Date 5: Vanessa,Best of Tinder-Dates,Smoke Trees,2017-12-18,138461,0,0.535,0.738,0.196,0.495,0.1,-16.334,0.04,83.503,0.419,4,11,0,spotify:track:6eyCfeeMTivhFShQYYo2eB,2017,2019,epsilon
+Matter,Matter,LAIRE,2017-06-16,177837,22,0.586,0.592,0.387,0.696,0.108,-10.302,0.0869,135.04,0.352,4,10,0,spotify:track:4ZEgQrjccnLRZ165XiOb5w,2017,2019,epsilon
+Despair,Salt,BROCKBEATS,2016-12-11,194000,0,0.962,0.627,0.26,0.394,0.141,-12.685,0.0463,90.841,0.524,4,2,1,spotify:track:0Cc700C9ziR12Tr6eff3Ma,2016,2019,epsilon
+Endeavour,Endeavour,Azaleh,2016-09-20,201459,44,0.768,0.592,0.406,0.795,0.137,-17.63,0.0431,137.02,0.0863,4,11,0,spotify:track:3NJgsL49NedjwvsrcoWlcq,2016,2019,epsilon
+Iridescent,Iridescent,Aether,2016-08-08,268084,12,0.332,0.65,0.318,0.886,0.104,-15.399,0.039,139.998,0.0533,4,3,0,spotify:track:6gzlrrF0D9t5cWqWa9F41I,2016,2019,epsilon
+Rue Montorgueil,Streets Of Paris,Tomas Skyldeberg,2016-06-23,180000,20,0.822,0.77,0.289,0.696,0.127,-15.027,0.12,140.131,0.715,3,1,0,spotify:track:7E9OmxWZCyasrZwPG8HwT3,2016,2019,epsilon
+Water,Discography,Caleb Belkin,2017-07-16,118554,0,0.364,0.632,0.466,0.0367,0.366,-10.825,0.31,82.965,0.91,4,10,0,spotify:track:1D1T85tGQBtiQwXbTRYXXC,2017,2019,epsilon
+Children,Children,LISTENBEE,2017-06-30,211237,0,0.139,0.643,0.716,1.81e-06,0.111,-4.657,0.356,80.927,0.542,4,0,0,spotify:track:0Cm1rvlyvD4bC0fuiCUMtx,2017,2019,epsilon
+Dezembro,Dezembro,Smoke Trees,2017-01-01,120020,0,0.721,0.672,0.0936,0.923,0.109,-11.191,0.118,80.018,0.905,4,4,1,spotify:track:6I9Aqxz31yHHUIZqsn40Mp,2017,2019,epsilon
+Memories,Eclipse - EP,Emmit Fenn,2017-08-21,225886,0,0.913,0.199,0.279,0.905,0.294,-14.317,0.0358,88.047,0.035,4,7,0,spotify:track:6iv25ObPr8wu1FGPJczGWN,2017,2019,epsilon
+"My Non-Existent Friend, Alice","My Non-Existent Friend, Alice",Boxplot,2017-08-25,463000,23,0.00119,0.363,0.773,0.827,0.102,-6.87,0.0667,175.051,0.0347,4,11,1,spotify:track:5Fbvw8eRTjPMBjlbhJRcCx,2017,2019,epsilon
+Beginnings,Strays,Knowmadic,2018-01-02,73777,29,0.788,0.612,0.183,0.599,0.108,-15.316,0.113,69.987,0.519,5,6,0,spotify:track:5MzdRLptsrihyrpxtI2hNH,2018,2019,epsilon
+Drive,Drive,TWO LANES,2018-09-24,177000,0,0.00621,0.541,0.899,0.835,0.649,-5.687,0.317,145.181,0.192,4,1,0,spotify:track:7IayTTg8zNuhGD6uH4nHXJ,2018,2019,epsilon
+Pandora's Cluster,Pandora's Cluster,Duumu,2017-07-07,201230,0,0.984,0.381,0.168,0.829,0.0746,-22.274,0.0322,64.996,0.038,4,5,1,spotify:track:190nWcapenJ7Tu9OPXLL1q,2017,2019,epsilon
+Drown - Original Mix,Drown,Enzalla,2015-07-18,327000,16,0.467,0.585,0.458,0.865,0.0658,-10.839,0.153,134.977,0.0513,4,5,0,spotify:track:4CNEJIt1IvdkuYuPfeFYVk,2015,2019,epsilon
+Plem Plem (feat. Raf Camora & Bonez MC),Gute Nacht,Kontra K,2017-04-28,270800,42,0.18,0.743,0.702,0.0,0.11,-6.849,0.224,128.054,0.351,4,9,0,spotify:track:0UD507pTePjxhtnpTOWmKX,2017,2019,epsilon
+Abrasive,Abrasive,Milton Breech,2017-03-30,169881,21,0.113,0.548,0.607,0.131,0.118,-8.773,0.0414,143.007,0.431,3,6,1,spotify:track:4nj6E9ulLdptv9yELjV4gF,2017,2019,epsilon
+Don't Let Go,Love Dream Infinite,Klimeks,2018-02-08,219000,20,0.0979,0.586,0.489,0.531,0.0909,-10.928,0.0289,124.974,0.199,4,6,0,spotify:track:4BK8GdC7ZAKQkgvwnDZxdd,2018,2019,epsilon
+My Dreams of You,My Dreams of You,COVEO,2018-07-06,268000,15,0.0356,0.576,0.715,0.796,0.233,-8.504,0.0389,120.008,0.11,4,5,0,spotify:track:6bxtoCmJ44C5jtFEvsj7r4,2018,2019,epsilon
+"Adieu, Pt. II",Revelations EP,Tchami,2017-08-25,252413,0,0.114,0.773,0.631,0.858,0.133,-6.771,0.0395,115.992,0.0808,4,11,0,spotify:track:0Brf1s65f8eekORKK9gpe4,2017,2019,epsilon
+Wren,Wren,Faodail,2017-04-18,271388,34,0.446,0.63,0.79,0.916,0.0853,-7.683,0.0977,107.986,0.0867,4,11,0,spotify:track:78YaMeyENkS76wMSmX2nyh,2017,2019,epsilon
+Gang Gang,Foreign Buyers Club,Klasey Jones,2017-01-23,227000,23,0.117,0.649,0.461,0.668,0.162,-10.117,0.0366,140.015,0.0411,4,5,0,spotify:track:4Ie1nIngkoX8wTTl7kpUro,2017,2019,epsilon
+inthisworld,2007,eli filosov [ p h i l o ],2016-09-24,89615,0,0.512,0.582,0.442,0.936,0.2,-11.736,0.253,77.604,0.482,4,6,1,spotify:track:5TWWC0UG4gTbvfY54jONRo,2016,2019,epsilon
+Win At Life,Even If You Didn't Expect It,Da Vosk Docta,2017-08-25,192008,0,0.00396,0.546,0.482,0.802,0.221,-6.928,0.0343,140.025,0.0576,4,1,0,spotify:track:3zpXPyr6qL4z1UXo2Cwtlq,2017,2019,epsilon
+Tears,Tears,KOSIKK,2017-10-30,210729,0,0.337,0.55,0.711,0.915,0.161,-9.44,0.0427,90.008,0.0447,4,4,0,spotify:track:7BqpFefNr3FZXAuHx6kPfY,2017,2019,epsilon
+Are We Dreaming,Are We Dreaming,galpe,2019-04-28,227701,0,0.326,0.57,0.318,0.844,0.528,-15.332,0.0352,114.991,0.0349,4,1,1,spotify:track:6KMRkETQphNaUySwoQkhc4,2019,2019,epsilon
+Dead Pixels in the Sky,Automatica,Nigel Stanford,2017-09-15,270960,24,0.212,0.462,0.483,0.708,0.104,-9.917,0.0258,163.982,0.0491,4,7,0,spotify:track:2Sr5hErl2ih2NX3u3GXqlJ,2017,2019,epsilon
+Gravity Waves,Automatica,Nigel Stanford,2017-09-15,324666,27,0.00676,0.547,0.671,0.891,0.0968,-9.491,0.0289,156.995,0.371,4,0,1,spotify:track:4HKfpCr0gAoS0uYIKK9qpB,2017,2019,epsilon
+Business Class,29,Sinitus Tempo,2018-03-01,179385,7,0.808,0.545,0.165,0.0636,0.0733,-23.679,0.26,150.132,0.484,3,9,0,spotify:track:6vB0DD4jgB3ZwCwHvIoVP8,2018,2019,epsilon
+Leaving You,Saorsa,Various Artists,2017-10-30,234705,0,0.18,0.514,0.665,0.847,0.109,-13.03,0.0483,136.058,0.0369,4,6,0,spotify:track:3XoXfgcozUYhMT1tw7psYf,2017,2019,epsilon
+Rainy Nights,Rainy Nights,Azaleh,2017-02-26,226285,44,0.793,0.674,0.254,0.91,0.0991,-16.671,0.0383,139.991,0.182,4,5,0,spotify:track:1ym6WoyPytqbXcKYcnktlS,2017,2019,epsilon
+Shanghai Nights,Around the World,Saib,2016-04-22,264000,47,0.442,0.668,0.544,0.857,0.141,-9.396,0.0569,93.868,0.36,4,2,0,spotify:track:1es71gP1Ljrf6KVvqR1T75,2016,2019,epsilon
+Stay with Me Tonight,Automatica,Nigel Stanford,2017-09-15,248933,32,0.0472,0.671,0.793,0.0264,0.207,-5.788,0.0487,105.016,0.525,4,10,0,spotify:track:0KDGw3JlIXkFvI5mzaeclQ,2017,2019,epsilon
+Nucleus (Intro),Nucleus,Liam Back,2017-03-03,299016,18,0.324,0.634,0.658,0.783,0.0808,-8.767,0.127,121.994,0.132,4,9,0,spotify:track:4PL7RObVJFsQBPlkWsekbB,2017,2019,epsilon
+Driftwood,Corals,Fujitsu,2017-07-10,124000,0,0.683,0.656,0.228,0.479,0.132,-16.314,0.135,148.245,0.645,4,11,1,spotify:track:2LQV7TCagBJoPHKyIX4Lzk,2017,2019,epsilon
+Lies,Lies,Heuse,2018-02-28,162865,0,0.862,0.674,0.417,0.597,0.122,-10.366,0.0407,115.029,0.29,4,6,0,spotify:track:3NOw1fWheaZbbaMqDb6vqc,2018,2019,epsilon
+Birds,Mosaic,Gorila,2016-11-28,157735,0,0.184,0.694,0.659,0.000626,0.335,-4.946,0.0865,82.451,0.674,4,10,0,spotify:track:29tQaGS56Ns9pw1h2kzhs0,2016,2019,epsilon
+khutso,khutso,Fujitsu,2017-10-25,81126,31,0.427,0.59,0.433,0.388,0.116,-11.478,0.13,70.967,0.446,4,11,0,spotify:track:25zvyCuLN2ScNCyQ8lVarD,2017,2019,epsilon
+Where Do We Go,Where Do We Go,Wiljan,2017-07-02,267428,30,0.172,0.387,0.346,0.786,0.102,-11.793,0.0339,140.017,0.0372,4,4,0,spotify:track:4FSYEsVqmMIaWm29qXe59k,2017,2019,epsilon
+Satin Stranger,Satin Stranger,Lakuno,2017-04-27,167394,20,0.0768,0.641,0.87,0.24,0.0934,-5.905,0.0355,118.989,0.182,4,1,0,spotify:track:2dqB5qdcKux0v9iMSmNNhj,2017,2019,epsilon
+HowToDive,Mirage,Flitz&Suppe,2017-03-31,126316,0,0.304,0.59,0.382,0.667,0.104,-9.85,0.0354,76.008,0.216,4,6,0,spotify:track:66nnDkNMil4ytO5PDoXhPQ,2017,2019,epsilon
+H2o,H2o,Kareful,2017-08-04,263836,18,0.00119,0.607,0.787,0.0478,0.112,-6.551,0.0527,137.977,0.15,4,7,1,spotify:track:1wyZrUitUR2iofjAaSz1xW,2017,2019,epsilon
+Sundays,Chillhop Essentials Summer 2018,Various Artists,2018-06-20,212250,0,0.895,0.576,0.242,0.949,0.164,-12.679,0.233,143.926,0.474,1,7,1,spotify:track:6gLMt4MqDwYPRWSGJOXN5Q,2018,2019,epsilon
+Òra,Òra,Isolated,2017-11-02,212906,35,0.489,0.296,0.399,0.895,0.0899,-8.869,0.0301,139.696,0.0484,4,5,0,spotify:track:6P3FNKX4FlMOiIcJ5rgsJE,2017,2019,epsilon
+Shinrin-Yoku,Shinrin-Yoku,Sensitize,2018-05-23,294400,38,0.66,0.111,0.217,0.943,0.201,-23.807,0.0396,86.969,0.139,5,8,0,spotify:track:0LvYjCLsrfe56y3ll8RW15,2018,2019,epsilon
+Automatica,Automatica,Nigel Stanford,2017-09-15,237000,43,0.00396,0.523,0.638,0.833,0.157,-9.04,0.0326,93.729,0.16,4,1,1,spotify:track:3wwiBsma2wPAJ769kN7k3r,2017,2019,epsilon
+Mehr als ein Job,Gute Nacht,Kontra K,2017-04-28,190529,53,0.115,0.542,0.819,0.0,0.113,-7.683,0.329,191.898,0.464,4,1,0,spotify:track:6hyQOWD7kUVEJTjIHtJXdM,2017,2019,epsilon
+8AM,8AM,Murtagh,2018-06-15,274300,31,0.0234,0.553,0.816,0.826,0.0714,-8.136,0.0581,125.993,0.0963,4,11,0,spotify:track:5bjz7oDgels5yna9KOvkeu,2018,2019,epsilon
+OdeToYou,OdeToYou,Flitz&Suppe,2016-10-31,181481,0,0.503,0.673,0.356,0.814,0.111,-10.683,0.0365,81.008,0.145,4,3,0,spotify:track:7laPt9sVrlXLK80PoQf05p,2016,2019,epsilon
+Everything Changed,Automatica,Nigel Stanford,2017-09-15,275560,31,0.0963,0.73,0.637,0.039,0.166,-7.375,0.0357,99.021,0.18,4,0,1,spotify:track:7anD07pxGIHtYOSSVe8n0N,2017,2019,epsilon
+Pages,Pages,Adibanti,2017-11-17,212676,0,0.00351,0.707,0.729,0.188,0.109,-8.152,0.044,127.996,0.156,4,9,0,spotify:track:11TICLuxy1eMfPG2LuXexw,2017,2019,epsilon
+Trails,Trails,fugue,2017-06-07,263264,12,0.342,0.647,0.803,0.854,0.546,-8.078,0.0463,124.098,0.0379,4,5,0,spotify:track:06MTjjFEIRbTYbkXIfaDJe,2017,2019,epsilon
+Evening Buffalo,Evening Buffalo,Felix Snow,2017-07-28,156342,39,0.636,0.647,0.618,0.517,0.114,-7.102,0.0597,87.457,0.228,4,10,1,spotify:track:6w40GgWhGts8g6779DPXR3,2017,2019,epsilon
+Sins and Gods - Choir Version,Divinity: Original Sin 2 (Original Soundtrack),Borislav Slavov,2018-03-23,158992,0,0.867,0.172,0.213,0.00228,0.122,-16.266,0.0375,137.081,0.246,5,7,0,spotify:track:15VhCnieYIuRUhPu52Lzst,2018,2019,epsilon
+Gymnopaedia,I Can't Tell You How Much It Hurts,moow,2017-01-27,154761,0,0.927,0.678,0.29,0.906,0.101,-12.177,0.0551,75.991,0.315,4,3,1,spotify:track:1r1zLELlgsA47CBQMG1cdn,2017,2019,epsilon
+Redwood,Redwood,Speaker Of The House,2016-05-10,212903,28,0.42,0.753,0.738,0.134,0.323,-6.006,0.0296,124.007,0.249,4,7,1,spotify:track:1bGO2hfuyHUbQCV3IXt4SS,2016,2019,epsilon
+Drowning,Drowning,Ryan Little,2017-01-06,208264,19,0.316,0.895,0.372,0.378,0.148,-15.015,0.121,121.008,0.465,4,10,0,spotify:track:0Ll95yd0BfykzQGvMSx6Z2,2017,2019,epsilon
+Divided,Divided,Noah B,2018-03-04,240039,26,0.169,0.582,0.582,0.872,0.0831,-11.422,0.0299,143.996,0.329,4,7,0,spotify:track:2hJiMYIOWLNrtWNjFIYaja,2018,2019,epsilon
+I Wish I Could Sleep,Chillhop Essentials Winter 2016,Various Artists,2016-12-19,119754,0,0.73,0.682,0.328,0.9,0.0978,-6.41,0.0342,83.992,0.302,4,3,0,spotify:track:08lctzE8dgIbSfyz84XHNr,2016,2019,epsilon
+Corporate Japan,Beets 4,Birocratic,2017-03-20,202000,0,0.00385,0.6,0.697,0.877,0.15,-6.453,0.0617,96.035,0.294,4,9,0,spotify:track:7vyKK8WAJae6kof7q7VvDA,2017,2019,epsilon
+Hello E,Inquisifunk,Tepr,2017-04-21,370960,26,0.00327,0.652,0.807,0.843,0.0957,-8.07,0.042,128.033,0.0374,4,0,0,spotify:track:42Pm0VVWpFCcFdjYbWfBpn,2017,2019,epsilon
+Strippers,Steady Stackin,Wizard,2015-11-15,222040,39,0.00364,0.68,0.513,0.797,0.103,-8.863,0.033,126.007,0.594,4,6,1,spotify:track:7FQk91QWE41NkwYP9cNqLl,2015,2019,epsilon
+One Hundred Hunters,Automatica,Nigel Stanford,2017-09-15,218360,33,0.0282,0.526,0.803,0.871,0.13,-7.988,0.0432,199.979,0.0749,4,9,1,spotify:track:6OMroEYfndvUMKWpErDAtw,2017,2019,epsilon
+Coreless,Coreless,Murphy Cooper,2017-03-28,408014,0,0.0301,0.761,0.556,0.878,0.0947,-11.412,0.0468,120.007,0.409,4,8,1,spotify:track:43XSlW1vqxx6OpWk4M5VN2,2017,2019,epsilon
+breeze.thru.,organics.,Fushou.,2017-12-31,96000,14,0.654,0.675,0.364,0.609,0.183,-14.689,0.38,80.013,0.383,4,0,1,spotify:track:3pSYD66TCz4WLWjfaxtxhB,2017,2019,epsilon
+Motions,Corals,Fujitsu,2017-07-10,112000,0,0.361,0.747,0.206,0.629,0.11,-11.915,0.145,79.039,0.669,4,7,1,spotify:track:79Mv89mK1xhj0C94wCTaYU,2017,2019,epsilon
+Our Dawn,Daybreak,Aurai,2018-04-08,348449,40,0.55,0.5,0.504,0.929,0.302,-13.91,0.0433,135.006,0.0322,4,9,0,spotify:track:6wLF8SlpvcIHtgJQVELv7t,2018,2019,epsilon
+Who You Were,Ink The Complete Soundtrack,Jamin Winans,2009-03-10,182044,27,0.918,0.587,0.097,0.857,0.115,-19.309,0.0323,130.026,0.158,3,9,0,spotify:track:4LQ1XPggrVaNcZOrCRrD4J,2009,2019,epsilon
+A Kiss,"Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",Kyle Dixon & Michael Stein,2016-08-12,85026,41,0.858,0.512,0.214,0.972,0.109,-18.445,0.0426,95.028,0.36,4,3,1,spotify:track:34QAEq8Wfh8OUvJ7vXg1OW,2016,2019,epsilon
+Spruce - Jody Wisternoff & James Grant Edit,Anjunadeep 08,James Grant,2016-12-09,325413,18,0.372,0.678,0.385,0.554,0.443,-13.134,0.0349,118.039,0.0648,4,7,1,spotify:track:4HcjeCZwnYpxnGrzMG1lC6,2016,2019,epsilon
+Coalesce,Coalesce,Faodail,2017-02-25,332400,34,0.586,0.65,0.552,0.447,0.108,-9.829,0.0575,100.028,0.0512,4,11,0,spotify:track:3pA6Uq8DTlvLHsHwgaNbUa,2017,2019,epsilon
+Promises,Ermit,Pandrezz,2017-08-21,199467,22,0.00698,0.797,0.374,0.282,0.424,-8.484,0.111,90.001,0.606,4,8,1,spotify:track:4HH6prQBAtn3gKDg8phau5,2017,2019,epsilon
+Midnight,Midnight,Coldplay,2014-04-29,294666,35,0.615,0.548,0.475,0.808,0.0944,-12.42,0.0355,126.976,0.0349,4,1,1,spotify:track:0UrvIS9YOQL814w4LCtNGB,2014,2019,epsilon
+Beacon,Beacon,Faux Tales,2017-12-01,301714,31,0.0406,0.292,0.462,0.765,0.118,-8.647,0.0349,139.871,0.0614,4,3,1,spotify:track:7iaJja9drkzGSKXMKlYBGh,2017,2019,epsilon
+Your Favorite Place,Chillhop Essentials Winter 2017,Various Artists,2017-12-11,221536,0,0.357,0.605,0.542,0.851,0.0591,-13.094,0.0511,78.031,0.52,4,9,0,spotify:track:0ONn7t8x49V3tOR5ZcIrpf,2017,2019,epsilon
+Smoke & Mirrors,Found Footage,Take/Five,2017-11-02,198870,32,0.0281,0.589,0.763,0.433,0.169,-4.058,0.0469,140.059,0.0377,4,2,0,spotify:track:7wnhkKkopsskhbiatq4zEZ,2017,2019,epsilon
+Sweet but Psycho,Sweet but Psycho,Ava Max,2018-08-17,187436,2,0.0691,0.719,0.704,0.0,0.166,-4.724,0.0476,133.002,0.628,4,1,1,spotify:track:25sgk305KZfyuqVBQIahim,2018,2019,epsilon
+Icarus (Automatic Mix),Automatica,Nigel Stanford,2017-09-15,423893,35,0.0335,0.681,0.81,0.68,0.0676,-7.127,0.0422,119.997,0.243,4,4,0,spotify:track:4JbIhRYfnuOAzZhxQ2sSCD,2017,2019,epsilon
+Earth Past,The Cure EP,Flite,2017-03-31,279893,26,0.0136,0.488,0.761,0.24,0.127,-4.097,0.043,85.016,0.17,4,0,1,spotify:track:7nRl3SlQ0J1hM1QtOtEOFs,2017,2019,epsilon
+This Isn't You,"Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",Kyle Dixon & Michael Stein,2016-08-12,143880,46,0.98,0.129,0.0192,0.872,0.0878,-29.223,0.0372,79.875,0.0352,4,11,1,spotify:track:4cocLXeDOiFIPBgZCvJ3RF,2016,2019,epsilon
+Blind - Citylights Remix,Blind (Citylights Remix),The M Machine,2017-07-14,183006,29,0.0157,0.452,0.911,0.0865,0.17,-4.419,0.123,99.926,0.154,4,6,0,spotify:track:3y1TbP5maE90LbwUVxptGc,2017,2019,epsilon
+Sirop,Sirop,Sara Costa,2017-07-07,222000,36,0.672,0.736,0.717,0.639,0.095,-10.525,0.0334,104.017,0.421,4,8,0,spotify:track:6ogpk56k9Aa30jBIFbgH4c,2017,2019,epsilon

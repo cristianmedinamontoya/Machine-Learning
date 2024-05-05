@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+Petit bonhomme,Tant Pis ! Tant Mieux !,Les Wriggles,2007-11-19,203746,1,0.863,0.827,0.19,2.48e-06,0.105,-15.496,0.131,129.884,0.73,4,4,0,spotify:track:3uyV36mgycFnrr1P53oRcX,2007,2016,alpha
+Bei Mir Bist Du Schoen,Wake Up In Paris,The Hot Sardines,2014-10-20,246440,18,0.613,0.725,0.454,0.0184,0.0376,-8.757,0.206,123.433,0.66,4,0,0,spotify:track:3fKjPA1qbrHLDbyxQVgYdU,2014,2016,alpha
+Les gens qui doutent,Favourite Songs,Vincent Delerm,2007-10-29,216400,0,0.922,0.383,0.526,0.000813,0.764,-12.047,0.0872,94.824,0.32,3,2,0,spotify:track:7omjNuFBpAV55ebA86F43B,2007,2016,alpha
+Les saintes,Jusqu'à la mer,Amélie-Les-Crayons,2012-10-08,141000,21,0.897,0.858,0.392,0.0,0.187,-7.49,0.0742,128.076,0.908,4,5,0,spotify:track:2VlBgdZQ3V1hszDwUZwf8U,2012,2016,alpha
+Les moutons - Cuvée 97,Antaology,Matmatah,2015-09-25,229560,16,0.5,0.607,0.951,0.0,0.137,-2.759,0.146,164.936,0.851,4,0,1,spotify:track:6PZJnGOQOYBdSCCkXmyaC1,2015,2016,alpha
+A petit feu,Les paradis Disponibles,Aldebert,2006-10-02,185733,0,0.508,0.597,0.539,0.0,0.172,-6.643,0.0285,97.541,0.566,3,2,0,spotify:track:7359kzScp86uQ01v8dmbn8,2006,2016,alpha
+I Wanna Be Like You,This Beautiful Life,Big Bad Voodoo Daddy,1999-01-01,220357,42,0.339,0.68,0.801,4.74e-05,0.0358,-5.262,0.0548,101.858,0.925,4,11,0,spotify:track:7os7j6OKzxl1a8RAnGitzN,1999,2016,alpha
+Grand Artica,Deltas,Chapelier Fou,2015-08-28,198826,0,0.35,0.592,0.557,0.249,0.105,-6.752,0.0284,99.959,0.14,4,5,1,spotify:track:3lzpfQtYhHz2BCgO1D7vdA,2015,2016,alpha
+This World,Selah Sue,Selah Sue,2011-03-04,285813,0,0.114,0.708,0.619,1.75e-05,0.365,-5.257,0.0676,136.135,0.327,4,7,0,spotify:track:5Fzsgjt24v7nDJdhIOIBS2,2011,2016,alpha
+Sun,Beacon (Deluxe Version),Two Door Cinema Club,2012-01-01,187720,0,0.00982,0.649,0.533,0.000364,0.111,-5.426,0.0284,96.973,0.611,4,4,0,spotify:track:3kAwGo8mtUPsrctroxYLku,2012,2016,alpha
+Stereo,Time for a Change (Deluxe Edition),Elephanz,2014-04-28,169585,0,0.0213,0.717,0.724,3.65e-06,0.0989,-3.856,0.024,100.01,0.76,4,6,1,spotify:track:67UJkRWjP2B6qOU9IMu2Wl,2014,2016,alpha
+Chat de gouttière,Morceaux de papier,La Belle Bleue,2010-04-02,194240,43,0.012,0.705,0.657,0.0,0.109,-5.144,0.0301,90.047,0.784,4,2,0,spotify:track:2s23RMNXMsosCFkTBmdlJV,2010,2016,alpha
+Fly,Divenire,Ludovico Einaudi,2007-04-20,280920,0,0.994,0.16,0.178,0.848,0.0675,-18.749,0.036,75.973,0.0348,3,1,0,spotify:track:0UdTjf1Bhw6zJOG86GrbiJ,2007,2016,alpha
+Emmène-moi,Bruxelles,Boulevard des Airs,2015-06-01,198866,0,0.632,0.85,0.579,4.48e-06,0.351,-7.957,0.0502,110.044,0.614,4,2,0,spotify:track:5pOUyuzdyAwv0k9oiNOnS9,2015,2016,alpha
+Conquest Of Spaces,The Golden Age,Woodkid,2013-01-01,269880,44,0.342,0.394,0.739,2.85e-05,0.111,-6.654,0.0448,124.97,0.227,4,1,1,spotify:track:1vQYZkwGwIotHU0BYCyQiu,2013,2016,alpha
+On n'est pas fatigués,Jusqu'à la mer,Amélie-Les-Crayons,2012-10-08,216546,18,0.588,0.725,0.579,0.0,0.224,-5.918,0.0531,103.03,0.688,3,0,1,spotify:track:2jEaeStC4QfNELXEGtdsDw,2012,2016,alpha
+Le bruit,Dimanche,Oldelaf,2014-01-27,151633,31,0.332,0.845,0.558,0.0,0.0537,-4.799,0.0688,106.025,0.966,4,0,1,spotify:track:5k8pFRjPxoBxfToIYGEqRs,2014,2016,alpha
+My Number,Holy Fire,Foals,2013-02-11,240533,0,0.0319,0.639,0.744,0.000458,0.466,-8.377,0.0368,128.047,0.825,4,6,0,spotify:track:4c9WmjVlQMr0s1IjbYO52Z,2013,2016,alpha
+True Sorry,Illusions,Ibrahim Maalouf,2013-11-05,291303,55,0.585,0.288,0.454,0.882,0.177,-7.639,0.0369,123.143,0.0792,4,4,0,spotify:track:5EzGOkUwkRUXYAyvjlEHah,2013,2016,alpha
+Howl's moving castle,Prima O Poi,Giovanni Mirabassi,2005-09-09,277106,0,0.833,0.381,0.307,0.942,0.101,-16.403,0.0349,175.182,0.39,3,7,0,spotify:track:2INC8sCq97E6QHdxOv7X1E,2005,2016,alpha
+La pleureuse,Eldorado(s),Debout Sur Le Zinc,2015-09-25,235386,0,0.511,0.543,0.677,5.17e-06,0.1,-6.337,0.028,96.951,0.413,4,4,0,spotify:track:7LZ1I3ZkwyfwLgGakt0Eq4,2015,2016,alpha
+The Stojka Empire (feat Harry Stojka & The Cat Empire),Morgenlandfahrt (Deluxe Edition),[dunkelbunt],2010-12-17,339493,0,0.0703,0.83,0.759,0.587,0.664,-8.273,0.0666,113.992,0.793,4,9,1,spotify:track:4W3rzHyKV8BoGsqMtB3gRC,2010,2016,alpha
+Timing,Sur o No Sur,Kevin Johansen,2003-11-04,233173,39,0.81,0.683,0.244,0.0,0.101,-12.372,0.0326,87.998,0.307,4,2,0,spotify:track:4AN91ebIhqSWfR6uKFGppM,2003,2016,alpha
+Something Good,An Awesome Wave,alt-J,2012-09-18,217320,61,0.714,0.682,0.581,0.323,0.0802,-10.339,0.0295,108.98,0.539,4,7,1,spotify:track:3xqxETvPg43KWP0HOGiOmu,2012,2016,alpha
+Les métamorphoses du vide,613,Chapelier Fou,2010-03-15,161400,0,0.548,0.493,0.473,0.885,0.118,-11.607,0.0316,134.94,0.206,4,10,1,spotify:track:6ruMklGZEAVBjxe4AbD4pM,2010,2016,alpha
+Raggamuffin,Selah Sue,Selah Sue,2011-03-04,160000,0,0.196,0.486,0.604,0.0,0.107,-5.934,0.215,187.704,0.721,4,0,0,spotify:track:6Gith1MKLMgLQX894eV1Up,2011,2016,alpha
+Indécis,La Fuite en Avant,Debout Sur Le Zinc,2011-10-03,200920,0,0.469,0.581,0.791,4.78e-05,0.0945,-6.639,0.0469,144.957,0.712,4,2,0,spotify:track:5OQNK8qEYJTHrSBBDl7eqj,2011,2016,alpha
+La soucoupe volante (with Leeroy),Enfantillages 2,Aldebert,2013-10-07,199293,26,0.347,0.72,0.769,0.0,0.108,-5.654,0.0705,92.044,0.714,4,7,0,spotify:track:5taxp3S9K7lBgTZWlaTer1,2013,2016,alpha
+NUITS FAUVES,BLIZZARD,Fauve,2014-02-03,271320,22,0.0978,0.768,0.728,9.83e-06,0.135,-6.606,0.167,104.97,0.541,4,10,1,spotify:track:1z3o9p3heuqQ1diHWuR5pX,2014,2016,alpha
+Bande à part,Antaology,Matmatah,2015-09-25,268000,28,0.000252,0.405,0.919,0.000747,0.71,-4.7,0.0556,98.096,0.295,4,7,0,spotify:track:3SUz9IBHbRQYM9JbqFP4Wg,2015,2016,alpha
+Hello,Hello,OMFG,2014-12-03,226307,63,0.0339,0.844,0.864,0.216,0.386,-4.483,0.0348,104.997,0.796,4,7,0,spotify:track:6BAnxKyld909yo6Pk1DO3r,2014,2016,alpha
+Parade,Tohu Bohu,Rone,2012-11-05,381157,43,0.0964,0.632,0.434,0.769,0.0988,-13.478,0.0424,119.989,0.11,4,7,1,spotify:track:4bPX3ZV62LJxidVbYjlhZL,2012,2016,alpha
+Mountains - Acoustic,Many of Horror,Biffy Clyro,2010-01-18,228093,26,0.844,0.565,0.395,0.00107,0.107,-9.482,0.0292,73.957,0.185,4,1,1,spotify:track:39hdAwtHnL2KqNLmuSMe0n,2010,2016,alpha
+L'été,"Des cobras, des tarentules",3 Gars Su'l Sofa,2007-03-06,181826,0,0.337,0.831,0.483,0.0,0.127,-7.973,0.041,103.017,0.725,4,8,1,spotify:track:6ao9owb4V1q4exmu8QZDZX,2007,2016,alpha
+Morning Love,Cipa: The Monarch and the Viceroy,Carlos Cipa,2012-06-15,162000,0,0.987,0.307,0.252,0.901,0.0777,-15.307,0.0384,78.961,0.491,4,0,0,spotify:track:5gST4jyRxaJz2dYCyPB00q,2012,2016,alpha
+La grande cascade,Plaisirs d'amour,René Aubry,1998-10-09,268132,37,0.84,0.634,0.404,0.905,0.136,-13.31,0.038,119.929,0.622,4,10,0,spotify:track:0YVRLEj2Y5Yf4LMNT2rznM,1998,2016,alpha
+Patricia,Allons voir,La Rue Kétanou,2014-01-06,245773,25,0.401,0.67,0.532,0.0,0.0689,-8.667,0.0775,91.87,0.91,4,6,0,spotify:track:5owFcVNJ7gb7Iu4nXmhZZU,2014,2016,alpha
+Mashed Potatoes,Mashed Potatoes,OMFG,2015-10-30,164500,34,0.0117,0.723,0.932,0.0517,0.111,-4.35,0.0468,119.992,0.632,4,7,0,spotify:track:236uH42zjwFBlAh6ZftwH2,2015,2016,alpha
+Windfall,Windfall,TheFatRat,2014-10-31,228382,0,0.0471,0.651,0.852,0.696,0.0658,-5.439,0.0301,101.992,0.397,4,0,0,spotify:track:7HX6O8k7gAHFzm9Dd50Kuz,2014,2016,alpha
+Le capitaine de la barrique,Allons voir,La Rue Kétanou,2014-01-06,217306,48,0.565,0.723,0.648,0.0,0.315,-6.46,0.0972,111.467,0.521,1,7,0,spotify:track:68Mw9GeJ5pZHWKqeGtcIMu,2014,2016,alpha
+The Nosebleed Section,The Nosebleed Section,Hilltop Hoods,2016-01-22,219640,60,0.51,0.846,0.828,1.28e-06,0.0906,-5.447,0.165,97.453,0.908,4,1,1,spotify:track:0shAFLY8DIPuKbiFS8RqQP,2016,2016,alpha
+A ton sourire,Carnet de NOTES,Les P'tits Yeux,2011-06-13,253657,16,0.23,0.755,0.84,2.69e-06,0.245,-6.174,0.0843,123.091,0.796,4,6,0,spotify:track:0JpudC2OMD5AeT8v6KNHPY,2011,2016,alpha
+Oh oui je t'aime,Oh oui je t'aime,NACH,2015-07-06,201416,7,0.019,0.74,0.699,9.36e-06,0.118,-7.63,0.0616,129.02,0.54,4,4,0,spotify:track:3BKcs4NAue3sSxYq76qVOo,2015,2016,alpha
+It Only Took A Kiss,Rattle Them Bones (Deluxe Edition),Big Bad Voodoo Daddy,2012-09-04,248640,0,0.668,0.904,0.214,0.0,0.0863,-13.878,0.0534,116.979,0.205,4,2,1,spotify:track:3IfmRCbhOqwWGSNPi9QzR5,2012,2016,alpha
+Jésus est le chemin,"Best of louange, vol. 2 (Il est vivant!)",Chants de l'Emmanuel,2015-07-10,114626,0,0.687,0.569,0.538,0.0,0.846,-4.876,0.0344,129.987,0.748,4,11,0,spotify:track:0CUIB1RkbJZ4cY1krfZynM,2015,2016,alpha
+Oh oui je t'aime,Nach,NACH,2015-04-06,210813,0,0.112,0.753,0.677,3.34e-05,0.0735,-7.657,0.0868,129.025,0.661,4,8,0,spotify:track:2QV1Ox9s8xJH0Tu3Cl4Glz,2015,2016,alpha
+Wonderful,Wonderful,OMFG,2016-01-13,238258,36,0.0758,0.773,0.885,0.933,0.317,-2.601,0.0322,103.028,0.497,4,0,1,spotify:track:5gNxGFyDC8DZxr7nNJdAaZ,2016,2016,alpha
+Luggage,613,Chapelier Fou,2010-03-15,334573,0,0.275,0.64,0.449,0.877,0.0677,-10.332,0.038,104.994,0.432,4,6,1,spotify:track:3gZborcZNuyLSSwfUXI8nu,2010,2016,alpha
+La vie à deux,La Fuite en Avant,Debout Sur Le Zinc,2011-10-03,193360,0,0.0652,0.586,0.765,0.00192,0.0838,-3.38,0.035,141.006,0.866,4,1,0,spotify:track:6DYi4Rsvy8WU6OVkntiIri,2011,2016,alpha
+Amen Omen,Diamonds On The Inside,Ben Harper,2003-01-01,351160,51,0.622,0.595,0.487,0.0,0.102,-7.644,0.0268,142.322,0.516,4,0,1,spotify:track:2PkxIx7ciJa4TdZ73hflTt,2003,2016,alpha
+L'album photo,Les paradis Disponibles,Aldebert,2006-10-02,204880,0,0.572,0.715,0.52,0.0,0.173,-7.384,0.0428,96.933,0.804,4,5,1,spotify:track:3448hZPa9daWs7gBYdwnx5,2006,2016,alpha
+Suis-moi,Suis-moi,Cyrille Aimee,2016-06-17,182278,0,0.688,0.878,0.304,0.0,0.241,-13.296,0.141,79.049,0.524,4,0,1,spotify:track:4HWsG9xQfXGFon8zKDZFjJ,2016,2016,alpha
+Summer,Kikujiro (Original Soundtrack),Joe Hisaishi,1998,386026,0,0.941,0.351,0.196,0.937,0.14,-16.699,0.0368,83.022,0.148,4,9,1,spotify:track:4thSp9cwFee6DjCmoXu6zY,1998,2016,alpha
+La Foule,Edith Piaf - The Best Of,Édith Piaf,2008-10-13,177106,38,0.836,0.454,0.418,1.05e-05,0.292,-6.942,0.0799,177.737,0.632,3,4,0,spotify:track:13EDwGNMQzzny96gJNa3BM,2008,2016,alpha
+Al Abama,Al Abama,Chapelier Fou,2011-05-09,170997,0,0.622,0.727,0.394,0.941,0.114,-10.164,0.0387,179.965,0.613,4,8,1,spotify:track:3MBrUbuaH7Kd5KoLbOnEnP,2011,2016,alpha
+Les Sablons,Les Valses Invisibles,Oskar Schuster,2012-03-26,162750,0,0.971,0.446,0.138,0.937,0.158,-22.686,0.0411,110.053,0.258,4,7,1,spotify:track:4ykUHPiJnKejzL6BaUDCmg,2012,2016,alpha
+Si facile,Comment c'est loin,Casseurs Flowters,2015-12-09,236733,58,0.885,0.683,0.326,0.0,0.132,-9.795,0.0716,96.796,0.641,4,10,1,spotify:track:7GfmLz1shp0aMwkPYHan0y,2015,2016,alpha
+I Can Talk,Hector's Mix Tape,Various Artists,2011-01-01,177400,0,3.12e-05,0.479,0.724,0.096,0.217,-5.248,0.213,162.965,0.671,4,9,0,spotify:track:3InbeZjHjrCOZKAwq8QR0E,2011,2016,alpha
+Jimmy,Gee Whiz but This Is a Lonesome Town (Deluxe Edition),Moriarty,2008-11-10,264826,0,0.894,0.754,0.303,3.25e-06,0.102,-9.138,0.0333,126.192,0.243,4,10,0,spotify:track:00DXmeDyB1LH0ja9zZZH2j,2008,2016,alpha
+Little Talks,My Head Is An Animal,Of Monsters and Men,2012-01-01,266600,57,0.0206,0.445,0.757,0.0,0.146,-5.177,0.0322,102.878,0.421,4,1,1,spotify:track:3a2tuvXCHbW5nuUckuHkKT,2012,2016,alpha
+Crazy Vibes,Raggamuffin,Selah Sue,2010-10-25,229466,0,0.00498,0.788,0.646,5.86e-05,0.168,-6.496,0.0443,123.145,0.43,4,11,0,spotify:track:3Q5oYtxn6wcI5knu3STL56,2010,2016,alpha
+Ixtapa,Rodrigo Y Gabriela,Rodrigo y Gabriela,2006,313946,11,0.829,0.387,0.786,0.927,0.119,-8.931,0.0304,116.102,0.511,4,11,0,spotify:track:4Bv4iiWvKX9P6AyaypRaCN,2006,2016,alpha
+Chord Left,Aventine,Agnes Obel,2013-09-30,148533,0,0.995,0.622,0.0908,0.967,0.103,-20.476,0.0651,182.003,0.0377,4,2,0,spotify:track:3SelopnR6OJ9pS2NIH5RHI,2013,2016,alpha
+It's Only A Paper Moon,Ella & Friends,Ella Fitzgerald,1996-01-01,156933,0,0.958,0.732,0.138,0.0,0.107,-14.28,0.0431,118.44,0.634,4,10,1,spotify:track:5CMw1IWB7JOpUY9nk54n1K,1996,2016,alpha
+Ice Cream,Ice Cream,OMFG,2015-09-09,285913,43,0.0766,0.762,0.972,0.86,0.198,-2.297,0.036,115.03,0.742,4,11,1,spotify:track:5Q95Dej1EbsgeFHEGD8kKP,2015,2016,alpha
+Biking Is Better,Wintergatan,Wintergatan,2013-04-23,208269,0,0.471,0.555,0.521,9.22e-05,0.325,-8.6,0.0337,179.893,0.981,3,4,0,spotify:track:69WIpY04jhi0o6PUpBTHpB,2013,2016,alpha
+Elsa,Les Temps Heureux,Les P'tits Yeux,2008-09-26,344600,20,0.0798,0.5,0.596,0.0,0.319,-6.928,0.13,165.251,0.889,4,9,1,spotify:track:1MwXOSyXnnWZOMGTiI7eh7,2008,2016,alpha
+Objectif terre,L'Ange De Mon Démon,Ridan,2007-03-16,235600,36,0.575,0.885,0.65,0.0,0.182,-6.357,0.0351,114.998,0.833,4,7,0,spotify:track:5qOLPHr1vAbhvyR4YCIdO1,2007,2016,alpha
+Allons voir,Allons voir,La Rue Kétanou,2014-01-06,210066,32,0.0246,0.548,0.485,0.0,0.194,-8.54,0.0364,64.896,0.493,4,4,0,spotify:track:32WTO7hpFK845K4kqjBXhC,2014,2016,alpha
+Comptine d'un autre été – L'après-midi,Comptine d'un autre été – L'après-midi,Amelie,2010-12-03,132515,0,0.986,0.547,0.303,0.92,0.115,-16.083,0.047,99.024,0.146,4,11,0,spotify:track:7hQQsAr1cEmKiOf1D9piSY,2010,2016,alpha
+Salento,Plaisirs d'amour,René Aubry,1998-10-09,345200,41,0.892,0.705,0.352,0.531,0.0762,-12.43,0.0292,100.023,0.394,4,4,0,spotify:track:455W8OlFWrvEKg4l8JllIr,1998,2016,alpha
+Le cran,La Fuite en Avant,Debout Sur Le Zinc,2011-10-03,179813,0,0.557,0.706,0.601,0.000141,0.0915,-6.301,0.0285,125.057,0.5,4,9,1,spotify:track:1WR29XorSKY0mz2KTfHaSR,2011,2016,alpha
+Cheesecake,Hello Louis - The Hit Years (1963-1969),Louis Armstrong,2010-01-01,147680,0,0.567,0.761,0.683,0.0,0.312,-5.682,0.167,96.4,0.833,4,10,1,spotify:track:6wvOSlSlEJ03vRtllIQ6ev,2010,2016,alpha
+Underground,The Easy Way Out,Mariama,2012-09-24,251026,39,0.821,0.482,0.264,2.93e-06,0.115,-10.236,0.0338,111.629,0.442,4,9,0,spotify:track:0UDRshibuvPUviyfPO2bZd,2012,2016,alpha
+Comment ne pas te louer,"Best of louange, vol. 2 (Il est vivant!)",Chants de l'Emmanuel,2015-07-10,124760,0,0.534,0.588,0.56,0.000101,0.0951,-7.177,0.0383,130.025,0.584,4,1,0,spotify:track:5IasOV6d1SztnAzOyCYkI6,2015,2016,alpha
+La radio qui chante,Saison 4,Yves Jamait,2011-10-10,206638,28,0.351,0.763,0.79,0.0,0.0488,-7.797,0.185,140.009,0.767,4,10,1,spotify:track:03eB0ePvBkMWAb71U4NSUt,2011,2016,alpha
+"La vie d'écolier (with Ours, Ben Ricour, Ben Mazué & Didier Wampas)",Enfantillages 2,Aldebert,2013-10-07,234400,40,0.497,0.514,0.736,0.0,0.229,-5.169,0.117,179.76,0.767,4,4,0,spotify:track:0hiOFWZb38iA8L77BOPoU5,2013,2016,alpha
+Pour tes merveilles,"Best of louange, vol. 2 (Il est vivant!)",Chants de l'Emmanuel,2015-07-10,115680,0,0.911,0.64,0.476,0.0,0.131,-8.519,0.0372,130.171,0.795,4,2,0,spotify:track:4FOAQwpSrUZxFnuZaI09t2,2015,2016,alpha
+La casa,Casa Nostra,La Casa Bancale,2007,294402,1,0.137,0.946,0.597,0.000882,0.31,-7.69,0.0914,109.985,0.713,4,1,1,spotify:track:27a1a45aKjdgNe2QhRiiGv,2007,2016,alpha
+Petite Fleur,Wake Up In Paris,The Hot Sardines,2014-10-20,205746,25,0.821,0.581,0.241,0.0331,0.104,-13.924,0.0417,117.085,0.259,4,7,1,spotify:track:6HCnB73vqQuYR5I8bP8AfP,2014,2016,alpha
+Anthem,Soon It Will Be Cold Enough,Emancipator,2006-12-06,340000,47,0.785,0.467,0.517,0.936,0.0926,-9.914,0.0366,170.032,0.314,4,10,1,spotify:track:4qCYYhzI5bCz7JxV7VD4HH,2006,2016,alpha
+Petits d'anges (with Sophie Tith),Enfantillages 2,Aldebert,2013-10-07,211866,24,0.887,0.712,0.3,0.0,0.126,-12.351,0.0583,109.815,0.205,4,2,0,spotify:track:1NGBhLALl8dltQYInC5e7a,2013,2016,alpha
+When I Get Low I Get High,When I Get Low I Get High,The Hot Sardines,2016-04-22,228160,0,0.868,0.623,0.306,0.122,0.386,-9.001,0.128,200.046,0.803,4,0,0,spotify:track:1tBbcxPIbXegk8xMziqvj2,2016,2016,alpha
+Repenti,Repenti,Renan Luce,2006-01-01,245986,42,0.452,0.511,0.35,5.31e-06,0.112,-12.065,0.0652,94.91,0.457,4,2,1,spotify:track:1uTFgjLNNUjUjaPgmxohfx,2006,2016,alpha
+Polish Lullaby,Deltas,Chapelier Fou,2015-08-28,169106,0,0.971,0.393,0.099,0.979,0.19,-16.089,0.0399,126.211,0.186,4,5,0,spotify:track:6BEbDORGxp71uKyY7SPCYz,2015,2016,alpha
+"Darling, Darling, Darling...","Darling, Darling, Darling...",Chapelier Fou,2009-05-18,277346,0,0.772,0.793,0.365,0.822,0.0905,-7.217,0.0467,106.053,0.425,3,4,0,spotify:track:2f7MnZ5YFMzZUFODvBsPDh,2009,2016,alpha
+La cerise,Antaology,Matmatah,2015-09-25,216680,14,0.0347,0.543,0.733,0.0,0.0864,-5.442,0.0407,104.94,0.344,4,2,0,spotify:track:1zw5CXWHSpTDLkELBlKwEO,2015,2016,alpha
+I Love You,The Golden Age,Woodkid,2013-01-01,230160,56,0.0532,0.542,0.814,0.000481,0.0852,-4.759,0.0386,146.002,0.526,4,5,0,spotify:track:0z39yzkwMNXYX2LYtEOpFW,2013,2016,alpha
+The Jitters,Rattle Them Bones (Deluxe Edition),Big Bad Voodoo Daddy,2012-09-04,194586,0,0.0231,0.507,0.794,0.483,0.194,-5.867,0.135,140.647,0.452,4,5,0,spotify:track:3ccKxBu0CWWHpMmwKPO9oY,2012,2016,alpha
+Hévenu Shalom Aléchem,Imbarca,Barcelona Gipsy Klezmer Orchestra,2013-05-08,166546,39,0.798,0.611,0.381,0.252,0.0743,-7.534,0.0506,167.767,0.906,4,2,0,spotify:track:2PBJO029LS3cbu0jqXsdOv,2013,2016,alpha
+Madame La République - Original Version,Madame La République,Ridan,2012-04-09,202280,0,0.656,0.756,0.596,0.0,0.349,-8.992,0.0611,121.04,0.928,4,5,0,spotify:track:7rRiDC4z1oOQMC6QiHpFgJ,2012,2016,alpha
+Going Back To New Orleans - Bonus Track,Rattle Them Bones (Deluxe Edition),Big Bad Voodoo Daddy,2012-09-04,246280,0,0.394,0.718,0.571,0.00816,0.0705,-6.468,0.118,97.76,0.602,4,2,1,spotify:track:0KMFzZNwrnk5uNWYFAtRai,2012,2016,alpha
+Happiest Man on Earth - Radio Edit,"Dear Misfortune, Mother of Joy - EP",Broken Back,2015-08-06,183480,41,0.227,0.761,0.709,2.29e-06,0.289,-6.976,0.0547,119.997,0.777,4,8,0,spotify:track:6rQi85JWh2LcMLwc4SFZOp,2015,2016,alpha
+Je suis moi,Nach,NACH,2015-04-06,191493,0,0.0367,0.69,0.811,0.0,0.106,-4.581,0.038,144.003,0.818,4,4,0,spotify:track:3KbIi03GuzjLzgiQb7xcwc,2015,2016,alpha
+Arc de Triomphe,Paris Cafe French Hot Club Gypsy Jazz Guitar Favorites,Paris Café Society,2015-03-23,163422,16,0.77,0.616,0.408,0.793,0.0845,-8.432,0.0597,199.762,0.868,4,7,1,spotify:track:391KuX002I77RVYGBT21d4,2015,2016,alpha
+Cœur de pierre,Nach,NACH,2015-04-06,199546,0,0.275,0.618,0.598,4.66e-05,0.188,-7.18,0.0326,92.008,0.343,4,0,1,spotify:track:35m220jovWHbs2FzZMUzvk,2015,2016,alpha
+Unity,Unity,TheFatRat,2015-03-06,249285,66,0.00424,0.707,0.88,0.0379,0.0534,-3.211,0.0317,105.003,0.565,4,4,0,spotify:track:47qYqGPgMTh3l1PRKBHEfI,2015,2016,alpha
+Jump Session,1938-1939,Slim & Slam,1996,155933,33,0.871,0.644,0.222,0.154,0.115,-19.731,0.253,164.385,0.91,4,5,0,spotify:track:7i0MI3h7o3LMy5v5C2GNKG,1996,2016,alpha
+The Shore,The Golden Age,Woodkid,2013-01-01,253533,37,0.956,0.419,0.338,0.38,0.108,-8.542,0.0251,85.034,0.038,4,9,1,spotify:track:5DyKHUJL1bnDcWrVoMYTph,2013,2016,alpha
+bâtard,racine carrée,Stromae,2013-01-01,208826,54,0.0478,0.743,0.749,0.0,0.746,-9.652,0.248,126.012,0.78,4,7,1,spotify:track:4APjoR6Fmrrl707Z1cShHS,2013,2016,alpha

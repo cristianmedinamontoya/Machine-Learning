@@ -1,0 +1,100 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user,Id
+Erfolg ist kein Glück,Aus dem Schatten ins Licht,Kontra K,2015-02-06,210813,67,0.382,0.605,0.716,0.0,0.104,-6.277,0.332,79.911,0.804,4,1,1,spotify:track:4xuVfUXkHe1YZZZWNICGcV,2015,2022,epsilon,C15
+The Motto,The Motto,Tiësto,2021-11-04,164818,81,0.0301,0.754,0.763,2.23e-05,0.0901,-4.627,0.0435,117.953,0.464,4,7,0,spotify:track:18asYwWugKjjsihZ0YvRxO,2021,2022,epsilon,C45
+"Face My Fears - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,79139,25,0.982,0.298,0.00397,0.98,0.163,-34.975,0.0347,59.986,0.0361,4,1,0,spotify:track:2rYVz5yIThuKl79EqTI9W1,2022,2022,epsilon,C97
+Hel (bonus track),The North Album,Power-Haus,2020-07-03,146000,36,0.771,0.262,0.439,0.82,0.0568,-11.553,0.0788,180.456,0.0343,3,10,1,spotify:track:6KZuh2C4mRcby9kVF8r7U3,2020,2022,epsilon,C105
+Dystopia,Light Years,Retouch,2017-04-14,286636,34,0.00013,0.528,0.736,0.841,0.156,-9.225,0.025,140.012,0.313,4,2,1,spotify:track:1SElxVbpwdomi25rpBobWK,2017,2022,epsilon,C117
+Stranger,Stranger,Olivia Addams,2021-04-16,166875,55,0.0705,0.581,0.749,0.0,0.292,-4.625,0.173,127.743,0.291,4,2,0,spotify:track:7keesrr5gzF7Ol17M1vJZY,2021,2022,epsilon,C127
+Hillside Tree,Finding Beauty,Kainbeats,2021-05-12,149050,52,0.968,0.705,0.12,0.939,0.11,-19.638,0.0335,65.994,0.318,4,8,1,spotify:track:1LPynWjI6E3T3lgMCxK3Fj,2021,2022,epsilon,C128
+You Are a Memory,Maps,Message To Bears,2013-11-12,221746,58,0.857,0.134,0.339,0.0393,0.101,-10.315,0.034,144.405,0.0291,5,9,1,spotify:track:49fDs1J7JqHlUo6HbX2qJ5,2013,2022,epsilon,C175
+"In The Water - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,114425,32,0.988,0.182,0.019,0.971,0.0907,-30.589,0.0435,95.285,0.0334,4,4,1,spotify:track:7ajRLygLieUKb5qsumndfc,2022,2022,epsilon,C197
+Plague Doctor - Instrumental,Plague Doctor,Essenger,2021-07-08,177120,16,0.245,0.554,0.817,0.648,0.084,-7.498,0.04,116.011,0.15,4,0,1,spotify:track:4kWFpXtOEWCgVsfZqhn05v,2021,2022,epsilon,C253
+"Crossing The Bridge - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,116637,26,0.945,0.139,0.0875,0.955,0.0847,-34.46,0.0564,100.112,0.0613,4,2,1,spotify:track:3Iub6voK4bPw9ac6ChEPTI,2022,2022,epsilon,C254
+Nero,Nero,The Speed,2019-09-07,170830,23,0.422,0.717,0.506,0.209,0.189,-7.921,0.0521,84.99,0.0832,4,10,1,spotify:track:1JZNxg6toMqHASrA607ra6,2019,2022,epsilon,C349
+Natural Light,Underwater,Ludovico Einaudi,2022-01-21,335542,63,0.992,0.218,0.00352,0.951,0.139,-39.627,0.0515,68.61,0.192,4,1,1,spotify:track:1kKbVnjBHvRSMJUsNOQp2h,2022,2022,epsilon,C393
+Children of the Omnissiah,"Warhammer 40,000: Mechanicus (Original Soundtrack)",Guillaume David,2020-02-19,106804,56,0.55,0.119,0.126,0.904,0.108,-20.239,0.0343,173.224,0.0529,3,9,1,spotify:track:4X8EWmG3c2eIRxPDsPGU0O,2020,2022,epsilon,C397
+"Horse Ride - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,111979,26,0.962,0.252,0.14,0.977,0.0799,-21.271,0.0382,100.074,0.037,4,6,0,spotify:track:6eLKwLETXn5VFSrSq6HigX,2022,2022,epsilon,C435
+Drunken Dwarves,Wintersaga,Wind Rose,2019-09-27,272767,56,1.68e-05,0.444,0.958,0.271,0.358,-4.65,0.0509,160.017,0.677,4,0,1,spotify:track:4qxK1lnNoYm1kevG69mhHU,2019,2022,epsilon,C476
+The Storm,The Storm,Notaker,2018-09-17,294782,42,0.043,0.493,0.691,0.842,0.193,-7.362,0.034,91.991,0.164,4,6,0,spotify:track:1vgFrwxfhChZwJTHuTM3Zo,2018,2022,epsilon,C546
+Next Lines,Next Lines,Stanley Berg,2021-12-28,154108,22,0.829,0.299,0.248,0.815,0.0966,-15.707,0.031,80.71,0.119,4,2,1,spotify:track:4FYB3Q3GhEs0OZ04fzab0R,2021,2022,epsilon,C589
+"Video Tape - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,137680,30,0.936,0.373,0.163,0.936,0.128,-21.807,0.0332,94.057,0.0377,4,6,1,spotify:track:5z3KcciOg8G1IsIaRN5ZOv,2022,2022,epsilon,C644
+Abyss,Abyss,Klaypex,2014-07-03,308166,25,0.00243,0.742,0.396,0.0517,0.0919,-7.155,0.0596,127.976,0.227,4,0,1,spotify:track:16ya3VKqYZyG5hjG7EV0Q1,2014,2022,epsilon,C690
+"Icarus - Main Theme - From ""Deus Ex: Human Revolution""",The Essential Games Music Collection (Vol. 2),London Music Works,2018-04-13,289189,25,0.681,0.46,0.646,0.947,0.0827,-15.114,0.0396,119.985,0.227,4,7,0,spotify:track:65q3WLpHamyGKwgj4GMbbL,2018,2022,epsilon,C718
+Neon Protocol,Neon Protocol,Big Giant Circles,2020-10-14,289894,18,0.00813,0.436,0.795,0.796,0.0951,-8.372,0.033,95.009,0.0544,4,4,0,spotify:track:6T0V4R5u50RrlONxTNt6uY,2020,2022,epsilon,C724
+Your Shadow Tells the Story of What We Could Have Been,"That Light, As the Door Closed",Frönäs,2018-09-21,694819,34,0.992,0.0886,0.117,0.852,0.142,-18.27,0.0354,82.954,0.0324,4,2,0,spotify:track:0Gz0Dui1sOIEMBq5R0ZJoD,2018,2022,epsilon,C738
+EPISODE 1: COLDBLOOD,EPISODE 1: COLDBLOOD,NEOSHIN,2022-08-05,201600,28,0.000564,0.493,0.506,0.125,0.0744,-13.585,0.035,150.076,0.279,4,9,0,spotify:track:14Ap5GjsRBvZz0XtEQMMAX,2022,2022,epsilon,C801
+Alleyways,Alleyways,J+1,2020-07-17,126375,49,0.797,0.587,0.532,0.104,0.113,-10.309,0.0291,159.987,0.0658,4,10,0,spotify:track:1HC3nSraaRQ82RJP4TjYTX,2020,2022,epsilon,C869
+Rescue Me,Arcadia,Eurielle,2015-12-05,279706,34,0.335,0.112,0.338,0.00691,0.33,-9.902,0.0335,72.269,0.0728,4,2,0,spotify:track:6BzVw8MDBUN44HV4SFGoeL,2015,2022,epsilon,C1074
+Cloud Surfing,Lofi Dreams 2,Various Artists,2021-04-08,94004,45,0.935,0.559,0.394,0.904,0.105,-16.183,0.0867,68.258,0.161,1,11,0,spotify:track:5w5R4J7zOzfxN1AUmo2pPU,2021,2022,epsilon,C1107
+"We Drifted Apart - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,113689,24,0.94,0.256,0.0483,0.915,0.0778,-27.616,0.0318,39.163,0.0382,4,6,0,spotify:track:2On6AigUGtcseK5wYHOfNi,2022,2022,epsilon,C1211
+About You,About You,KROMEA,2019-05-24,261904,32,0.000465,0.398,0.898,0.321,0.103,-5.461,0.0487,174.091,0.079,4,7,0,spotify:track:77UUOsYp6KEQqGWwy4asB8,2019,2022,epsilon,C1253
+Lair of the Dragon,Lair of the Dragon,Wolf and Raven,2018-09-15,403204,30,0.00097,0.245,0.922,0.948,0.153,-6.269,0.0545,125.075,0.183,4,10,0,spotify:track:2k8vy6MoYbHdoWobIGyRFP,2018,2022,epsilon,C1281
+Je t'Adore,Arcadia,Eurielle,2015-12-05,249346,36,0.685,0.229,0.266,0.000665,0.149,-12.494,0.031,94.725,0.0631,4,8,1,spotify:track:22JJOKBehHRyHwGLqdGHv0,2015,2022,epsilon,C1300
+Shitsubo Shita,Rear View,Josh Lis,2017-06-29,258897,32,0.466,0.735,0.68,0.462,0.0798,-6.966,0.0522,127.036,0.483,4,7,0,spotify:track:5E4KvUjuwUfyuRIzVQwt7u,2017,2022,epsilon,C1303
+Drought,Drought,Mod3no,2020-07-31,205542,31,0.267,0.504,0.576,0.00124,0.0703,-9.771,0.0455,175.005,0.106,4,9,0,spotify:track:1N4wQrbgF4zxYQMOhZG2rC,2020,2022,epsilon,C1314
+Ethereal,Ethereal,ASTRAL CLOUD,2019-03-01,303440,27,0.00123,0.608,0.8,0.711,0.0798,-6.222,0.0284,104.99,0.0756,4,6,1,spotify:track:4XnebBqDKtqS2bVMyabFWc,2019,2022,epsilon,C1329
+"Main Titles - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,57514,27,0.868,0.337,0.232,0.879,0.102,-23.476,0.033,99.343,0.0463,4,7,1,spotify:track:30pIbaKf1NlXFmD3RO6JoC,2022,2022,epsilon,C1352
+Reset,Horizon,Kick Puncher,2017-11-10,369371,29,0.0712,0.358,0.676,0.851,0.108,-9.405,0.053,180.03,0.104,4,9,0,spotify:track:6sQNBxTBNJZ5NVBJ91rnaW,2017,2022,epsilon,C1358
+Warriors of Mars,"Warhammer 40,000: Mechanicus (Original Soundtrack)",Guillaume David,2020-02-19,269753,40,0.339,0.354,0.433,0.894,0.109,-14.548,0.0354,91.195,0.129,4,1,1,spotify:track:4GbqofudRU5ELCTBzNqrmk,2020,2022,epsilon,C1407
+This Is What You Are,Warframe (Original Video Game Soundtrack),Keith Power,2018-08-31,374217,47,0.336,0.182,0.478,0.483,0.0938,-12.092,0.0382,105.006,0.0392,3,0,1,spotify:track:7ChSbgzmrIa3enKf62fW26,2018,2022,epsilon,C1433
+The Encounter,The Encounter,ABBOTT,2019-10-11,253629,40,0.901,0.107,0.129,0.695,0.0832,-17.316,0.0393,87.809,0.0347,4,1,0,spotify:track:2rPKxyFcdKJ1dN7WiNBhwo,2019,2022,epsilon,C1507
+Deliverance,Distant Millennia Vol. I,Joshua Lamberti,2022-07-14,297000,17,0.0936,0.243,0.339,0.815,0.418,-11.154,0.0355,114.34,0.0347,4,2,0,spotify:track:17Szr0ZJrSVqUTa487l8qx,2022,2022,epsilon,C1582
+"New Home - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,120850,27,0.99,0.194,0.0112,0.912,0.0852,-32.661,0.0414,70.979,0.038,4,2,1,spotify:track:0Ms6tmaViCFOVfBHTT7zkW,2022,2022,epsilon,C1595
+Phoenix (Carpenter Brut Remix),Phoenix (Carpenter Brut Remix),League of Legends,2019-10-30,213333,43,0.00161,0.4,0.796,0.000675,0.234,-7.362,0.0574,170.947,0.439,4,9,1,spotify:track:3Fza63EiZQsuHpCwFG4qHE,2019,2022,epsilon,C1723
+Mischievous Alchemy,Kingdom Two Crowns (Original Soundtrack),Amos Roddy,2018-12-11,137854,44,0.902,0.684,0.268,0.00863,0.0789,-16.108,0.0351,135.964,0.431,4,8,1,spotify:track:7Eb83iUNC8yBhGRqepiEXV,2018,2022,epsilon,C1772
+Carry Me,Arcadia,Eurielle,2015-12-05,277786,45,0.79,0.207,0.239,0.0152,0.104,-12.635,0.0393,117.42,0.0366,4,11,0,spotify:track:7Ae5iSJJVRd0hLtEA7ZODx,2015,2022,epsilon,C1872
+Simple & Clean,Simple & Clean,Kiba,2019-02-01,321515,35,0.0292,0.303,0.543,0.479,0.128,-7.147,0.0489,94.488,0.138,4,7,0,spotify:track:03LVCrtPQ2KXn2OWreF49P,2019,2022,epsilon,C1888
+Death Korps,Distant Millennia Vol. I,Joshua Lamberti,2022-07-14,195375,17,0.00531,0.648,0.73,0.838,0.0823,-9.988,0.0298,135.018,0.0948,4,2,1,spotify:track:7nsrK2z3WTIVRxvxBCMqDI,2022,2022,epsilon,C1921
+After Dark,Time,Mr.Kitty,2014-08-08,257147,73,0.0677,0.578,0.6,0.417,0.0778,-10.491,0.0322,140.021,0.0392,4,8,1,spotify:track:5FkJHVudUByVjanCqFXRql,2014,2022,epsilon,C2002
+Space Man,Space Man,Eurielle,2017-03-03,273716,31,0.495,0.507,0.446,3.8e-05,0.108,-9.728,0.0276,129.91,0.197,4,9,0,spotify:track:6XWe9ZV5j7CtZynIvIwjg2,2017,2022,epsilon,C2003
+Oasis,Oasis,Kooma,2021-07-23,233301,25,0.523,0.497,0.488,0.0483,0.157,-9.694,0.0414,170.199,0.128,4,4,0,spotify:track:1cpkt35FhVmALA0jUlrLjD,2021,2022,epsilon,C2079
+Argyle Twinkletoeses,Argyle Twinkletoeses,Alyag,2022-08-10,401632,14,0.00192,0.661,0.659,0.716,0.093,-8.112,0.035,98.018,0.165,4,2,1,spotify:track:03joNudlNTeeHjkSPe15iI,2022,2022,epsilon,C2092
+Cores & Shells,Cores & Shells,Oneeva,2017-01-16,272856,33,0.00338,0.655,0.941,0.236,0.169,-3.807,0.0743,125.942,0.0665,4,5,0,spotify:track:1qqnCnCEhsQDt8CYydlIGZ,2017,2022,epsilon,C2135
+Freedom Waits on the Other Side,Cinematic Level 4,EpicTracks,2021-05-16,181079,2,0.221,0.427,0.671,0.864,0.112,-13.118,0.0363,110.016,0.062,4,7,1,spotify:track:5YtZAbT5ZYWinaqqxoxLBK,2021,2022,epsilon,C2162
+Horus,Downlord,Owl Vision,2016-03-01,254867,46,0.000544,0.709,0.928,0.882,0.159,-3.15,0.0652,113.002,0.171,4,9,1,spotify:track:2rAy5myUnng0XOWlQBUsIr,2016,2022,epsilon,C2178
+Diggy Diggy Hole,Wintersaga,Wind Rose,2019-09-27,315986,67,0.000206,0.311,0.942,0.238,0.158,-5.175,0.0483,125.006,0.651,4,8,1,spotify:track:0FDY2EHOv32kUoqplU1hdY,2019,2022,epsilon,C2202
+Fellows of the Hammer,Warfront,Wind Rose,2022-06-10,375595,54,0.00012,0.511,0.986,0.476,0.487,-5.586,0.0627,115.016,0.236,4,11,0,spotify:track:2RyG06POk4ybd4B0CZC02k,2022,2022,epsilon,C2203
+Plume,Plume,Skeler,2019-06-12,194394,42,0.0516,0.286,0.66,0.853,0.0923,-8.568,0.0612,117.518,0.149,4,8,1,spotify:track:7KPyhniD0jgfdP0H83Y9ZB,2019,2022,epsilon,C2283
+By His Stripes We Are Healed,By His Stripes We Are Healed,Efisio Cross,2022-07-14,356068,18,0.00125,0.0916,0.513,0.023,0.114,-11.807,0.0413,78.114,0.0431,4,5,1,spotify:track:4Xfpumzh0f8lQsrzNo1To9,2022,2022,epsilon,C2333
+Lost Control,Escape,Spaceinvader,2018-02-08,241914,17,0.0222,0.508,0.73,0.807,0.119,-6.096,0.0393,125.971,0.2,4,11,0,spotify:track:0LzOmVLQxKwE9Gl4D6we2g,2018,2022,epsilon,C2456
+Realm Breaker,Telesterion,Mechina,2019-11-01,449177,30,0.226,0.109,0.884,0.0039,0.263,-4.82,0.0659,89.76,0.138,3,7,0,spotify:track:0zodzLVNuP7yGOwErNUPuV,2019,2022,epsilon,C2507
+Samsara,Serenity,Hoenix,2021-09-16,423661,29,0.726,0.368,0.452,0.913,0.107,-10.278,0.0456,159.968,0.0332,4,5,0,spotify:track:4J6GgiOoMoaxWManfXDhOH,2021,2022,epsilon,C2513
+Burning Cold,Arcadia,Eurielle,2015-12-05,334733,27,0.0352,0.339,0.398,0.151,0.112,-11.074,0.032,80.071,0.118,4,8,1,spotify:track:4zQ6O2vfWGovigzbSXmF8B,2015,2022,epsilon,C2530
+Mind Upload,"Kurzgesagt, Vol. 7 (Original Motion Picture Soundtrack)",Epic Mountain,2021-02-12,520921,27,0.0364,0.347,0.569,0.839,0.0948,-11.026,0.0544,95.08,0.264,4,4,0,spotify:track:3cTwxieRn4r5DRgsMw7R4N,2021,2022,epsilon,C2550
+Millennial Rage,"Warhammer 40,000: Mechanicus (Original Soundtrack)",Guillaume David,2020-02-19,401965,40,0.0866,0.546,0.474,0.859,0.132,-14.983,0.0378,145.003,0.0586,4,2,1,spotify:track:71G13ZzmLIcq5AcMs05nhO,2020,2022,epsilon,C2569
+"Helpless - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,183397,23,0.92,0.0677,0.0632,0.913,0.122,-22.664,0.0414,187.419,0.0335,4,6,0,spotify:track:6Dyg9zsrmW17IaAEV3Ksv6,2022,2022,epsilon,C2583
+Mindflayer,Mindflayer,Becko,2018-10-19,176727,31,0.00105,0.55,0.906,0.0247,0.132,-5.183,0.0541,110.0,0.126,4,10,0,spotify:track:5qBnxyGYfImDHRom5kDI8P,2018,2022,epsilon,C2584
+Red Skies,Red Skies,J+1,2020-08-06,166956,44,0.335,0.441,0.468,0.393,0.0658,-11.85,0.0428,122.704,0.345,5,6,0,spotify:track:5gxfVzzJyQ2rzXzxIgbR2T,2020,2022,epsilon,C2601
+Warrior Princess,A World Of Color,Dos Brains,2018-12-21,270152,35,0.0967,0.359,0.59,0.256,0.0741,-11.06,0.0361,140.086,0.0472,4,2,0,spotify:track:533CKDc4NidKvpEjJ7C2Bb,2018,2022,epsilon,C2604
+Who Will Help Me Carry Him,Who Will Help Me Carry Him,Dan Thiessen,2020-09-02,265200,34,0.0578,0.151,0.411,0.891,0.0612,-14.441,0.0336,96.94,0.0394,4,9,0,spotify:track:6hykok6wbgfbaRxbOIq26R,2020,2022,epsilon,C2651
+Never Been Away,Somnia,ABBOTT,2020-05-15,227351,35,0.928,0.0623,0.0772,0.88,0.0853,-17.984,0.0426,64.989,0.036,4,7,1,spotify:track:3JJnuwXEQce9m5cR7NTYKh,2020,2022,epsilon,C2665
+Where My Girls At,Where My Girls At,VENUS,2021-12-31,164526,35,0.0394,0.603,0.792,0.0,0.191,-7.168,0.228,190.04,0.461,4,7,0,spotify:track:3BCjEiinht1jcDdIoaHAhH,2021,2022,epsilon,C2705
+Mountains,Mountains,Ether,2017-07-23,257201,27,0.0424,0.222,0.55,0.00112,0.529,-6.414,0.0357,140.195,0.0558,4,5,1,spotify:track:19ZelJZGJeoBnIL3PDngsu,2017,2022,epsilon,C2829
+Sermon of Purification,Distant Millennia Vol. I,Joshua Lamberti,2022-07-14,264124,15,0.522,0.202,0.13,0.869,0.112,-18.173,0.0361,63.036,0.035,4,2,0,spotify:track:2KNVwMsIwseC9BdqDUINnf,2022,2022,epsilon,C2857
+21614 (On The Road Again),21614 (On The Road Again),Rob & Chris,2020-12-11,183907,42,0.0327,0.552,0.77,0.401,0.184,-7.674,0.0394,99.954,0.0835,4,1,0,spotify:track:09pPRcw8A1EYOMCSefZ6Cz,2020,2022,epsilon,C2939
+三,三,Aether,2021-01-15,212693,31,0.381,0.657,0.537,0.808,0.149,-10.706,0.0361,136.041,0.229,4,6,1,spotify:track:1GsWsNc9gSn8EvOh804lW4,2021,2022,epsilon,C2988
+Per Aspera,Distant Millennia Vol. I,Joshua Lamberti,2022-07-14,179250,14,0.675,0.437,0.537,0.954,0.112,-12.499,0.0375,94.974,0.116,3,11,0,spotify:track:1q119QCi6MWF4dxYimPoQe,2022,2022,epsilon,C3001
+Liberators,Vengeance - ES033,Epic Score,2015-09-04,156569,56,0.0082,0.216,0.861,0.781,0.186,-5.872,0.0489,117.961,0.429,4,6,1,spotify:track:4jIn1jQ7Wm0CHBUpgKv9uG,2015,2022,epsilon,C3061
+convo,Layover,S N U G,2021-10-03,137182,47,0.866,0.751,0.366,0.868,0.102,-10.904,0.0474,83.996,0.368,4,4,1,spotify:track:2inR38gNmSLamsNnzfChkH,2021,2022,epsilon,C3067
+Circadian,Quietude,S N U G,2021-08-06,137600,48,0.922,0.575,0.196,0.943,0.092,-16.233,0.0348,75.035,0.153,4,4,1,spotify:track:4xde8X3rQNK1opo5eCRRww,2021,2022,epsilon,C3071
+Admiral of the Void,Distant Millennia Vol. I,Joshua Lamberti,2022-07-14,118500,7,0.776,0.233,0.314,0.79,0.101,-13.377,0.0307,70.553,0.0718,4,4,0,spotify:track:7G9dKPS9lZMjPq05f1yLpG,2022,2022,epsilon,C3096
+"Revelations - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,263163,24,0.94,0.137,0.102,0.97,0.0789,-27.359,0.0484,99.761,0.034,4,6,0,spotify:track:2JnU0QAqxb0Dc0BdAXNHgU,2022,2022,epsilon,C3112
+Killer Instinct,Plethora,Ray Gun Hero,2018-03-11,336485,31,9.51e-05,0.298,0.925,0.701,0.109,-6.804,0.395,75.05,0.237,4,5,0,spotify:track:2B7okXIc2ivFsOAb5p09C4,2018,2022,epsilon,C3203
+137 - House Remix by Alex Kzn,137 (House Remix by Alex KZN),Jay Ray,2019-03-03,364067,35,0.198,0.684,0.803,0.832,0.0644,-6.768,0.0492,117.975,0.449,4,8,1,spotify:track:6w6sbIHDzwr2JV0M4qcGek,2019,2022,epsilon,C3206
+Midnight,Midnight,Diamans,2022-07-01,189000,28,0.00172,0.619,0.751,0.101,0.17,-7.226,0.0295,160.013,0.456,4,2,1,spotify:track:4GUKWuCkieq32jl0dT8YoK,2022,2022,epsilon,C3221
+"Lost Memories - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,86683,29,0.992,0.179,0.0107,0.943,0.0806,-34.845,0.0374,64.572,0.0768,3,1,0,spotify:track:3ZYkv1yZVcKhsZBeCUfU0w,2022,2022,epsilon,C3223
+Raindrops,Arcadia,Eurielle,2015-12-05,268666,41,0.137,0.306,0.435,0.000129,0.0934,-10.037,0.0323,129.776,0.0965,4,0,0,spotify:track:5ngjAIX4RAVfJGs6Mpbqwn,2015,2022,epsilon,C3333
+"What We Had - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,349728,26,0.911,0.0731,0.0728,0.949,0.104,-21.07,0.044,80.162,0.0348,1,6,0,spotify:track:1ehU7pabvS41UWUyBrVYwL,2022,2022,epsilon,C3392
+Galactic Runway,Nocturn,Tonebox,2016-10-28,317880,32,0.105,0.582,0.333,0.903,0.169,-12.303,0.0386,104.045,0.0537,4,11,1,spotify:track:6lBCZRGosiuGlxbJ15isDJ,2016,2022,epsilon,C3496
+Dance of the Cryptek,"Warhammer 40,000: Mechanicus (Original Soundtrack)",Guillaume David,2020-02-19,428000,42,0.684,0.179,0.459,0.873,0.103,-16.263,0.178,172.665,0.0523,3,11,0,spotify:track:66LZvMGRuow6W1YWoWjg1C,2020,2022,epsilon,C3500
+Storm City,Storm City,Cloud Battalion,2018-05-03,247692,37,0.0144,0.386,0.945,0.9,0.52,-5.805,0.0409,156.029,0.0572,4,6,0,spotify:track:41zMB8qTcM2xsqRq54AsdF,2018,2022,epsilon,C3506
+Ezio's Family Drill - Remix,Ezio's Family Drill (Remix),Archit Gupta,2022-03-16,138433,26,0.0142,0.591,0.557,0.857,0.259,-10.557,0.107,140.014,0.217,4,6,1,spotify:track:5LBmr4VnkxoVfYwsk92WvD,2022,2022,epsilon,C3507
+Thoughts,Thoughts,Randloev,2021-07-23,373607,27,0.0937,0.564,0.51,0.856,0.114,-12.716,0.0349,142.014,0.0527,4,3,0,spotify:track:0TRDcKtPxHAU9z2tRvHXh6,2021,2022,epsilon,C3547
+"The Letter - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,154013,24,0.968,0.26,0.00157,0.959,0.104,-38.922,0.0426,33.719,0.0565,3,6,0,spotify:track:1tea7w1TiNPTCuGLcfeWzQ,2022,2022,epsilon,C3620
+"Awake - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,136996,32,0.991,0.435,0.0275,0.955,0.082,-32.372,0.0382,120.002,0.0524,4,1,0,spotify:track:2BE9wLg2nyJahAecN1a6La,2022,2022,epsilon,C3706
+Ascension,Ascension,Blackmill,2020-08-21,295389,37,0.058,0.451,0.403,0.00569,0.098,-14.054,0.0519,130.019,0.118,4,7,0,spotify:track:42djLHwo6rfCahdrXQaZG0,2020,2022,epsilon,C3707
+Destiny,Twilight,Neovaii,2022-06-03,114580,47,0.131,0.505,0.72,0.0092,0.465,-6.19,0.0606,155.013,0.278,4,9,1,spotify:track:1BeOgcUxyLBxZv3UolrlGq,2022,2022,epsilon,C3731
+"The Last Run - From ""Surface""",Surface (Music from the Original TV Series),Ólafur Arnalds,2022-07-29,151763,24,0.982,0.339,0.0467,0.975,0.117,-30.294,0.0372,100.04,0.0345,4,8,0,spotify:track:5fU9VXI0oDTkM6L1fGnA4E,2022,2022,epsilon,C3843
+Shadowtask,Shadowtask,PYLOT,2017-01-23,201272,46,0.00046,0.48,0.888,0.00464,0.294,-4.618,0.0502,146.751,0.413,4,1,0,spotify:track:2oGsIyKXl56xIkzHlsvXiF,2017,2022,epsilon,C3858
+Overhours,Overhours,Warriyo,2019-02-28,260532,37,0.0145,0.574,0.501,2.15e-06,0.164,-9.331,0.0284,95.017,0.318,4,9,0,spotify:track:01V3FamQ70LSYhkDXz47Wt,2019,2022,epsilon,C3861
+Dzikaje Palavańnie,Rujnuj,Dzivia,2018-12-13,433912,39,0.496,0.186,0.515,0.847,0.265,-9.859,0.0361,129.983,0.0386,4,11,0,spotify:track:6D3fACLwRc3sfFrhlGrdkj,2018,2022,epsilon,C3883

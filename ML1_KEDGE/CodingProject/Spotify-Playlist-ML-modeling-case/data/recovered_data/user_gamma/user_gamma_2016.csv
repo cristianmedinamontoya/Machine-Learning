@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+Yellow Submarine - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,158800,0,0.158,0.66,0.557,0.0,0.543,-9.597,0.03,110.743,0.788,4,1,1,spotify:track:727YRTVI7pKH1uCnXnyZul,2000,2016,gamma
+La lune rousse,La lune rousse (feat. Deva Premal),Fakear,2014-06-06,225256,54,0.0489,0.721,0.813,0.00238,0.153,-7.763,0.0321,113.002,0.161,4,9,1,spotify:track:5Jlfld6JdyQSeDvNdv0XRE,2014,2016,gamma
+Gimme Gimme,Free as a Bird,Soom T,2015-11-13,179340,24,0.033,0.8,0.87,0.00836,0.0925,-3.919,0.0373,110.035,0.78,4,0,1,spotify:track:5aTsfeZEcf1jzION8nLngQ,2015,2016,gamma
+Tall Ground - Bonus Track,Stachelight,Deluxe,2016-01-22,215388,49,0.14,0.818,0.623,0.0,0.542,-5.008,0.111,99.966,0.755,4,5,0,spotify:track:501JgdAVAoaCM204ZP0b5q,2016,2016,gamma
+Neptune,Sauvage,Fakear,2014-01-01,229792,34,0.141,0.807,0.543,0.86,0.108,-7.483,0.203,157.037,0.362,4,2,0,spotify:track:5eXQ1TwlcoKp5znwG1XfWg,2014,2016,gamma
+La main verte - Live,Mamagubida,Tryo,1998,133293,0,0.851,0.715,0.621,0.0,0.748,-8.038,0.265,99.624,0.701,4,4,1,spotify:track:6lD19XZMZYGITJ8k0uB0Fo,1998,2016,gamma
+Hit Me Like a Drum,The Demon Diaries,Parov Stelar,2015-05-01,211787,44,0.551,0.905,0.721,6.8e-06,0.111,-5.508,0.123,125.001,0.829,4,5,0,spotify:track:38qT775mKjrVXEP4q8y7Gc,2015,2016,gamma
+The Sun - Klingande Remix Radio Edit,The Sun (Klingande Remix),Parov Stelar,2015-06-12,210375,59,0.0935,0.612,0.761,0.355,0.146,-6.783,0.307,124.928,0.46,4,11,0,spotify:track:5ahvjrjn7ymaeaWKFZrsca,2015,2016,gamma
+River,Ibeyi,Ibeyi,2015-02-16,252095,4,0.0962,0.654,0.292,0.0031,0.106,-12.977,0.474,153.547,0.103,4,2,1,spotify:track:3VFj5odD26z1u2eV6Vwxa6,2015,2016,gamma
+La corrida,Né quelque part,Tryo,2014-09-01,243826,0,0.309,0.819,0.667,2.15e-05,0.37,-7.362,0.107,95.985,0.564,4,0,1,spotify:track:54KvJnQio94Q9LiAOorBBB,2014,2016,gamma
+Silver,Silver,Fakear,2016-02-19,212693,0,0.0402,0.752,0.54,0.0906,0.112,-8.195,0.0378,96.017,0.173,4,9,0,spotify:track:0ouISMQxelz9vz7CZJlsDC,2016,2016,gamma
+Ghosts,Ibeyi,Ibeyi,2015-02-16,211434,0,0.389,0.815,0.319,0.00474,0.115,-12.064,0.237,150.975,0.28,4,0,1,spotify:track:25aGf0NIelrAsbRAE6GbWx,2015,2016,gamma
+Serre-moi,Grain De Sable,Tryo,2003,226533,0,0.762,0.826,0.442,0.0,0.107,-10.371,0.0485,103.949,0.873,4,2,1,spotify:track:3KwMUX5qDH5BajABWZAes9,2003,2016,gamma
+Demon Dance,The Demon Diaries,Parov Stelar,2015-05-01,209965,34,0.22,0.971,0.832,0.0129,0.341,-6.238,0.363,120.009,0.786,4,9,1,spotify:track:2OWzYwHG22N4YoGvgcmNLD,2015,2016,gamma
+"Colors of the Wind - From ""Pocahontas""",Colors of the Wind,POCAHONTAS,1995-11-14,221000,20,0.17,0.754,0.708,0.00302,0.3,-10.658,0.0583,100.005,0.648,4,0,1,spotify:track:2rAuICt6hRTv9qklkqd6vs,1995,2016,gamma
+Hundred Miles,Hundred Miles,Yall,2015-10-16,172413,1,0.025,0.479,0.714,0.0153,0.206,-3.776,0.109,98.23,0.49,4,7,0,spotify:track:5dyDkXi1bnQKSyIdO0JXp8,2015,2016,gamma
+A Rekurd,Hand in the Fire,Mr. Oizo,2015-12-11,177196,0,0.00123,0.795,0.838,0.729,0.103,-5.382,0.0988,116.118,0.142,4,8,0,spotify:track:0ejLpX7Lb5oDSgjK285GCM,2015,2016,gamma
+Pop Dem Bubble,Rays of Resistance,Naâman,2015-10-30,188493,0,0.383,0.899,0.761,0.000242,0.0684,-5.694,0.114,92.004,0.683,4,4,0,spotify:track:47NxVG3mXupoM0nzU2mH8s,2015,2016,gamma
+Once Upon a Time,"The Groove Sessions, Vol. 3",Chinese Man,2014-04-14,221813,43,0.291,0.671,0.589,0.0,0.0924,-5.488,0.274,180.053,0.657,4,9,0,spotify:track:395XDgKWWhfkJ15sJhvYBT,2014,2016,gamma
+Rockers,Deep Rockers (Back a Yard),Naâman,2013-06-03,213077,0,0.0314,0.593,0.622,2.05e-06,0.337,-8.656,0.155,78.847,0.512,4,6,0,spotify:track:0ntve6Mr784TJcAeDvy4eS,2013,2016,gamma
+Boat people,Midnight walkers,Stand High Patrol,2012-01-20,198120,0,0.18,0.84,0.609,0.00391,0.0954,-7.619,0.068,80.514,0.558,4,2,1,spotify:track:3uyRxSzjlVqFPFTK3806uh,2012,2016,gamma
+Hand in the Fire - Instrumental,Hand in the Fire,Mr. Oizo,2015-12-11,180739,0,0.00268,0.705,0.769,0.881,0.171,-5.104,0.227,166.072,0.779,4,11,0,spotify:track:5W1P6VZHOMqChz4tGYXLcU,2015,2016,gamma
+All Night,The Art Of Sampling (Deluxe Version),Parov Stelar,2013-01-01,166400,58,0.107,0.797,0.618,0.845,0.243,-7.672,0.0429,125.02,0.826,4,7,0,spotify:track:6kK2YbF8boQl32Lqkai3Ca,2013,2016,gamma
+House of Love,Deep Rockers (Back a Yard),Naâman,2013-06-03,232123,0,0.182,0.776,0.649,0.0,0.0555,-7.717,0.0489,100.026,0.721,4,8,1,spotify:track:7vazw79Qf6YFHwZUEZXcyT,2013,2016,gamma
+Plus on en fait,Faut qu'ils s'activent,Tryo,2000,208826,0,0.583,0.675,0.428,0.0,0.101,-11.465,0.273,171.404,0.743,4,7,1,spotify:track:77vRgBfcxRYQz6f6mMWXEX,2000,2016,gamma
+Paradise,Paradise,Dub Inc,2013-10-14,229026,31,0.287,0.466,0.711,0.0,0.341,-6.421,0.341,190.084,0.391,4,2,1,spotify:track:5aNsrHjembWlygmvnfjrJk,2013,2016,gamma
+Magnets,Caracal (Deluxe),Disclosure,2015-09-25,199245,0,0.0606,0.703,0.638,2.21e-06,0.1,-7.879,0.159,92.041,0.688,4,10,0,spotify:track:43Ei9NSyEjgFYXoKLISyz4,2015,2016,gamma
+Dancehall scientist,Mr Bossman,Pupajim,2011-03-04,241777,0,0.00967,0.871,0.334,1.45e-06,0.0744,-12.151,0.0831,82.493,0.538,4,1,1,spotify:track:4t6LsfGx8Mmm53NEobLiKi,2011,2016,gamma
+The bar,Midnight walkers,Stand High Patrol,2012-01-20,211320,0,0.35,0.853,0.547,6.95e-05,0.095,-7.876,0.0932,170.009,0.945,4,7,0,spotify:track:3Y406yVpw6tMY1phw8SURp,2012,2016,gamma
+Younger,Pretend,Seinabo Sey,2015-10-23,213968,0,0.0209,0.575,0.678,0.0,0.111,-6.652,0.0398,113.749,0.128,4,5,1,spotify:track:0zhNoNKhia3RRFzrmHlml6,2015,2016,gamma
+Latch,Settle (Special Edition),Disclosure,2013-06-03,255631,77,0.0159,0.503,0.727,9.45e-05,0.0895,-5.456,0.167,121.985,0.521,4,1,1,spotify:track:51ODNNDZm21HU7wI7cccRr,2013,2016,gamma
+Frontline,Deep Rockers (Back a Yard),Naâman,2013-06-03,214018,0,0.0623,0.792,0.52,0.0,0.0886,-8.508,0.266,90.524,0.598,4,11,0,spotify:track:1y34D5xojSV8cH4zkLxYSm,2013,2016,gamma
+Wait,"Hurry up, We're Dreaming with Exclusive Commentary by Anthony Gonzalez",M83,2012-01-30,343253,0,0.191,0.433,0.234,0.117,0.0856,-10.549,0.0317,147.937,0.0803,4,2,1,spotify:track:1XCd8heJTN3kcyqt8OAr2A,2012,2016,gamma
+Younger - Kygo Remix,Pretend,Seinabo Sey,2015-10-23,351578,0,0.15,0.687,0.471,0.000253,0.0809,-8.091,0.0962,113.999,0.616,4,5,1,spotify:track:0IDcqQM84frBhAJ8vXC76I,2015,2016,gamma
+Is It Because I'm Black ?,Racines,Tiken Jah Fakoly,2015-09-25,214293,0,0.367,0.72,0.57,1.38e-05,0.125,-6.103,0.055,147.947,0.397,4,1,0,spotify:track:6euKXayDIRmvTNsT7hNZSn,2015,2016,gamma
+Tum Rakak,Stachelight,Deluxe,2016-01-22,276201,59,0.29,0.832,0.53,0.0,0.119,-4.92,0.0537,122.053,0.712,4,10,0,spotify:track:2C2SY9l26IT3guKqQoMMSr,2016,2016,gamma
+I'm Yours,I'm Yours,Jason Mraz,2008-02-12,243494,61,0.565,0.693,0.43,0.0,0.0928,-9.395,0.0442,151.001,0.731,4,11,1,spotify:track:03yc0G2OoH1Eeyu7Piy8fK,2008,2016,gamma
+Wildcat,Classics,Ratatat,2006-08-22,260173,0,0.0479,0.703,0.718,0.432,0.0415,-7.522,0.0669,115.993,0.785,4,1,1,spotify:track:4EBisBBehGON4ESJsNZBsP,2006,2016,gamma
+Dad (Fakear Remix),Dad (Fakear Remix) - Single,Thylacine,2015-10-31,190078,16,0.019,0.397,0.852,0.00596,0.222,-6.54,0.0878,157.927,0.0653,4,0,1,spotify:track:0Jb1k1dWshcTkIL6MEpdl2,2015,2016,gamma
+Ding (feat. Saian Supa Crew),Next!,Seeed,2005-10-14,192799,24,0.0779,0.818,0.924,0.0,0.335,-3.626,0.0546,117.06,0.89,4,2,1,spotify:track:69y6Dtayz5I1RyRZ6ruKLz,2005,2016,gamma
+Si c'était le dernier,S.O.S.,Diam's,2009-11-13,651160,46,0.587,0.607,0.83,0.0,0.11,-2.808,0.367,81.543,0.553,4,8,0,spotify:track:5wYIOyOaWKLkx3Pde6qstp,2009,2016,gamma
+She Wanti,Know Yourself,Naâman,2015-01-26,204173,0,0.183,0.793,0.675,0.0,0.0814,-5.894,0.0885,80.0,0.914,4,0,1,spotify:track:1o0zm9PpoMGcrfS4P3DfVs,2015,2016,gamma
+À l’heure où je me couche,Comment c'est loin,Casseurs Flowters,2015-12-09,220186,59,0.327,0.646,0.619,0.0,0.108,-5.65,0.342,180.326,0.478,4,6,0,spotify:track:5C3TCUckVV2p90RV1jF8Ok,2015,2016,gamma
+Business Of War,Tv Addict / Business Of War,Pupajim,2009-07-03,248120,0,0.0185,0.948,0.243,2.02e-06,0.0728,-15.915,0.103,136.975,0.419,4,10,0,spotify:track:78Ax0J9r8wFsPFmdp00wWf,2009,2016,gamma
+Riptide,Dream Your Life Away (Special Edition),Vance Joy,2014-09-09,204280,83,0.431,0.484,0.731,0.0,0.151,-6.694,0.0379,101.654,0.51,4,1,1,spotify:track:3JvrhDOgAt6p7K8mDyZwRd,2014,2016,gamma
+Moment idéal,Moment idéal,Yaniss Odua,2013-05-27,267960,0,0.274,0.658,0.824,0.0,0.111,-4.746,0.304,77.781,0.692,4,8,0,spotify:track:3un8B0naGIeLRaw2nnxj18,2013,2016,gamma
+"Welcome Home, Son",Ghost,Radical Face,2007-03-02,285320,0,0.743,0.601,0.537,0.732,0.143,-9.464,0.0296,144.994,0.394,3,6,1,spotify:track:13PUJCvdTSCT1dn70tlGdm,2007,2016,gamma
+It's Just (House of Dupree),Music for the Uninvited,Leon Vynehall,2014-03-24,525466,0,0.0212,0.77,0.711,0.0052,0.133,-9.19,0.308,121.444,0.394,4,1,1,spotify:track:6L6BWLhdE9DgpAltnwMqTt,2014,2016,gamma
+Venus,Asakusa,Fakear,2015-05-18,207607,24,0.00406,0.616,0.513,0.855,0.144,-8.65,0.0334,80.024,0.183,4,7,1,spotify:track:1Yq3OS2cCfbA8koH9EN4Rb,2015,2016,gamma
+No Matter How Long it Takes,A Matter of Scale,Stand High Patrol,2015-01-19,206704,0,0.0134,0.924,0.382,2.34e-06,0.071,-10.14,0.343,142.997,0.64,4,10,0,spotify:track:2qvyN4TAMNb5DSQdh1BAmF,2015,2016,gamma
+The Words,The Words (Bonus Version),Flox,2009,281973,46,0.0645,0.939,0.66,1.88e-06,0.107,-7.625,0.206,129.989,0.719,4,6,0,spotify:track:0NcnyoQ7MboDoRlIiPGqwU,2009,2016,gamma
+Renegades,VHS,X Ambassadors,2015-06-30,195199,0,0.0127,0.514,0.858,0.0528,0.251,-5.995,0.0896,89.833,0.6,4,2,1,spotify:track:46GGxd8TVRt6FjUBfCavVT,2015,2016,gamma
+Two Arms Around You,Sauvage,Fakear,2014-01-01,225878,29,0.241,0.612,0.513,0.394,0.509,-6.954,0.0321,77.501,0.211,4,2,0,spotify:track:1SXz0tpLEnyxzqkog9zNQ6,2014,2016,gamma
+Amour,Comme Un Enfant,Spleen,2008-01-01,216906,4,0.242,0.74,0.409,6.21e-05,0.0767,-8.928,0.0578,83.99,0.727,4,11,0,spotify:track:0CDk5cAe0pDDVoYMAmJNu9,2008,2016,gamma
+Emmène-moi,Bruxelles,Boulevard des Airs,2015-06-01,198866,0,0.632,0.85,0.579,4.48e-06,0.351,-7.957,0.0502,110.044,0.614,4,2,0,spotify:track:5pOUyuzdyAwv0k9oiNOnS9,2015,2016,gamma
+When the Night Comes,Morning in Japan,Fakear,2013-06-03,237716,40,0.0129,0.688,0.767,0.00462,0.322,-4.457,0.0334,105.974,0.42,4,0,1,spotify:track:58nUOJJpnhO4xXVaFN1eao,2013,2016,gamma
+Talk To Me - Live,EP Live Pilot,Yodelice,2011-01-01,264266,48,0.969,0.336,0.214,0.0019,0.354,-14.074,0.0332,82.389,0.075,4,4,0,spotify:track:3IwXH9bgTW4chvvoHit66h,2011,2016,gamma
+At All,At All / Hilarity Duff EP,KAYTRANADA,2015-04-20,287248,21,0.0399,0.898,0.471,0.698,0.0694,-10.13,0.519,120.099,0.41,4,2,1,spotify:track:35iNiYHSzx3sv6XuqYh8HJ,2015,2016,gamma
+The Sun,The Demon Diaries,Parov Stelar,2015-05-01,174777,37,0.267,0.678,0.699,0.064,0.134,-6.872,0.0531,116.895,0.536,4,11,0,spotify:track:6dgF5wpOqx3JWKnYEIxQTE,2015,2016,gamma
+Hold the People,Know Yourself,Naâman,2015-01-26,208248,0,0.188,0.813,0.634,0.0,0.0486,-6.338,0.225,94.487,0.716,4,9,1,spotify:track:75P8QVnpN9LnyuuF5asfXv,2015,2016,gamma
+Conjure Dreams,Conjure Infinity,Maceo Plex,2014-12-29,441090,7,0.000189,0.687,0.744,0.875,0.0924,-8.085,0.0545,124.012,0.526,4,2,1,spotify:track:6TcpM1p0xHy1smBjxEF73s,2014,2016,gamma
+Disparate Youth,Master of My Make-Believe,Santigold,2012-04-16,284400,63,0.0131,0.642,0.931,0.825,0.215,-4.142,0.0417,152.005,0.548,4,1,1,spotify:track:7d23MhPFE9eB3U8DPRirnL,2012,2016,gamma
+Bye Bye Macadam,Tohu Bohu,Rone,2012-10-15,265250,45,0.107,0.593,0.509,0.893,0.277,-12.042,0.0626,190.028,0.0769,4,4,0,spotify:track:609ztq0z70ty0fFR3KUuJl,2012,2016,gamma
+Relator,Break Up,Pete Yorn,2009-05-25,153813,51,0.138,0.644,0.816,0.0,0.17,-6.078,0.297,93.837,0.801,4,11,1,spotify:track:1Z39z6MnZqemvR9wnFgvix,2009,2016,gamma
+Cheese Naan,"La Boulangerie, Vol. 3 (La Fine Équipe & Friends)",La Fine Equipe,2014-12-01,216403,33,0.000945,0.701,0.673,0.665,0.611,-5.71,0.0585,105.97,0.275,4,0,1,spotify:track:1fVMnsLm4VXxMGytsueYuL,2014,2016,gamma
+Shoes,Stachelight,Deluxe,2016-01-22,247954,44,0.0326,0.784,0.775,4.98e-05,0.36,-4.783,0.0374,124.984,0.961,4,0,1,spotify:track:40xHBjwTc6nuHgjnLnZC3m,2016,2016,gamma
+Boa Noite,Boa Noite (Remixes),Tropkillaz,2014-11-21,168007,0,0.00564,0.606,0.862,0.821,0.171,-3.718,0.0609,80.004,0.253,4,2,0,spotify:track:4hpepllaMMsNk5bQsAwOS4,2014,2016,gamma
+Karma,Rays of Resistance,Naâman,2015-10-30,228373,0,0.648,0.85,0.595,0.0,0.093,-5.788,0.0708,87.994,0.736,4,10,1,spotify:track:7pLE8tFXM0Ic7x9rL7MmYG,2015,2016,gamma
+Mama Says,Ibeyi,Ibeyi,2015-02-16,249399,0,0.597,0.861,0.215,0.00105,0.137,-14.439,0.115,119.932,0.144,4,0,0,spotify:track:7DTyq8GK9kTCV3N65gkMPG,2015,2016,gamma
+Sugar - Acoustic,Francesco Yates,Francesco Yates,2015-10-09,209449,52,0.896,0.776,0.118,0.0,0.108,-14.651,0.0569,119.946,0.418,4,5,0,spotify:track:34hxvwFw9OmXVg3DO27V80,2015,2016,gamma
+Ladilafé,Ladilafé,Tryo,2012,250613,0,0.312,0.693,0.817,0.000129,0.0962,-5.189,0.0516,104.002,0.601,4,9,1,spotify:track:46EDbIPfOBJ9TSu8wTfVhp,2012,2016,gamma
+Chaque nouvelle page,Paradise,Dub Inc,2013-10-14,279773,42,0.35,0.783,0.77,0.0,0.142,-5.315,0.0966,89.994,0.931,4,7,0,spotify:track:0R0eAuVlqqcOcGsehhRKVN,2013,2016,gamma
+Pay No Mind (feat. Passion Pit),Adventure (Deluxe),Madeon,2015-03-30,249440,50,0.00592,0.546,0.852,0.0,0.159,-2.445,0.102,112.183,0.558,4,1,1,spotify:track:3rsq3qtqNBId48c0IVraTS,2015,2016,gamma
+Brother,Into the Flame,Matt Corby,2012-11-16,253521,58,0.215,0.59,0.754,2.05e-05,0.109,-4.705,0.0402,99.937,0.371,4,2,1,spotify:track:5DG2SWW7kPgYqOY0Ex5Ssj,2012,2016,gamma
+Unemployed,Unemployed,Stand High Patrol,2013-04-26,252443,0,0.00566,0.881,0.418,0.0308,0.0596,-8.665,0.0467,140.031,0.93,4,11,0,spotify:track:2qJi9xPeBrj0rpLFqc5Z01,2013,2016,gamma
+Porto - Mix,Club St Tropez 2014,Various Artists,2014-06-30,330400,22,0.0015,0.68,0.707,0.837,0.105,-6.51,0.0472,127.999,0.196,4,8,1,spotify:track:2a23NJzyZneFwKmu9IDS84,2014,2016,gamma
+Morning in Japan,Morning in Japan,Fakear,2013-06-03,185500,36,0.554,0.541,0.787,0.0,0.238,-6.018,0.439,199.987,0.243,4,4,0,spotify:track:6OIEOuWWAbUiHEJKNh52bo,2013,2016,gamma
+Dickes B (feat. Black Kappa),Next!,Seeed,2005-10-14,284906,36,0.133,0.643,0.794,0.0,0.709,-5.958,0.417,97.753,0.513,4,7,1,spotify:track:3YMZI5CAscPu0soWvcr6wp,2005,2016,gamma
+Asakusa,Asakusa,Fakear,2015-05-18,256390,17,0.0195,0.678,0.785,0.652,0.134,-9.083,0.0481,105.04,0.12,3,2,0,spotify:track:4c5J9eey7Eilhk4Lmv1pXj,2015,2016,gamma
+Words From The Gang (2014 Remix) - Radio Version,Words From The Gang (2014 Remix),Coone,2015-01-28,271301,32,0.0163,0.477,0.915,7.32e-05,0.111,-4.255,0.0697,150.086,0.317,4,7,0,spotify:track:6MDYb4M3yvoOYZrVW2bBld,2015,2016,gamma
+Ruckus,A Matter of Scale,Stand High Patrol,2015-01-19,177655,0,0.611,0.632,0.313,0.0,0.108,-9.171,0.118,102.16,0.42,5,3,0,spotify:track:0VRSfUpVgxUXyormJHqKXn,2015,2016,gamma
+See You Again (feat. Charlie Puth),Nine Track Mind,Charlie Puth,2016-01-29,229525,61,0.369,0.689,0.481,1.03e-06,0.0649,-7.503,0.0815,80.025,0.283,4,10,1,spotify:track:66CFbqJScx6zRieGllITcs,2016,2016,gamma
+De La Luz,De La Luz,Fakear,2015-10-30,246470,0,0.111,0.854,0.607,0.774,0.0771,-8.259,0.127,122.029,0.481,4,11,0,spotify:track:2UCDSxPQjgQrdQT9vA7lZl,2015,2016,gamma
+Make Believe,The Burned [Digital Release],The Burned,2010-01-26,213506,38,0.793,0.448,0.153,0.00443,0.111,-16.338,0.0316,86.828,0.244,4,8,1,spotify:track:52kHg5NLI41ysdcgPErj3x,2010,2016,gamma
+Turn Me Loose,Rays of Resistance,Naâman,2015-10-30,202093,0,0.447,0.832,0.609,0.0,0.275,-5.164,0.1,92.002,0.709,4,0,1,spotify:track:0T2s5kMfFe8k0QFyjP8PZr,2015,2016,gamma
+Black Butterfly,Free as a Bird,Soom T,2015-11-13,209548,22,0.435,0.681,0.714,7.59e-05,0.0903,-5.648,0.0543,93.95,0.443,4,5,1,spotify:track:6XThCc5a7TCLTKJcGsi5iS,2015,2016,gamma
+You're On (feat. Kyan),Adventure (Deluxe),Madeon,2015-03-30,192720,54,0.0227,0.49,0.914,0.0,0.793,-3.202,0.167,100.1,0.241,4,10,1,spotify:track:4PTPZeJlK1rYlYr6bf11hk,2015,2016,gamma
+Animal,Animal,Fakear,2015-10-09,216660,0,0.00758,0.713,0.628,0.398,0.0866,-8.063,0.0286,110.042,0.199,4,9,0,spotify:track:3MBuOgAXiHYVQGP5mq7cpB,2015,2016,gamma
+England Skies - Acoustic Session,We Are Now - EP,Shake Shake Go,2015-10-30,201454,0,0.504,0.644,0.3,0.0,0.0782,-12.188,0.0305,82.539,0.474,4,7,0,spotify:track:1tOtY8Q1WzhK3IcvdTPR5D,2015,2016,gamma
+So So So,So So So - EP,Rone,2011-05-09,428173,31,0.248,0.553,0.684,0.803,0.103,-12.931,0.0387,130.013,0.475,4,10,0,spotify:track:2MRUwbVjnnzVtjfQbg5907,2011,2016,gamma
+Running - Disclosure Remix,Settle (Special Edition),Disclosure,2013-06-03,330684,33,0.0677,0.758,0.75,0.0185,0.968,-7.173,0.202,124.923,0.386,4,4,0,spotify:track:07fZ4Bnqxqg54qkoEW5T2V,2013,2016,gamma
+F.U.Y.A.,Tetra,C2C,2012-01-01,305333,0,0.0128,0.643,0.619,0.415,0.351,-9.514,0.0357,128.785,0.14,4,9,0,spotify:track:2YF8MMn6B9INt5JhOJCZ6P,2012,2016,gamma
+Contrastes et couleurs,Kingston Town,Broussaï,2012-10-08,263426,0,0.105,0.716,0.621,0.0,0.0856,-6.647,0.193,78.252,0.866,4,7,0,spotify:track:2b9wGrSPc2NXKQ3jaC6you,2012,2016,gamma
+Yakamonéyé - Live,Mamagubida,Tryo,1998,459160,0,0.784,0.676,0.797,0.0,0.954,-7.326,0.0782,93.085,0.961,4,5,1,spotify:track:5KhrPqfdVm1TTh5Qd8hjLt,1998,2016,gamma
+L'opportuniste,Né quelque part,Tryo,2014-09-01,220680,0,0.0867,0.802,0.648,0.0,0.0765,-6.121,0.104,87.978,0.534,4,11,0,spotify:track:3krkO1MqKfCt6T8RAw86Ds,2014,2016,gamma
+Jailer,Asa,Aṣa,2009-01-27,247733,0,0.471,0.883,0.413,0.0,0.111,-5.082,0.0483,101.987,0.904,4,0,1,spotify:track:6DJ0synpSH1GvNW4d7A51k,2009,2016,gamma
+Midnight walkers,Midnight walkers,Stand High Patrol,2012-01-20,138813,0,0.271,0.84,0.586,0.909,0.146,-8.467,0.0955,167.959,0.522,4,11,0,spotify:track:2yrhf6XfJurODnmaziNDHj,2012,2016,gamma
+Saint-Denis,Midi 20,Grand Corps Malade,2006-01-01,208133,0,0.184,0.618,0.563,0.0,0.0701,-13.189,0.952,169.746,0.521,5,2,1,spotify:track:7GG79O7232roePkTepg3eM,2006,2016,gamma
+Take a Walk,Free as a Bird,Soom T,2015-11-13,176495,16,0.106,0.75,0.796,0.00233,0.17,-5.117,0.0708,91.998,0.404,4,8,1,spotify:track:757A9EUN9ETE59dQbR6Nzg,2015,2016,gamma
+Sleep on It,A Matter of Scale,Stand High Patrol,2015-01-19,187849,0,0.833,0.834,0.123,0.00011,0.0997,-17.399,0.109,82.967,0.497,4,9,1,spotify:track:1hu0vbmU2xWrej3Vq9tXLj,2015,2016,gamma

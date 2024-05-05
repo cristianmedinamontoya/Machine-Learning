@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+La Grande classe,Le Code De L'horreur,Rohff,2008-12-12,275893,42,0.0759,0.706,0.961,0.0,0.334,-2.723,0.173,86.509,0.512,4,10,0,spotify:track:7apoo5ErcVtXaLdOkGdh1q,2008,2016,epsilon
+Jailhouse Rock,TPH Production Perform The Blues Brothers,The Blues Brothers,2005-08-08,206393,0,0.227,0.594,0.759,0.00057,0.293,-9.884,0.0514,89.995,0.944,4,9,0,spotify:track:1fnGQ8O5hrmg14QGnPzLR2,2005,2016,epsilon
+Swisha,Classics,Ratatat,2006-08-22,229773,0,0.158,0.442,0.533,0.899,0.225,-8.453,0.0352,95.053,0.116,4,11,0,spotify:track:6tB7yLLaEdIQfAk3uY0CS3,2006,2016,epsilon
+Halo,Transmissions,STARSET,2014-11-24,225798,0,0.000104,0.377,0.963,0.0,0.376,-3.369,0.0785,151.925,0.325,4,1,0,spotify:track:3e7K6HoIuBFLOlpYbdHj46,2014,2016,epsilon
+Together - Radio Edit,Desserts,CAZZETTE,2015-08-14,188170,0,0.0481,0.675,0.811,6.28e-05,0.166,-5.755,0.0595,124.959,0.211,4,5,0,spotify:track:6dpI0HKnzfBN07gFdD5wWf,2015,2016,epsilon
+Together - Lost Kings Remix,Together (Remixes),CAZZETTE,2015-07-17,187269,0,0.0269,0.585,0.903,0.000885,0.104,-3.776,0.0317,125.055,0.302,4,7,0,spotify:track:4jyhGPelgufi6wzbdOg1X2,2015,2016,epsilon
+Don't Be so Shy (Filatov & Karas Remix),Don't Be so Shy (Filatov & Karas Remix) - Single,Imany,2016-01-20,190000,0,0.034,0.737,0.954,0.0103,0.412,-2.936,0.05,119.979,0.904,4,8,0,spotify:track:1ZdWNpOXCJT1nmt40UuxWS,2016,2016,epsilon
+Dans ma werss,La cuenta [Edition Deluxe],Rohff,2010-12-10,228786,20,0.0522,0.402,0.925,8.35e-06,0.378,-4.407,0.833,73.428,0.355,4,1,0,spotify:track:0lKnRPfVfd96X6QIHFvXKN,2010,2016,epsilon
+Blast Off,Release,Random Rab,2013-10-09,385693,32,0.378,0.777,0.353,0.907,0.0757,-11.048,0.158,90.008,0.665,4,0,1,spotify:track:2ytaqTjaDdJljeFgU2YEsm,2013,2016,epsilon
+Work from Home,Work from Home,Fifth Harmony,2016-02-27,216575,0,0.102,0.803,0.631,7.39e-06,0.0858,-4.213,0.0444,104.999,0.659,4,8,1,spotify:track:0SJPThTy7ynySPF4euczx7,2016,2016,epsilon
+Everybody Needs Somebody To Love,TPH Production Perform The Blues Brothers,The Blues Brothers,2005-08-08,150125,0,0.18,0.525,0.686,2.66e-06,0.274,-8.879,0.0325,193.667,0.91,4,5,1,spotify:track:5olYKlNYCELRBQzxQ6Tr1V,2005,2016,epsilon
+Rap Game,Le Code De L'horreur,Rohff,2008-12-12,266760,40,0.163,0.851,0.808,0.0,0.126,-3.684,0.327,83.994,0.489,4,8,1,spotify:track:0Q2V3BgdeM9UdrUjb1PavJ,2008,2016,epsilon
+L'Oseille,"P.D.R.G. (Pouvoir, Danger, Respect & Game)",Rohff,2013-09-23,253106,22,0.0272,0.772,0.914,0.0,0.0648,-4.476,0.155,93.966,0.366,4,5,1,spotify:track:05UqHnaS90VTTki44qdkri,2013,2016,epsilon
+Can't Stop,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,269000,85,0.0179,0.618,0.938,0.0,0.167,-3.442,0.0456,91.455,0.875,4,9,1,spotify:track:3ZOEytgrvLwQaqXreDs2Jx,2002,2016,epsilon
+OMG,OMG,Different Heaven,2015-10-03,219384,0,8.66e-05,0.718,0.817,0.88,0.0515,-4.98,0.0552,128.024,0.462,4,11,0,spotify:track:3gIIAfRzIa3qNb213MsfhV,2015,2016,epsilon
+Half Mast,Walking On A Dream (Special Edition),Empire of the Sun,2009-01-01,234360,45,0.00423,0.771,0.738,0.00419,0.501,-4.88,0.0303,126.983,0.761,4,0,1,spotify:track:0GgAAB0ZMllFhbNc3mAodO,2009,2016,epsilon
+The Thrill Is Gone,Deuces Wild,B.B. King,1997-01-01,301133,0,0.0934,0.692,0.493,0.00166,0.128,-9.662,0.0325,86.644,0.28,4,9,0,spotify:track:1xW9HHRQe8MMGF8SBNgkBY,1997,2016,epsilon
+Hello,Hello,OMFG,2014-12-03,226307,63,0.0339,0.844,0.864,0.216,0.386,-4.483,0.0348,104.997,0.796,4,7,0,spotify:track:6BAnxKyld909yo6Pk1DO3r,2014,2016,epsilon
+Blast Off,Furious 7: Original Motion Picture Soundtrack,Various Artists,2015-03-17,188840,44,0.00222,0.659,0.983,2.11e-06,0.162,-4.065,0.151,127.949,0.118,4,4,1,spotify:track:2JloUbn5LzODW1jSxaLTRP,2015,2016,epsilon
+Oh lala,Le monde Chico,PNL,2015-10-30,247288,0,0.44,0.662,0.603,0.0,0.0972,-8.317,0.0793,125.011,0.352,4,9,0,spotify:track:2voKaOtNs1DpCU31397yEl,2015,2016,epsilon
+Sweet Lovin' - Radio Edit,Sweet Lovin' (Radio Edit),Sigala,2016-01-29,203386,28,0.0573,0.685,0.909,3.88e-06,0.33,-1.214,0.0584,124.963,0.675,4,10,1,spotify:track:0o8nQDcnBdJP6Eh5T1zGGu,2016,2016,epsilon
+4 étoiles (feat. Rohff) - version album,Des jours meilleurs,Sultan,2012-11-05,271200,39,0.169,0.684,0.881,0.0,0.263,-4.211,0.398,88.04,0.572,4,9,0,spotify:track:28erPiOW4mIujGjtrg3n0n,2012,2016,epsilon
+Relax,"Piano Music for Studying, Focus, Memory, Work, Brain Power and Concentration for Exams",Various Artists,2016-05-12,82640,2,0.935,0.503,0.108,0.946,0.112,-17.101,0.0331,74.994,0.0394,4,0,0,spotify:track:2svslhUzhsFosG6Hp01qqc,2016,2016,epsilon
+Don't Worry (with Ray Dalton) - Radio Edit,Don't Worry (feat. Ray Dalton),Madcon,2015-04-10,214789,74,0.0726,0.811,0.699,1.38e-06,0.148,-5.211,0.114,122.987,0.733,4,7,1,spotify:track:63CSozvYUEudPp12679UVF,2015,2016,epsilon
+J'accélère,"P.D.R.G. (Pouvoir, Danger, Respect & Game)",Rohff,2013-09-23,275933,34,0.0242,0.467,0.9,0.0,0.365,-4.553,0.344,92.183,0.422,4,9,1,spotify:track:6VU2I6gV1bLcl84wL3HGQM,2013,2016,epsilon
+Fais-moi la passe (feat. Karim Benzema),La cuenta [Edition Deluxe],Rohff,2010-12-10,250386,17,0.0645,0.865,0.871,0.0,0.621,-3.852,0.3,113.993,0.517,4,7,1,spotify:track:3Wh1htcVH9447BUXGkiK7J,2010,2016,epsilon
+Sleepless - Club Edit,Sleepless,CAZZETTE,2014-05-12,283347,0,0.0471,0.746,0.552,0.00422,0.0856,-10.405,0.0519,124.028,0.274,4,6,0,spotify:track:4FRBAscoGnKAMa9Ttf9LCp,2014,2016,epsilon
+Light It Up (feat. Nyla & Fuse ODG) - Remix,Peace Is The Mission: Extended,Major Lazer,2015-11-27,166138,0,0.0375,0.746,0.877,0.000833,0.233,-3.782,0.0666,107.985,0.751,4,9,0,spotify:track:2CUc1fJWIIAoYNHCrhfvMs,2015,2016,epsilon
+Kennedy,Classics,Ratatat,2006-08-22,214680,0,0.101,0.727,0.752,0.832,0.0737,-4.633,0.0315,110.003,0.734,4,11,0,spotify:track:3Xw3yp1iuYl3n8oKmWk7YG,2006,2016,epsilon
+Loud Pipes & Lead Feet,Rock & Roll Is Everywhere,The Go Getters,1998,113226,16,0.131,0.696,0.911,0.00142,0.0846,-5.548,0.0456,100.001,0.951,4,8,1,spotify:track:3BG14mivtewGTIhU99Tuus,1998,2016,epsilon
+Fast Car,Fast Car,Jonas Blue,2015-12-04,212424,1,0.453,0.459,0.587,0.0,0.307,-6.983,0.0785,113.901,0.581,4,9,1,spotify:track:6OZh916QF8XNunWaP97WEZ,2015,2016,epsilon
+Walking On A Dream,Walking On A Dream (Special Edition),Empire of the Sun,2009-01-01,198440,58,0.245,0.87,0.699,6.76e-06,0.0588,-5.541,0.0459,126.967,0.726,4,5,0,spotify:track:6A6qBFJHid4WutQu6HHEZt,2009,2016,epsilon
+My House,My House,Flo Rida,2015-04-07,192190,78,0.0215,0.688,0.702,0.0,0.128,-4.792,0.0499,94.006,0.74,4,7,0,spotify:track:6Knv6wdA0luoMUuuoYi2i1,2015,2016,epsilon
+Celebration,The Very Best Of Kool & The Gang,Kool & The Gang,1999-01-01,221093,0,0.0993,0.829,0.839,0.0201,0.0491,-5.251,0.0443,121.589,0.96,4,1,1,spotify:track:5ZAO9yN4UKaE8kIvgb5cdf,1999,2016,epsilon
+Sweet Dreams,Workout Hits 2016. 40 Essential Hits For The Practice Of Your Favorite Sport,Various Artists,2016-03-04,238344,1,0.0121,0.68,0.95,0.000329,0.304,-1.479,0.0577,130.034,0.543,4,11,0,spotify:track:0kxYxGuFxqiXhyq7lmY9Em,2016,2016,epsilon
+Bad Karma,Bad Karma,Axel Thesleff,2016-04-02,416000,0,0.0131,0.7,0.546,0.0305,0.172,-7.705,0.109,80.004,0.302,4,5,0,spotify:track:4n4Z8qVlDkEnfX68PYJfJu,2016,2016,epsilon
+Quoi qu'il arrive,La Sul'tendance,Sultan,2009-11-23,273760,0,0.00429,0.313,0.852,0.0,0.0982,-4.782,0.133,79.242,0.331,4,10,0,spotify:track:66fjksttk0ghEjT9rOkKMq,2009,2016,epsilon
+Superstition - Single Version,Number Ones,Stevie Wonder,2007-01-01,244826,0,0.0172,0.642,0.735,0.000733,0.0391,-8.866,0.0806,99.682,0.864,4,8,1,spotify:track:300RfAPZ57B0y6YYj9n6DN,2007,2016,epsilon
+Keep My Cool,Keep My Cool,Madcon,2015-10-09,187212,38,0.00112,0.814,0.759,0.00032,0.0242,-4.349,0.0739,121.049,0.82,4,10,0,spotify:track:52jgoqbfmNJmPngHkEIgZn,2015,2016,epsilon
+Résiste,Evidemment,France Gall,2005-02-01,272546,53,0.334,0.722,0.668,0.000207,0.0679,-6.74,0.0309,117.159,0.874,4,7,0,spotify:track:2IAq7NOjlLVe6bnu0YwdOV,2005,2016,epsilon
+Soul Man - Live,Briefcase Full of Blues,The Blues Brothers,1978-11-01,180973,54,0.0157,0.629,0.857,0.00396,0.755,-7.059,0.0705,116.254,0.528,4,9,1,spotify:track:5z2F9FkKdhd9HOSTI1GxRq,1978,2016,epsilon
+My Demons,Transmissions,STARSET,2014-11-24,288036,0,0.00768,0.274,0.652,6.42e-05,0.108,-6.196,0.0625,173.009,0.1,4,5,0,spotify:track:4A736Zxq67bPtAjT6UgyEt,2014,2016,epsilon
+Shake Your Tail Feather,TPH Production Perform The Blues Brothers,The Blues Brothers,2005-08-08,172486,0,0.177,0.681,0.529,3.76e-05,0.0698,-14.393,0.0297,155.087,0.885,4,2,1,spotify:track:5qClIEkCRckAwxG1leVOMo,2005,2016,epsilon
+We Are The People,Walking On A Dream (Special Edition),Empire of the Sun,2009-01-01,267354,64,0.0981,0.666,0.785,0.0198,0.434,-5.37,0.0308,122.973,0.549,4,4,0,spotify:track:57RHMnLMQx8Qz5V6c0E8dF,2009,2016,epsilon
+Mercy,Automatic,Kaskade,2015-09-25,242520,32,0.214,0.425,0.851,4.09e-06,0.115,-3.488,0.0444,125.986,0.167,4,5,1,spotify:track:3m9uIsMafz5FEEpVF8vVgv,2015,2016,epsilon
+Holiday,Celebration (double disc version),Madonna,2009-09-18,368280,60,0.0542,0.854,0.796,0.00184,0.151,-5.567,0.0399,115.625,0.946,4,11,0,spotify:track:4k6ktr10Hczmh55NY3LfJy,2009,2016,epsilon
+Blind Heart - Radio Edit,Blind Heart (Radio Edit),CAZZETTE,2014-10-21,197953,0,0.0844,0.722,0.827,9.14e-05,0.0654,-6.501,0.0659,121.896,0.346,4,1,0,spotify:track:3Wb4T8OJg4obJNBMUYgfPm,2014,2016,epsilon
+Victory,Victory,Pagadixx,2015,195000,25,0.0581,0.69,0.837,0.000334,0.0785,-4.184,0.119,127.963,0.617,4,0,0,spotify:track:7FAKRRC87BQe3GjesdCRf9,2015,2016,epsilon
+Loud Pipes,Classics,Ratatat,2006-08-22,226533,0,0.109,0.718,0.703,0.822,0.208,-7.162,0.0382,87.975,0.858,4,7,0,spotify:track:5ZrrXIYTvjXPKVQMjqaumR,2006,2016,epsilon
+Stand by Me,Don't Play That Song (Mono),Ben E. King,1962-08-20,180055,81,0.57,0.65,0.306,7.07e-06,0.0707,-9.443,0.0393,118.068,0.605,4,9,1,spotify:track:3SdTKo2uVsxFblQjpScoHy,1962,2016,epsilon
+Rebenga,Le monde Chico,PNL,2015-10-30,259672,0,0.809,0.727,0.643,0.0,0.0804,-6.453,0.132,106.613,0.229,4,9,0,spotify:track:4c9cRt2o1YvzRnPjv7XL8e,2015,2016,epsilon
+Maestro,Maestro,Lartiste,2016-03-04,215504,0,0.06,0.808,0.86,1.39e-05,0.243,-3.928,0.061,127.993,0.604,4,7,1,spotify:track:3B37NgsOWodgAs4zu2Cdzo,2016,2016,epsilon
+California Love,Hip-Hop - West Coast All Stars,Various Artists,2011-08-30,348000,44,0.0275,0.658,0.87,0.0,0.656,-3.019,0.0955,91.647,0.791,4,5,1,spotify:track:0LyLz6XsVs6wz85dK0S6EG,2011,2016,epsilon
+La Puissance,Au-Delà De Mes Limites,Rohff,2005-12-16,255266,52,0.0248,0.74,0.884,0.0,0.0788,-2.224,0.192,94.874,0.404,4,4,0,spotify:track:1cWxCvep4soXYHkXDmJpSg,2005,2016,epsilon
+Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,1991-09-24,264306,87,0.0576,0.559,0.345,0.000105,0.141,-13.496,0.0459,84.581,0.458,4,4,1,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,1991,2016,epsilon
+Paris,Le Code De L'horreur,Rohff,2008-12-12,266933,36,0.0188,0.392,0.908,0.0,0.309,-2.559,0.326,79.604,0.656,4,6,0,spotify:track:2IQjGK7qDz0z3nY3PVUxHt,2008,2016,epsilon
+Ice Cream,Ice Cream,OMFG,2015-09-09,285913,43,0.0766,0.762,0.972,0.86,0.198,-2.297,0.036,115.03,0.742,4,11,1,spotify:track:5Q95Dej1EbsgeFHEGD8kKP,2015,2016,epsilon
+Family Affair - Single Version,There's A Riot Goin' On (Expanded Edition),Sly & The Family Stone,1971-11-20,185533,49,0.669,0.819,0.605,0.0163,0.199,-13.83,0.132,108.892,0.797,4,2,0,spotify:track:2GVEs1sn5Q1jB1976vQoAX,1971,2016,epsilon
+Get Down On It,Something Special,Kool & The Gang,1981,293666,0,0.0811,0.848,0.39,4.75e-06,0.0498,-15.426,0.0549,111.53,0.968,4,9,0,spotify:track:7bvmwKRBXS8oxoFKsCsjYn,1981,2016,epsilon
+Tubthumping - I get knocked Down,Football Hits - Fußball Lieder (Hits for Football Fans),Partysingers,2012-02-27,240213,31,0.152,0.63,0.901,0.0,0.972,-7.358,0.0494,103.856,0.838,4,2,1,spotify:track:2cY3YDf9AQl2DuocD0JYf0,2012,2016,epsilon
+Crazy (feat. Joie Tan) - Radio Mix,Crazy (feat. Joie Tan),TEEMID,2014-11-14,217000,0,0.575,0.666,0.692,0.731,0.391,-9.432,0.366,110.199,0.452,4,7,1,spotify:track:38nm9c5ATEoZLqbjn72Rew,2014,2016,epsilon
+In Too Deep,"All Killer, No Filler",Sum 41,2001-01-01,207093,0,0.000192,0.566,0.835,0.0,0.0581,-5.885,0.0504,116.041,0.749,4,9,1,spotify:track:68pN2UQYhwQgPy7VrCFKuV,2001,2016,epsilon
+Lago Di Garda,"Piano Music for Studying, Focus, Memory, Work, Brain Power and Concentration for Exams",Various Artists,2016-05-12,177763,2,0.99,0.462,0.0526,0.881,0.103,-21.388,0.0404,170.806,0.153,3,5,1,spotify:track:4yYpLwxA4TKZ1jWTi78JAH,2016,2016,epsilon
+Fresh,The Very Best Of Kool & The Gang,Kool & The Gang,1999-01-01,228626,0,0.013,0.846,0.49,0.051,0.031,-11.384,0.0333,117.733,0.926,4,11,0,spotify:track:0M7mg2qFQ1jCAaB8Bzd6LF,1999,2016,epsilon
+Garder la foi,Des jours meilleurs,Sultan,2012-11-05,301946,13,0.264,0.726,0.889,1.31e-06,0.0625,-4.479,0.0534,122.006,0.517,4,10,1,spotify:track:0DDCqyXSiAzYfprxo3c8la,2012,2016,epsilon
+Le son qui tue (avec Natty),la fierte des notres,Rohff,2004-06-18,224200,57,0.238,0.659,0.834,0.0,0.0847,-4.428,0.17,91.517,0.757,4,1,0,spotify:track:3ee6eXqZqJo3DJEiBr1SHs,2004,2016,epsilon
+State of Bliss,Desserts,CAZZETTE,2015-08-14,188614,0,0.00382,0.713,0.817,0.000127,0.0665,-6.663,0.0639,126.071,0.464,4,7,0,spotify:track:4k0FzWDgoDdOrnKa1bTLXD,2015,2016,epsilon
+Jungle Boogie,Wild And Peaceful,Kool & The Gang,1973-09,186533,0,0.103,0.806,0.838,0.000171,0.315,-8.717,0.114,107.898,0.706,4,5,1,spotify:track:4qxCDr5DquZsfaK7lvnY9G,1973,2016,epsilon
+In My Head,Pharmacy,Galantis,2015-06-05,221065,48,0.00622,0.548,0.895,0.0184,0.108,-2.794,0.0392,127.829,0.616,4,0,1,spotify:track:1PBk2knn4anq0vaS5KGDG2,2015,2016,epsilon
+Get Down On It - Single Version,The Very Best Of Kool & The Gang,Kool & The Gang,1999-01-01,212906,0,0.205,0.879,0.626,6.07e-05,0.056,-6.344,0.0604,110.864,0.968,4,7,1,spotify:track:1OsCKwNZxph96EkNusILRy,1999,2016,epsilon
+Stand by Me,Soul,Seal,2008-10-31,242813,62,0.256,0.736,0.439,0.0,0.143,-6.436,0.0272,107.455,0.812,4,9,1,spotify:track:5pztwVl6brVgqYjYQ93us6,2008,2016,epsilon
+Go Hard or Go Home,Go Hard or Go Home,Wiz Khalifa,2015-02-17,232772,62,0.00293,0.651,0.741,1.2e-05,0.217,-5.067,0.0408,168.02,0.386,4,4,0,spotify:track:4IXiFMhtXEbSEG8UoAeTwD,2015,2016,epsilon
+Ok,Ok,OMFG,2015-05-13,204180,38,0.00325,0.662,0.939,0.919,0.104,-2.672,0.0428,108.992,0.567,4,11,1,spotify:track:2BrEHx5ITLJHYF7A68XAiE,2015,2016,epsilon
+Rien de spécial,Le Code De L'horreur [Exclu SFR],Rohff,2008-12-12,282773,16,0.164,0.6,0.951,0.0,0.136,-2.68,0.294,83.014,0.5,4,9,0,spotify:track:1QV7mIqKmeJBo9Nn89FFNH,2008,2016,epsilon
+Love Yourself,Purpose (Deluxe),Justin Bieber,2015-11-13,233720,30,0.835,0.609,0.378,0.0,0.28,-9.828,0.438,100.418,0.515,4,4,1,spotify:track:3hB5DgAiMAQ4DzYbsMq1IT,2015,2016,epsilon
+Good For You,Good For You,Selena Gomez,2015-08-07,221560,0,0.154,0.6,0.676,0.0,0.0741,-6.447,0.0652,88.928,0.217,4,5,0,spotify:track:6kBp8w67thoYqTUOQVSGFg,2015,2016,epsilon
+Californication,Californication (Deluxe Edition),Red Hot Chili Peppers,1999-06-08,329733,86,0.0021,0.592,0.767,0.00165,0.127,-2.788,0.027,96.483,0.328,4,9,0,spotify:track:48UPSzbZjgc449aqz8bxox,1999,2016,epsilon
+Sleepless - Radio Edit,Sleepless,CAZZETTE,2014-05-12,221421,0,0.141,0.722,0.635,0.000873,0.3,-9.6,0.0419,123.999,0.53,4,6,0,spotify:track:15uFqHGAOvaGCqikvgiW6w,2014,2016,epsilon
+Derezzed,TRON Legacy: Reconfigured,Daft Punk,2011-01-01,303946,0,0.138,0.7,0.728,0.877,0.264,-7.299,0.109,127.98,0.142,4,7,0,spotify:track:4bJhvPYFBlyoUOo8ts3b6B,2011,2016,epsilon
+Stronger,Graduation (French Limited Version),Kanye West,2007-09-11,311946,0,0.00529,0.631,0.72,0.0,0.372,-7.854,0.13,103.987,0.478,4,10,0,spotify:track:0zQS4nZPuKl1isqXVGhwUg,2007,2016,epsilon
+Runaway (U & I),Pharmacy,Galantis,2015-06-05,227073,77,0.00711,0.506,0.805,0.00193,0.0856,-4.119,0.0469,126.008,0.383,4,1,1,spotify:track:46lFttIf5hnUZMGvjK0Wxo,2015,2016,epsilon
+Yeah,Yeah,OMFG,2015-04-08,216778,45,0.00243,0.629,0.948,0.419,0.0509,-1.797,0.0343,110.005,0.581,4,11,0,spotify:track:30IGeXBoaRf63sfgdvzdJg,2015,2016,epsilon
+U Can't Touch This,U Can't Touch This: The Collection,MC Hammer,2003-01-01,257066,40,0.0042,0.871,0.696,0.00108,0.261,-7.153,0.0851,133.35,0.799,4,11,0,spotify:track:28bQQwthc9mWWRgDE5ND3v,2003,2016,epsilon
+Snow (Hey Oh),Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,334666,81,0.116,0.427,0.9,1.75e-05,0.119,-3.674,0.0499,104.655,0.599,4,11,1,spotify:track:2aibwv5hGXSgw7Yru8IYTO,2006,2016,epsilon
+Peanut Butter Jelly,Pharmacy,Galantis,2015-06-05,203133,65,0.00104,0.708,0.945,0.0803,0.227,-3.247,0.234,127.96,0.545,4,5,0,spotify:track:3aIhJDHxr1kgTSnutJxPTH,2015,2016,epsilon
+Celebration,Celebrate!,Kool & The Gang,1980-01-01,298866,0,0.139,0.902,0.655,0.0303,0.0672,-11.862,0.0576,121.647,0.911,4,1,1,spotify:track:5wiu4PUC6CLNNbC48vqGOb,1980,2016,epsilon
+Booty Bounce,Booty Bounce,Tujamo,2015-12-18,195000,0,0.0231,0.768,0.981,1.03e-05,0.0961,-1.914,0.0566,128.004,0.712,4,7,0,spotify:track:1mnnfXcxG6KXaGocXPdqqn,2015,2016,epsilon
+Blind Heart - Didrick Remix,Blind Heart (Remixes),CAZZETTE,2014-11-25,242812,0,0.0138,0.648,0.89,0.022,0.477,-4.338,0.203,127.935,0.953,4,6,1,spotify:track:6iOsXeWXGg9RORSMd7uLaq,2014,2016,epsilon
+Carnivore,Transmissions,STARSET,2014-11-24,262689,0,0.002,0.328,0.635,1.84e-05,0.108,-6.772,0.0786,74.965,0.0484,4,4,1,spotify:track:7LNktg4daUg7pq0IbSAqyo,2014,2016,epsilon
+I Took A Pill In Ibiza - Seeb Remix,I Took A Pill In Ibiza (Seeb Remix),Mike Posner,2015-07-24,199226,0,0.037,0.673,0.79,9.95e-06,0.0875,-4.663,0.0893,102.013,0.705,4,7,0,spotify:track:7vfWgVGiLgnGbInU5lvSQg,2015,2016,epsilon
+My Heart,My Heart,Different Heaven,2014-11-13,266900,1,0.000279,0.516,0.786,0.00369,0.305,-5.264,0.0412,174.035,0.164,4,10,1,spotify:track:08z6EsebfUH0Q6J0Wf3eWf,2014,2016,epsilon
+Qui n'a pas cru en moi,Des jours meilleurs,Sultan,2012-11-05,232413,12,0.296,0.77,0.867,0.0,0.0662,-3.372,0.336,80.859,0.563,4,11,0,spotify:track:5b6ZQEerihLi5OJlWl3zDT,2012,2016,epsilon
+Beam Me Up - Radio Edit,Eject,CAZZETTE,2014-01-01,203800,0,0.00887,0.57,0.866,5.48e-06,0.0932,-3.209,0.0443,125.993,0.312,4,0,1,spotify:track:2g09JJaUWkefKTDjqCqukJ,2014,2016,epsilon
+Le monde ou rien,Le monde Chico,PNL,2015-10-30,256280,0,0.772,0.648,0.465,1.98e-06,0.287,-9.716,0.171,103.025,0.407,4,6,0,spotify:track:55koB2NNUqsYFYelfwf4e8,2015,2016,epsilon
+By the Way,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,216933,79,0.0264,0.451,0.97,0.00355,0.102,-4.938,0.107,122.444,0.198,4,0,1,spotify:track:1f2V8U1BiWaC9aJWmpOARe,2002,2016,epsilon
+Genius,Desserts,CAZZETTE,2015-08-14,216152,0,0.0743,0.661,0.532,1.33e-05,0.067,-7.97,0.0529,125.108,0.391,4,6,0,spotify:track:2KIgg4eJJ1srCngQpvxowo,2015,2016,epsilon
+Medicine,Medicine,The 1975,2014-10-31,352865,48,0.525,0.19,0.271,0.336,0.141,-12.651,0.0362,67.493,0.0517,5,2,1,spotify:track:48xNw8YZxvrc3qB5IKaJ8w,2014,2016,epsilon
+Decisions - Radio Edit,Decisions (Remixes),Various Artists,2015-10-23,188314,0,0.229,0.671,0.78,0.137,0.0934,-6.549,0.0296,119.967,0.311,4,11,0,spotify:track:5u50uLZDHGVtmonSOBZN3W,2015,2016,epsilon
+No Mediocre (feat. Iggy Azalea),No Mediocre (feat. Iggy Azalea),T.I.,2014-06-16,201600,55,0.0826,0.78,0.45,0.0,0.0809,-9.539,0.0465,95.486,0.178,4,1,1,spotify:track:38aECKrbMv2F5FsYYCewCQ,2014,2016,epsilon
+Isn't She Lovely,Songs In The Key Of Life (Reissue),Stevie Wonder,1976-09-28,394266,0,0.182,0.481,0.826,0.00352,0.324,-6.974,0.0851,118.679,0.819,4,1,0,spotify:track:373zqV0VLz9mnrSaY9kaiX,1976,2016,epsilon

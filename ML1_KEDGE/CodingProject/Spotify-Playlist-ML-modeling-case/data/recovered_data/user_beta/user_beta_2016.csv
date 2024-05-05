@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user
+A Line In The Dirt,Royal Albert Hall,Eels,2015-04-14,214680,0,0.607,0.46,0.293,0.000286,0.646,-11.943,0.0341,130.423,0.263,4,10,1,spotify:track:6zMxWvkjbxzUnJNqimOe2d,2015,2016,beta
+"Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano) [Brahms Lullaby]",Songs from the Arc of Life,Yo-Yo Ma,2015-09-18,109800,62,0.989,0.184,0.00833,0.596,0.104,-33.503,0.0519,61.541,0.211,3,3,1,spotify:track:59cPOVxrn3Yjwydl1pullI,2015,2016,beta
+Dawn of Victory,Dawn of Victory,Rhapsody,2000,287026,0,0.00524,0.464,0.955,1.12e-05,0.161,-3.778,0.0387,95.003,0.451,4,0,0,spotify:track:5XBCripnPe50IfsuH66FKh,2000,2016,beta
+Clown,Our Version Of Events (Special Edition),Emeli Sandé,2012-01-01,221133,55,0.919,0.453,0.233,0.00139,0.109,-8.154,0.0356,129.618,0.229,4,7,1,spotify:track:7JogKto8cNNBqz3dZERgDh,2012,2016,beta
+Wonderland,<I°_°I>,Caravan Palace,2015-10-16,190554,45,0.314,0.772,0.817,0.00338,0.0761,-4.688,0.265,104.04,0.523,4,6,0,spotify:track:7pgAiDWreHX7CEqwlPBBpK,2015,2016,beta
+In My Life,In My Life,Kevin Kern,1999-08-24,210106,0,0.987,0.461,0.0385,0.885,0.118,-19.648,0.0509,132.833,0.181,3,5,1,spotify:track:4XMmOux7TZ0bNGVSva2P8Z,1999,2016,beta
+Minor Swing,The Best Of Django Reinhardt,Django Reinhardt,1996-03-07,196626,34,0.933,0.58,0.47,0.743,0.098,-8.787,0.168,202.376,0.738,4,9,0,spotify:track:3qPQxLOF4cAi7rvHUn4cqE,1996,2016,beta
+Born To Die - Woodkid & The Shoes Remix,Born To Die,Lana Del Rey,2012-01-30,241040,0,0.138,0.33,0.663,0.302,0.45,-8.821,0.0776,92.982,0.223,4,4,0,spotify:track:7vCYJuJsycDYpCr8nPDahv,2012,2016,beta
+Into Wonderland,Platinum (Deluxe Edition),Mike Oldfield,2012-01-01,226160,0,0.625,0.531,0.336,0.0,0.576,-14.476,0.038,78.562,0.421,4,4,1,spotify:track:2T7IQ3180N99wdkoCZ6xLO,2012,2016,beta
+Invincible,Invincible,Big Wild,2016-09-30,216795,0,0.25,0.31,0.712,5.62e-05,0.231,-4.511,0.0825,82.71,0.167,4,7,0,spotify:track:0MvmVAHh2afIWYGIBjrna2,2016,2016,beta
+Dance of the Searching Souls,In My Life,Kevin Kern,1999-08-24,266426,0,0.829,0.657,0.1,0.914,0.13,-18.462,0.0333,115.976,0.151,3,5,1,spotify:track:4f8Ep0M7QCFk0gCsFg7QKT,1999,2016,beta
+"Concerto for Clarinet and String Orchestra, Op. 31: I. Allegro vigoroso",Finzi: Clarinet Concerto & Cello Concerto,Gerald Finzi,2007-03-01,531840,0,0.88,0.0855,0.117,0.656,0.078,-17.74,0.0442,56.775,0.0571,3,8,1,spotify:track:1OohDg34okCT44dpJRPjYa,2007,2016,beta
+Story O' my LF,The White Pixel Ape (Smoking Isolate to Keep in Shape),Shaka Ponk,2014-03-17,294386,0,0.0109,0.798,0.838,0.000844,0.32,-3.22,0.029,109.997,0.966,4,1,0,spotify:track:4FBwuuMiLsi9d7UjEPoBpO,2014,2016,beta
+Auto Scene Version 2 - Zabriskie Point Remix,The Early Years 1967-72 Cre/ation,Pink Floyd,2016-11-12,74373,15,0.348,0.506,0.382,0.912,0.0777,-15.689,0.0312,94.906,0.957,4,7,1,spotify:track:0SoEDREX0B54b96T73QEMP,2016,2016,beta
+Midnight,Remote,Swingrowers,2014,223425,0,0.38,0.731,0.921,1.78e-05,0.182,-4.695,0.0849,98.976,0.633,4,8,1,spotify:track:5vhQk9psRZgpoIOagqHoSW,2014,2016,beta
+"Concerto for Cello and Orchestra, Op. 40: II. Andante quieto",Finzi: Clarinet Concerto & Cello Concerto,Gerald Finzi,2007-03-01,878000,0,0.952,0.104,0.0549,0.86,0.246,-25.734,0.0404,83.027,0.036,4,2,1,spotify:track:0oYlV6OaCU6kUjEtpdMnP3,2007,2016,beta
+Closer,Closer,The Chainsmokers,2016-07-29,244960,86,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,95.01,0.661,4,8,1,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,2016,2016,beta
+Lone Digger,<I°_°I>,Caravan Palace,2015-10-16,229804,54,0.592,0.767,0.938,0.0193,0.118,-4.433,0.0505,123.992,0.868,4,5,0,spotify:track:750jVPZnBVLItCUxaRR5iC,2015,2016,beta
+Shadows (feat. Josh Rubin),Shadows (feat. Josh Rubin),Big Wild,2014-09-15,264881,28,0.0575,0.488,0.662,3.5e-06,0.193,-8.249,0.0592,87.004,0.374,4,10,0,spotify:track:1648dovyzRhWrv5aUCeoSS,2014,2016,beta
+Boja,Maquina enfernala,Lou Seriol,2012-03-05,188853,2,0.307,0.692,0.815,8.51e-06,0.0972,-4.539,0.0353,94.02,0.569,4,9,0,spotify:track:6r9UgUD7k7HmUjggbiv9Er,2012,2016,beta
+Aftergold - Edit,Aftergold,Big Wild,2016-07-29,229983,30,0.178,0.648,0.674,0.166,0.204,-8.32,0.0396,94.539,0.221,4,1,0,spotify:track:06Z4KrQAiE8hQBOdwBuG0j,2016,2016,beta
+Booty Swing,"The Princess, Pt. Two",Parov Stelar,2012-04-20,197506,63,0.26,0.85,0.669,0.274,0.103,-5.46,0.047,112.966,0.914,4,0,1,spotify:track:3sMleqdCDalZ6xsAQe8xuY,2012,2016,beta
+Mighty (feat. JFTH),<I°_°I>,Caravan Palace,2015-10-16,201840,31,0.0911,0.762,0.941,0.16,0.0599,-4.282,0.0494,123.955,0.846,4,9,0,spotify:track:67tL64Em9W5iXzA2P0GkPE,2015,2016,beta
+"Giuseppe Tornatore Suite: Main Theme from ""A Pure Formality""",Yo-Yo Ma Plays Ennio Morricone,Ennio Morricone,2004,228506,17,0.96,0.145,0.235,0.905,0.0975,-14.599,0.0389,86.514,0.0392,4,1,0,spotify:track:3gmU8lcvtlJhaBJ4Ej3t5V,2004,2016,beta
+River,Our Version Of Events (Deluxe Edition),Emeli Sandé,2013-01-01,279453,24,0.894,0.523,0.421,0.0,0.104,-6.62,0.0444,99.593,0.186,4,0,1,spotify:track:7aje6tJyTp4KLf6s5s3htz,2013,2016,beta
+Brave monde,Bramadís,La Talvera,2007-06-01,92506,0,0.786,0.336,0.0976,0.0,0.377,-16.37,0.042,82.766,0.14,3,5,1,spotify:track:19SAPqT1taJ1D5CZlRxlLJ,2007,2016,beta
+Catgroove,The Art Of Sampling (Deluxe Version),Parov Stelar,2013-01-01,236480,47,0.0239,0.822,0.876,0.797,0.0442,-7.661,0.0662,127.99,0.582,4,6,1,spotify:track:7CpcZceLngQ4UWS3XAJfsE,2013,2016,beta
+The Lurking Fear - Part 1,HP Lovecraft - The Short Stories - Volume 1,H.P. Lovecraft,2011-07-01,1921683,12,0.782,0.709,0.219,0.0,0.0898,-21.231,0.945,83.123,0.58,3,2,1,spotify:track:74WnJ5q7FiSzTfusZFpvyr,2011,2016,beta
+Punkadiddle,Platinum (Deluxe Edition),Mike Oldfield,2012-01-01,346040,0,0.385,0.705,0.601,0.772,0.346,-10.37,0.0488,146.231,0.663,4,4,1,spotify:track:50khLhIugwtkGAGfrbwxkf,2012,2016,beta
+"Ignorant boy, beautiful girl (Namanama)",Citadel Band,Loney Dear,2004-08-06,238280,0,0.56,0.507,0.763,0.928,0.229,-15.501,0.0761,93.034,0.493,4,11,1,spotify:track:30xnjJZqUb4RNTZTi62SXY,2004,2016,beta
+Breathing Underwater,Long Live The Angels (Deluxe),Emeli Sandé,2016-11-11,262880,0,0.0902,0.258,0.551,3.91e-05,0.446,-8.579,0.0537,80.119,0.24,4,3,1,spotify:track:6xawkwD8h3zCmBZ9YJaR4v,2016,2016,beta
+On Top Of The World,Night Visions (Deluxe),Imagine Dragons,2014-09-29,189840,29,0.0893,0.635,0.926,4.53e-06,0.0928,-5.589,0.151,100.048,0.761,4,0,1,spotify:track:0R3mkRW66QDuy9VyCemMTz,2014,2016,beta
+Mr. E's Beautiful Blues,Meet The EELS: Essential EELS 1996-2006 Vol. 1,Eels,2008-01-15,239240,0,0.178,0.662,0.682,0.000232,0.335,-7.833,0.0285,114.067,0.624,4,7,1,spotify:track:4Jo4w96boe7PArUYEQSyiD,2008,2016,beta
+Wide Open Spaces,Wide Open Spaces,The Chicks,1998-01-27,223832,71,0.577,0.563,0.544,0.0,0.128,-6.102,0.0306,179.351,0.602,4,4,1,spotify:track:6cjwec9ii5uLK7CDfPBYt1,1998,2016,beta
+Sophie,Without/Within,Bear's Den,2013-10-28,304493,0,0.772,0.59,0.292,0.00424,0.162,-12.826,0.0325,143.986,0.34,4,11,0,spotify:track:42mIYumsqOjiAdj2DZFkeF,2013,2016,beta
+Easy Silence,The Essential The Chicks,The Chicks,2010,242746,30,0.628,0.594,0.3,0.0,0.102,-11.792,0.0246,87.113,0.261,4,2,1,spotify:track:00yPOgKVyqp9bYEq8FQb9q,2010,2016,beta
+The War,All We've Known,Haux,2016-07-08,237666,0,0.737,0.322,0.292,0.0801,0.301,-14.68,0.0983,78.973,0.151,1,1,1,spotify:track:73sqxJqPeu0a6JrGyh3NLK,2016,2016,beta
+Hang on Little Tomato,Hang on Little Tomato,Pink Martini,2006,196893,0,0.946,0.519,0.2,2.14e-06,0.107,-10.973,0.0434,92.89,0.537,4,5,1,spotify:track:1bQbIrTgmDA9EHmiwfMSsj,2006,2016,beta
+Land of All,Desierto (Original Motion Picture Score),Woodkid,2016-04-08,316840,0,0.308,0.336,0.391,0.564,0.104,-9.099,0.0318,126.973,0.0759,4,2,1,spotify:track:482a8NzXrxmhYuA0U4szh3,2016,2016,beta
+Ordinary - Sam Holiday Remix,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,266626,22,0.000698,0.74,0.659,0.728,0.284,-6.988,0.0394,119.001,0.857,4,1,0,spotify:track:0MXWraA0zgko6aTHWsqGko,2016,2016,beta
+When You Wish Upon A Star,Royal Albert Hall,Eels,2015-04-14,115600,0,0.939,0.402,0.101,4.33e-05,0.688,-21.07,0.0823,113.155,0.219,4,10,1,spotify:track:5ncGeIwv4RiQOrq0Ws4ygd,2015,2016,beta
+Souljacker Part I,Meet The EELS: Essential EELS 1996-2006 Vol. 1,Eels,2008-01-15,195626,0,0.00879,0.577,0.683,0.302,0.113,-5.601,0.0522,100.892,0.145,4,1,0,spotify:track:5BkLKoARTfiJgl6waTOKn4,2008,2016,beta
+"Mazurka in A Minor, Op. 17 No. 4",Chopin: Works for Piano,Frédéric Chopin,2012-09-14,294373,41,0.991,0.157,0.00296,0.852,0.0866,-42.117,0.0405,172.639,0.0393,4,9,0,spotify:track:6xpxh32vZI09GIVUc9j801,2012,2016,beta
+Stay (feat. Maty Noyes),Cloud Nine,Kygo,2016-05-13,239465,68,0.0444,0.648,0.736,0.000137,0.171,-7.948,0.0385,103.027,0.378,4,8,1,spotify:track:2FiSTH0GYpIioUgjfzMIja,2016,2016,beta
+Mountains,Our Version Of Events (Deluxe Edition),Emeli Sandé,2013-01-01,250880,32,0.133,0.532,0.391,0.00577,0.13,-10.007,0.0256,94.0,0.301,4,1,0,spotify:track:22t2KoYniACfVadpIHPjeW,2013,2016,beta
+re:stacks,"For Emma, Forever Ago",Bon Iver,2008-05-12,401426,0,0.979,0.682,0.0822,0.372,0.125,-22.893,0.0414,125.09,0.295,4,2,1,spotify:track:6EhAIEtuOABhRJ17NjDVjL,2008,2016,beta
+Where Paths Meet,Always Near – A Romantic Collection,Kevin Kern,2014-09-16,314693,0,0.989,0.557,0.0927,0.916,0.112,-19.386,0.0314,76.069,0.277,4,10,1,spotify:track:62y6pnkJ1RkIYH22EIOZKc,2014,2016,beta
+Finale,The Studio Albums: 1992-2003,Mike Oldfield,2014-10-20,512946,8,0.617,0.57,0.347,0.848,0.117,-14.566,0.0292,103.317,0.0465,4,9,1,spotify:track:5iZ7FRnXKBJeOntwI8hfYt,2014,2016,beta
+That Look You Give That Guy,Hombre Lobo,Eels,2009-06-02,255346,0,0.592,0.777,0.512,0.0135,0.0962,-9.238,0.0266,94.417,0.5,4,5,1,spotify:track:1Bz9S9TweSbkFeXM5NdtOC,2009,2016,beta
+Low Rising,Strict Joy (Deluxe Edition),The Swell Season,2009-10-27,287186,49,0.00959,0.519,0.515,0.0873,0.108,-8.19,0.0358,147.705,0.4,4,9,1,spotify:track:3VPp3qrfCioIbPmp7c7Con,2009,2016,beta
+Astro Bounce,ON AND ON - 1Ø1,Various Artists,2015-04-13,199504,0,0.0017,0.739,0.91,0.0727,0.36,-6.576,0.0826,123.039,0.206,4,10,0,spotify:track:053sSw4Mo4qeqY7Nb72QgY,2015,2016,beta
+We Should Waltz,When I Remember,Kevin Kern,2016-09-09,367160,40,0.995,0.444,0.00904,0.944,0.0982,-23.021,0.0392,80.958,0.192,4,4,1,spotify:track:3gkN0sXMHvWhhTt5iRDsBn,2016,2016,beta
+Lifetime,Our Version Of Events (Deluxe Edition),Emeli Sandé,2013-01-01,173560,19,0.11,0.683,0.752,0.00488,0.168,-4.821,0.0518,96.989,0.74,4,1,0,spotify:track:2YedK9ztE2IDihP9ZMD4iy,2013,2016,beta
+Maybe,Our Version Of Events (Special Edition),Emeli Sandé,2012-01-01,227266,24,0.292,0.33,0.473,2.61e-06,0.0945,-7.552,0.0363,78.944,0.252,4,5,1,spotify:track:3Kbpnt9Ins5JYRVUsRQ7uh,2012,2016,beta
+Storm,Dream a Little Dream,Pink Martini,2014-03-03,176546,0,0.935,0.298,0.129,2.06e-06,0.105,-12.764,0.0354,62.86,0.195,4,7,1,spotify:track:7rl4PWAhblVseNQGOp1EbB,2014,2016,beta
+Attaboy,The Goat Rodeo Sessions,Various Artists,2011-10-21,342653,0,0.834,0.403,0.387,0.699,0.181,-11.312,0.0397,126.283,0.588,4,9,1,spotify:track:6ghXD44kT8wqM1hty9NGgO,2011,2016,beta
+Jubilee,Jubilee,Big Wild,2015-01-01,256261,29,0.0219,0.599,0.719,0.863,0.33,-6.192,0.0364,140.012,0.15,4,10,1,spotify:track:0wd69Nr6yyACA8WdgKlYL1,2015,2016,beta
+Joli garçon,Joli garçon,Pink Martini,2016-09-16,198560,0,0.627,0.503,0.584,8.69e-06,0.0949,-6.094,0.0462,126.756,0.481,4,0,1,spotify:track:0MzWBXW0EyWIBpMHiLZcJ4,2016,2016,beta
+Brooklyn,Iron EP,Woodkid,2011-03-28,211487,0,0.953,0.553,0.222,0.000349,0.101,-13.455,0.0321,153.81,0.143,4,1,0,spotify:track:34ySHR2z0MZqLH5QIMHT9A,2011,2016,beta
+Daddy,Our Version Of Events (Special Edition),Emeli Sandé,2012-01-01,188453,32,0.373,0.619,0.744,0.0,0.104,-5.072,0.0472,114.919,0.362,4,1,1,spotify:track:2Wi4fV0hQZg9mx0H10bjip,2012,2016,beta
+Homegrown,All We've Known,Haux,2016-07-08,242333,0,0.757,0.656,0.334,0.389,0.192,-13.682,0.0414,120.038,0.22,4,9,1,spotify:track:3tqdEkQJe3YIkrBrnTFkce,2016,2016,beta
+Lazy Place,Caravan Palace,Caravan Palace,2008-10-20,237200,34,0.213,0.617,0.561,0.762,0.171,-7.471,0.0307,128.011,0.391,4,4,0,spotify:track:4aJgRbquxdUaU0xEIMQpvs,2008,2016,beta
+Sundial Dreams,More Than Words,Kevin Kern,2002-09-03,285813,0,0.982,0.374,0.246,0.868,0.127,-13.824,0.031,200.414,0.443,4,6,1,spotify:track:4QEmp8pxqIuaBJZiDqRpA5,2002,2016,beta
+Part One - Airborn,Platinum (Deluxe Edition),Mike Oldfield,2012-01-01,306253,0,0.343,0.62,0.292,0.108,0.671,-14.185,0.0653,170.665,0.844,4,9,0,spotify:track:4XemlyQE4f9LqnqFbP5asf,2012,2016,beta
+Romance for Cello and Piano,Songs from the Arc of Life,Yo-Yo Ma,2015-09-18,385186,34,0.987,0.223,0.0299,0.947,0.0711,-27.344,0.0493,115.163,0.0468,3,11,1,spotify:track:6ufaxWhOW87EXsKh5TSxMp,2015,2016,beta
+Cold Water (feat. Justin Bieber & MØ),Cold Water (feat. Justin Bieber & MØ),Major Lazer,2016-07-22,185351,0,0.0736,0.608,0.798,0.0,0.156,-5.092,0.0432,92.943,0.501,4,6,0,spotify:track:6DNtNfH8hXkqOX1sjqmI7p,2016,2016,beta
+"Papillon, Op. 77",Songs from the Arc of Life,Yo-Yo Ma,2015-09-18,168693,33,0.987,0.218,0.0666,0.953,0.0918,-27.06,0.0468,84.148,0.323,4,9,1,spotify:track:1mWs6bhWlFUCfEkUICAeUp,2015,2016,beta
+Beneath Your Beautiful (feat. Emeli Sandé),Electronic Earth (Expanded Edition),Labrinth,2012-04-02,271813,71,0.227,0.561,0.522,0.0,0.104,-5.857,0.0318,83.962,0.238,4,2,1,spotify:track:2EcsgXlxz99UMDSPg5T8RF,2012,2016,beta
+I Like Birds,Royal Albert Hall,Eels,2015-04-14,153160,0,0.000306,0.465,0.988,0.00125,0.875,-6.407,0.0842,91.923,0.799,4,10,1,spotify:track:2eI7Nw3mE90G4s1RM38EzK,2015,2016,beta
+Joker And The Thief,Wolfmother,Wolfmother,2006-01-01,280466,0,0.0452,0.264,0.78,0.0222,0.376,-2.741,0.0517,155.376,0.456,4,0,1,spotify:track:4juq76lIar8YWOLpYMXUAG,2006,2016,beta
+Landslide,The Essential The Chicks,The Chicks,2010,228480,52,0.569,0.574,0.4,6.19e-06,0.164,-8.387,0.0273,146.018,0.512,4,2,1,spotify:track:65nCVhtlWYUzNvcM1MYp4l,2010,2016,beta
+Carry Me (feat. Julia Michaels),Cloud Nine,Kygo,2016-05-13,233133,59,0.486,0.621,0.551,0.0,0.115,-7.89,0.0474,105.052,0.222,4,7,1,spotify:track:3FZEv9JddkjHNFiMVxJYpS,2016,2016,beta
+La Brisa,La Brisa,Big Wild,2014-01-02,196056,41,0.0109,0.611,0.631,0.591,0.272,-9.68,0.0409,162.028,0.283,4,9,1,spotify:track:1bayldynRCc4z9ywAmV8uo,2014,2016,beta
+Firestone,Cloud Nine,Kygo,2016-05-13,271640,79,0.393,0.704,0.634,3.17e-05,0.0952,-7.374,0.0428,113.927,0.411,4,11,0,spotify:track:1I8tHoNBFTuoJAlh4hfVVE,2016,2016,beta
+Sister,All We've Known,Haux,2016-07-08,133600,0,0.917,0.453,0.0287,0.000113,0.101,-22.37,0.136,187.229,0.473,3,8,1,spotify:track:4feqgwxaQUbk7CuD2nbTGP,2016,2016,beta
+"Suite Bergamasque, L. 75: III. Clair de lune",Motherland,Khatia Buniatishvili,2014-05-19,333706,50,0.993,0.278,0.00448,0.926,0.0579,-32.897,0.0528,70.871,0.0391,1,1,1,spotify:track:1p6E7j1YIlrJ82hOoG1OM4,2014,2016,beta
+"Waltz in C-sharp minor, Op. 64 No. 2",Chopin: Works for Piano,Frédéric Chopin,2012-09-14,199773,57,0.991,0.191,0.0157,0.916,0.134,-36.252,0.0411,72.701,0.0869,4,1,0,spotify:track:1lOVilzLQuYY2fnFrQ76DK,2012,2016,beta
+I Need Some Sleep,Meet The EELS: Essential EELS 1996-2006 Vol. 1,Eels,2008-01-15,148186,0,0.869,0.664,0.307,0.458,0.107,-10.14,0.0325,128.029,0.193,4,0,1,spotify:track:0KEjnHsuzVMkQZUNaCMElT,2008,2016,beta
+Ayahuasca at Night,Ayahuasca at Night,Big Wild,2013-12-15,202161,0,0.0416,0.888,0.567,0.0773,0.384,-7.03,0.32,152.025,0.153,4,1,0,spotify:track:2swc1b0glFpb7JqS6KIXkj,2013,2016,beta
+Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Lana Del Rey,2013-02-01,214912,0,0.0138,0.567,0.813,9.03e-06,0.125,-5.744,0.0581,126.044,0.114,4,1,0,spotify:track:6D5pfooPP6hi99RaXjkDsP,2013,2016,beta
+Dragons,Caravan Palace,Caravan Palace,2008-10-20,245600,40,0.0101,0.711,0.906,0.593,0.182,-5.705,0.0825,124.038,0.674,4,4,0,spotify:track:6JMZJUyjquUbx3X7tRqMLt,2008,2016,beta
+Star Scat,Caravan Palace,Caravan Palace,2008-10-20,230800,35,0.042,0.633,0.816,0.05,0.387,-5.634,0.0571,77.998,0.725,4,9,1,spotify:track:3bsIMnbRKLXjEsme7Be62r,2008,2016,beta
+Sympathique,A Retrospective,Pink Martini,2011,167613,0,0.758,0.617,0.346,0.0,0.103,-10.963,0.0461,129.745,0.744,4,5,1,spotify:track:4RNFD7JO1AttiI4D2Bp4JJ,2011,2016,beta
+Selah,Long Live The Angels (Deluxe),Emeli Sandé,2016-11-11,149120,0,0.95,0.368,0.308,6.62e-06,0.122,-12.584,0.0518,59.453,0.215,4,6,1,spotify:track:50YcGUIF5yc8L1kAzhCZMH,2016,2016,beta
+"Mountains - Live From The Royal Albert Hall,United Kingdom/2012",Live At The Royal Albert Hall,Emeli Sandé,2013-01-01,342053,18,0.127,0.35,0.612,3.39e-06,0.62,-10.826,0.0517,93.897,0.353,4,1,0,spotify:track:6nRchRcWqforSHYoXrMmmy,2013,2016,beta
+Cowboy Take Me Away,Fly,The Chicks,1999-08-27,287266,73,0.365,0.467,0.622,0.00527,0.0982,-7.255,0.031,164.418,0.455,4,6,1,spotify:track:3rXCZRMiMZp0feGcYXpwYX,1999,2016,beta
+Aftergold,Aftergold,Big Wild,2016-07-29,191007,34,0.0104,0.602,0.901,0.00677,0.0799,-3.842,0.0854,94.57,0.362,4,8,0,spotify:track:25qstCHMJuBEoRvj7vfRG2,2016,2016,beta
+Sundial Dreams,Enchanted Piano,Kevin Kern,2011-01-17,246493,0,0.995,0.55,0.0693,0.916,0.112,-23.859,0.0545,104.482,0.565,4,6,1,spotify:track:64CGzpUtMTShUiN6YfVRW1,2011,2016,beta
+Les jours tristes - Instrumental,Le fabuleux destin d'Amélie Poulain (Bande originale de film),Yann Tiersen,2001-04-23,183466,0,0.807,0.734,0.339,0.186,0.0801,-8.123,0.0325,100.104,0.952,3,7,0,spotify:track:26usmxPwvxV8Gd7sAbR323,2001,2016,beta
+Venice Venture,Venice Venture,Big Wild,2014-07-15,220865,53,0.0954,0.744,0.756,0.698,0.893,-7.72,0.13,160.981,0.364,4,9,1,spotify:track:4IBwgoDpNG2p7EouVtFw0E,2014,2016,beta
+Arrival,QE2 (Deluxe Edition),Mike Oldfield,2012-01-01,167506,0,0.00262,0.462,0.605,0.802,0.133,-9.346,0.0298,117.612,0.731,4,1,1,spotify:track:7boZItFLiqJDNU2b7IGx8f,2012,2016,beta
+Tune from the Film by Lana Gogoberidze: When Almonds Blossomed,Motherland,Khatia Buniatishvili,2014-05-19,128013,48,0.993,0.246,0.00592,0.898,0.067,-38.92,0.0466,65.342,0.0696,5,2,0,spotify:track:0vqNv43ZdOMGwq6ZZiRBEH,2014,2016,beta
+Branlon,Bramadís,La Talvera,2007-06-01,186586,0,0.019,0.289,0.726,0.757,0.724,-7.404,0.0343,119.941,0.804,4,10,0,spotify:track:4udXEsD6jh5tBFm8P9hUgf,2007,2016,beta
+Lo meu país,Bramadís,La Talvera,2007-06-01,248466,14,0.924,0.828,0.325,0.0,0.104,-12.085,0.0913,125.922,0.752,4,9,1,spotify:track:6Kw7dmfWtu8JzxUq4WcumJ,2007,2016,beta
+"Liebestraum No. 3 in A-Flat Major, S. 541/3",Liszt: Piano Works,Franz Liszt,2011-05-20,328093,34,0.991,0.203,0.0174,0.908,0.113,-26.688,0.0412,63.933,0.0348,4,8,1,spotify:track:5CDCkuiTQhiXLLVILc4WCH,2011,2016,beta
+Infinity,xx,The xx,2009-08-16,313386,0,0.812,0.626,0.267,0.882,0.111,-13.962,0.0301,109.191,0.142,4,9,1,spotify:track:1Dl44SWywsIDdz1GgIp9gG,2009,2016,beta
+The Enchanted Garden,Enchanted Piano,Kevin Kern,2011-01-17,307760,0,0.994,0.425,0.049,0.943,0.105,-21.172,0.0671,91.676,0.258,4,1,1,spotify:track:7F59DssOzbsX049QudP258,2011,2016,beta
+"Suite in B-Flat Major, HWV 434: IV. Menuet",Motherland,Khatia Buniatishvili,2014-05-19,230893,51,0.994,0.406,0.00645,0.935,0.0895,-32.739,0.0453,59.156,0.111,4,7,0,spotify:track:6jZj45D2jdR6fMEb58TlSc,2014,2016,beta
+Not Ready to Make Nice,The Essential The Chicks,The Chicks,2010,238226,45,0.111,0.448,0.508,8.09e-05,0.113,-6.153,0.0276,83.241,0.236,4,6,1,spotify:track:5dPfweC4kFNvS45Hke0FBF,2010,2016,beta
+On Hold,On Hold,The xx,2016-11-10,224133,0,0.0571,0.725,0.669,0.159,0.107,-6.582,0.0351,125.046,0.338,4,0,1,spotify:track:4w2iAP3X4FkpPb5kjRdIDx,2016,2016,beta
